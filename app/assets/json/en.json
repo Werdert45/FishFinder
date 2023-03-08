@@ -1,0 +1,55 @@
+{
+  "authentication": {
+    "login": "Login",
+    "register_now": "Register now",
+    "email": "Email",
+    "password": "Password",
+    "forgot_password": "Forgot Password ?",
+    "no_account": "Don't have an account ?",
+    "register": "Register",
+    "back": "Back",
+    "name": "Name"
+  },
+  "home_page": {
+    "welcome": "Welcome",
+    "friends": "My Friends",
+    "history": "My History",
+    "fishdex_title": "Check out catches in your FishDex",
+    "fishdex_button": "Check now",
+    "recent_catches": "Recent Catches",
+    "friends_catches": "Friends' Catches",
+    "achievements": "Achievements",
+    "achievement_1": "5 Species",
+    "achievement_2": "10 Species",
+    "achievement_3": "20 Species",
+    "achievement_4": "All Species",
+    "achievement_5": "5 Catches",
+    "achievement_6": "10 Catches",
+    "achievement_7": "50 Catches",
+    "achievement_8": "100 Catches",
+    "loading": "Loading ...",
+    "see_all": "See All",
+    "no_catches_friends": "No catches of Friends found, add friends here",
+    "no_catches": "No catches yet, scan to add one"
+  },
+  "settings_page": {
+    "title": "Settings",
+    "account": "ACCOUNT",
+    "language": "LANGUAGE",
+    "upgrade_title": "Upgrade to Premium Membership",
+    "upgrade_hint_1": "- Sync with server",
+    "upgrade_hint_2": "- See friends' catches",
+    "upgrade_button": "Upgrade Now $2.99 ",
+    "logout": "Logout from the App",
+    "language_select": "Please select a language"
+  },
+  "fishdex": {
+    "title": "Fishdex",
+    "stats": "Stats",
+    "latest_catch": "Latest Catch:",
+    "most_frequent": "Most Frequent Catch:",
+    "times": " time(s)",
+    "loading": "Loading ...",
+    "no_catches": "No catches yet"
+  }
+}

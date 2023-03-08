@@ -1,0 +1,55 @@
+{
+  "authentication": {
+    "login": "Login",
+    "register_now": "Registreer nu",
+    "email": "Email",
+    "password": "Wachtwoord",
+    "forgot_password": "Wachtwoord Vergeten ?",
+    "no_account": "Nog geen account ?",
+    "register": "Registreer",
+    "back": "Terug",
+    "name": "Naam"
+  },
+  "home_page": {
+    "welcome": "Welkom",
+    "friends": "Mijn Vrienden",
+    "history": "Geschiedenis",
+    "fishdex_title": "Vindt uw vangsten in de FishDex",
+    "fishdex_button": "Vindt nu",
+    "recent_catches": "Recente Vangsten",
+    "friends_catches": "Vangsten van Vrienden",
+    "achievements": "Prestaties",
+    "achievement_1": "5 Soorten",
+    "achievement_2": "10 Soorten",
+    "achievement_3": "20 Soorten",
+    "achievement_4": "Alle Soorten",
+    "achievement_5": "5 Vangsten",
+    "achievement_6": "10 Vangsten",
+    "achievement_7": "50 Vangsten",
+    "achievement_8": "100 Vangsten",
+    "loading": "Laden ...",
+    "see_all": "Zie meer",
+    "no_catches_friends": "Geen vangsten van vrienden gevonden, voeg vrienden toe",
+    "no_catches": "Geen vangsten gevonden, doe een scan"
+  },
+  "settings_page": {
+    "title": "Instellingen",
+    "account": "ACCOUNT",
+    "language": "TAAL",
+    "upgrade_title": "Upgrade naar Premium Membership",
+    "upgrade_hint_1": "- Synchroniseer met server",
+    "upgrade_hint_2": "- Zie vangsten van vrienden",
+    "upgrade_button": "Upgrade nu $2.99 ",
+    "logout": "Uitloggen van de app",
+    "language_select": "Kies alstublieft een taal"
+  },
+  "fishdex": {
+    "title": "Fishdex",
+    "stats": "Statistiek",
+    "latest_catch": "Laatste Vangst:",
+    "most_frequent": "Meest gevangen:",
+    "times": " keer",
+    "loading": "Laden ...",
+    "no_catches": "Nog geen vangsten"
+  }
+}
