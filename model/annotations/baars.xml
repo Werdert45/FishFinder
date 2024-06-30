@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>2</id>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-06-30 13:20:08.894302+00:00</created>
+      <updated>2024-06-30 13:37:09.838127+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>2</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/2</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-06-30 13:40:13.572365+00:00</dumped>
+  </meta>
+  <image id="0" name="baars1.jpg" width="1280" height="720">
+    <points label="fish" source="manual" occluded="0" points="628.76,420.06" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="baars10.jpg" width="430" height="304">
+    <points label="fish" source="manual" occluded="0" points="244.64,185.43" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="baars11.jpg" width="550" height="455">
+    <points label="fish" source="manual" occluded="0" points="254.93,252.55" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="baars12.jpg" width="600" height="450">
+    <points label="fish" source="manual" occluded="0" points="284.56,270.59" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="baars13.jpg" width="600" height="450">
+    <points label="fish" source="manual" occluded="0" points="215.93,332.84" z_order="0">
+    </points>
+    <points label="fish" source="manual" occluded="0" points="410.05,220.10" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="baars14.jpg" width="520" height="381">
+    <points label="fish" source="manual" occluded="0" points="287.61,210.20" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="baars15.jpg" width="750" height="562">
+    <points label="fish" source="manual" occluded="0" points="405.93,294.45" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="baars16.jpg" width="520" height="381">
+    <points label="fish" source="manual" occluded="0" points="284.70,203.56" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="baars17.jpg" width="2031" height="1464">
+    <points label="fish" source="manual" occluded="0" points="934.16,857.93" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="baars18.jpg" width="4032" height="3024">
+    <points label="fish" source="manual" occluded="0" points="2198.71,2015.88" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="baars19.jpg" width="750" height="502">
+    <points label="fish" source="manual" occluded="0" points="311.86,221.46" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="baars2.jpg" width="622" height="467">
+    <points label="fish" source="manual" occluded="0" points="339.77,260.20" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="baars20.jpg" width="996" height="747">
+    <points label="fish" source="manual" occluded="0" points="656.27,533.39" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="baars21.jpg" width="500" height="333">
+    <points label="fish" source="manual" occluded="0" points="307.12,198.26" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="baars22.jpg" width="625" height="475">
+    <points label="fish" source="manual" occluded="0" points="290.27,262.59" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="baars23.jpg" width="1280" height="720">
+    <points label="fish" source="manual" occluded="0" points="667.28,443.35" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="baars24.jpg" width="640" height="480">
+    <points label="fish" source="manual" occluded="0" points="332.80,237.90" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="baars25.jpg" width="400" height="260">
+    <points label="fish" source="manual" occluded="0" points="206.64,153.23" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="baars26.jpg" width="600" height="400">
+    <points label="fish" source="manual" occluded="0" points="259.28,248.39" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="baars27.png" width="514" height="268">
+    <points label="fish" source="manual" occluded="0" points="247.82,155.23" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="baars28.png" width="569" height="320">
+    <points label="fish" source="manual" occluded="0" points="320.32,161.21" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="baars29.png" width="529" height="325">
+    <points label="fish" source="manual" occluded="0" points="304.48,157.88" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="baars3.jpg" width="750" height="499">
+    <points label="fish" source="manual" occluded="0" points="411.69,278.03" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="baars30.png" width="422" height="299">
+    <points label="fish" source="manual" occluded="0" points="218.34,142.16" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="baars31.png" width="441" height="274">
+    <points label="fish" source="manual" occluded="0" points="258.46,131.13" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="baars32.png" width="528" height="278">
+    <points label="fish" source="manual" occluded="0" points="294.11,139.73" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="baars33.png" width="517" height="301">
+    <points label="fish" source="manual" occluded="0" points="291.43,152.50" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="baars34.png" width="393" height="293">
+    <points label="fish" source="manual" occluded="0" points="202.65,161.79" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="baars35.png" width="469" height="272">
+    <points label="fish" source="manual" occluded="0" points="249.92,120.90" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="baars36.png" width="349" height="228">
+    <points label="fish" source="manual" occluded="0" points="167.54,116.50" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="baars37.png" width="497" height="325">
+    <points label="fish" source="manual" occluded="0" points="278.60,170.84" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="baars38.png" width="424" height="242">
+    <points label="fish" source="manual" occluded="0" points="220.44,127.81" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="baars39.png" width="494" height="276">
+    <points label="fish" source="manual" occluded="0" points="215.38,95.49" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="baars4.jpg" width="450" height="367">
+    <points label="fish" source="manual" occluded="0" points="214.82,278.46" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="baars40.png" width="510" height="317">
+    <points label="fish" source="manual" occluded="0" points="228.05,147.60" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="baars41.png" width="535" height="269">
+    <points label="fish" source="manual" occluded="0" points="312.05,127.93" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="baars42.png" width="538" height="307">
+    <points label="fish" source="manual" occluded="0" points="298.57,164.99" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="baars43.png" width="486" height="343">
+    <points label="fish" source="manual" occluded="0" points="263.74,151.50" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="baars44.png" width="403" height="261">
+    <points label="fish" source="manual" occluded="0" points="217.70,138.89" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="baars45.png" width="425" height="204">
+    <points label="fish" source="manual" occluded="0" points="196.43,108.25" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="baars46.png" width="523" height="366">
+    <points label="fish" source="manual" occluded="0" points="285.01,139.93" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="baars47.png" width="570" height="316">
+    <points label="fish" source="manual" occluded="0" points="275.63,182.34" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="baars48.png" width="475" height="318">
+    <points label="fish" source="manual" occluded="0" points="251.02,145.85" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="baars49.png" width="574" height="266">
+    <points label="fish" source="manual" occluded="0" points="280.76,129.77" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="baars5.jpg" width="550" height="413">
+    <points label="fish" source="manual" occluded="0" points="291.87,250.34" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="baars6.jpg" width="790" height="529">
+    <points label="fish" source="manual" occluded="0" points="451.18,286.08" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="baars7.jpg" width="4032" height="3024">
+    <points label="fish" source="manual" occluded="0" points="1974.71,1396.59" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="baars8.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="397.71,359.48" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="baars9.jpg" width="1024" height="725">
+    <points label="fish" source="manual" occluded="0" points="473.70,428.45" z_order="0">
+    </points>
+  </image>
+</annotations>
