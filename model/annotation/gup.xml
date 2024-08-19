@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>10</id>
+      <name>gup</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 09:41:24.154504+00:00</created>
+      <updated>2024-07-01 09:42:51.296515+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>10</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/10</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:30:57.841835+00:00</dumped>
+  </meta>
+  <image id="0" name="gup1.png" width="469" height="261">
+    <points label="fish" source="manual" occluded="0" points="202.49,114.40" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="gup10.png" width="261" height="469">
+    <points label="fish" source="manual" occluded="0" points="105.23,259.01" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="gup11.png" width="209" height="391">
+    <points label="fish" source="manual" occluded="0" points="82.57,242.34" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="gup12.png" width="140" height="278">
+    <points label="fish" source="manual" occluded="0" points="60.01,153.37" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="gup13.png" width="135" height="193">
+    <points label="fish" source="manual" occluded="0" points="55.83,111.86" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="gup14.png" width="223" height="332">
+    <points label="fish" source="manual" occluded="0" points="117.46,199.81" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="gup15.png" width="239" height="335">
+    <points label="fish" source="manual" occluded="0" points="109.82,149.27" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="gup16.png" width="294" height="462">
+    <points label="fish" source="manual" occluded="0" points="150.52,204.57" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="gup17.png" width="390" height="617">
+    <points label="fish" source="manual" occluded="0" points="188.26,350.84" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="gup18.png" width="390" height="317">
+    <points label="fish" source="manual" occluded="0" points="181.88,175.77" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="gup19.png" width="469" height="261">
+    <points label="fish" source="manual" occluded="0" points="271.09,142.30" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="gup2.png" width="391" height="209">
+    <points label="fish" source="manual" occluded="0" points="185.78,103.67" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="gup20.png" width="391" height="209">
+    <points label="fish" source="manual" occluded="0" points="222.17,111.06" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="gup21.png" width="278" height="140">
+    <points label="fish" source="manual" occluded="0" points="141.92,80.40" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="gup22.png" width="193" height="135">
+    <points label="fish" source="manual" occluded="0" points="115.40,79.12" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="gup23.png" width="332" height="223">
+    <points label="fish" source="manual" occluded="0" points="208.04,97.65" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="gup24.png" width="335" height="239">
+    <points label="fish" source="manual" occluded="0" points="142.63,130.94" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="gup25.png" width="462" height="294">
+    <points label="fish" source="manual" occluded="0" points="202.87,148.78" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="gup26.png" width="617" height="390">
+    <points label="fish" source="manual" occluded="0" points="361.83,208.16" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="gup27.png" width="317" height="390">
+    <points label="fish" source="manual" occluded="0" points="187.16,219.02" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="gup28.png" width="261" height="469">
+    <points label="fish" source="manual" occluded="0" points="149.17,201.79" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="gup29.png" width="209" height="391">
+    <points label="fish" source="manual" occluded="0" points="112.81,168.23" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="gup3.png" width="278" height="140">
+    <points label="fish" source="manual" occluded="0" points="135.30,60.75" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="gup30.png" width="140" height="278">
+    <points label="fish" source="manual" occluded="0" points="85.14,138.23" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="gup31.png" width="135" height="193">
+    <points label="fish" source="manual" occluded="0" points="79.58,83.47" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="gup32.png" width="223" height="332">
+    <points label="fish" source="manual" occluded="0" points="102.27,128.93" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="gup33.png" width="239" height="335">
+    <points label="fish" source="manual" occluded="0" points="130.62,190.14" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="gup34.png" width="294" height="462">
+    <points label="fish" source="manual" occluded="0" points="148.00,268.99" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="gup35.png" width="390" height="617">
+    <points label="fish" source="manual" occluded="0" points="217.16,278.93" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="gup36.png" width="317" height="390">
+    <points label="fish" source="manual" occluded="0" points="182.06,167.62" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="gup37.png" width="469" height="261">
+    <points label="fish" source="manual" occluded="0" points="258.62,107.84" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="gup38.png" width="391" height="209">
+    <points label="fish" source="manual" occluded="0" points="218.34,89.72" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="gup39.png" width="278" height="140">
+    <points label="fish" source="manual" occluded="0" points="149.11,64.84" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="gup4.png" width="335" height="239">
+    <points label="fish" source="manual" occluded="0" points="194.18,104.39" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="gup40.png" width="193" height="135">
+    <points label="fish" source="manual" occluded="0" points="113.78,57.06" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="gup41.png" width="332" height="223">
+    <points label="fish" source="manual" occluded="0" points="201.96,127.29" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="gup42.png" width="335" height="239">
+    <points label="fish" source="manual" occluded="0" points="153.83,109.07" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="gup43.png" width="462" height="294">
+    <points label="fish" source="manual" occluded="0" points="200.28,156.21" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="gup44.png" width="223" height="332">
+    <points label="fish" source="manual" occluded="0" points="128.31,118.80" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="gup45.png" width="617" height="390">
+    <points label="fish" source="manual" occluded="0" points="272.02,198.66" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="gup46.png" width="317" height="390">
+    <points label="fish" source="manual" occluded="0" points="140.00,196.93" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="gup47.png" width="239" height="335">
+    <points label="fish" source="manual" occluded="0" points="107.63,190.50" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="gup48.png" width="469" height="261">
+    <points label="fish" source="manual" occluded="0" points="210.04,147.88" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="gup49.png" width="462" height="294">
+    <points label="fish" source="manual" occluded="0" points="256.86,135.84" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="gup5.png" width="462" height="294">
+    <points label="fish" source="manual" occluded="0" points="273.35,138.11" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="gup6.png" width="332" height="223">
+    <points label="fish" source="manual" occluded="0" points="133.46,125.10" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="gup7.png" width="193" height="135">
+    <points label="fish" source="manual" occluded="0" points="78.19,57.50" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="gup8.png" width="617" height="390">
+    <points label="fish" source="manual" occluded="0" points="269.00,187.87" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="gup9.png" width="317" height="390">
+    <points label="fish" source="manual" occluded="0" points="138.30,179.09" z_order="0">
+    </points>
+  </image>
+</annotations>

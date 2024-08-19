@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>51</id>
+      <name>kwabaal</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:52:46.730599+00:00</created>
+      <updated>2024-07-01 10:53:49.172403+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>51</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/51</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:16:05.375773+00:00</dumped>
+  </meta>
+  <image id="0" name="kwabaal1.png" width="589" height="255">
+    <points label="fish" source="manual" occluded="0" points="313.24,113.91" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="kwabaal10.png" width="608" height="332">
+    <points label="fish" source="manual" occluded="0" points="306.13,101.99" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="kwabaal11.jpg" width="800" height="532">
+    <points label="fish" source="manual" occluded="0" points="424.90,338.73" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="kwabaal12.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="435.95,329.74" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="kwabaal13.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="375.16,299.02" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="kwabaal14.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="361.44,361.11" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="kwabaal15.jpg" width="600" height="800">
+    <points label="fish" source="manual" occluded="0" points="257.28,404.81" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="kwabaal16.jpg" width="450" height="800">
+    <points label="fish" source="manual" occluded="0" points="183.20,276.71" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="kwabaal17.jpg" width="640" height="480">
+    <points label="fish" source="manual" occluded="0" points="292.80,262.21" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="kwabaal18.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="398.04,259.15" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="kwabaal19.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="395.42,391.83" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="kwabaal2.png" width="485" height="280">
+    <points label="fish" source="manual" occluded="0" points="233.15,164.26" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="kwabaal20.jpg" width="600" height="800">
+    <points label="fish" source="manual" occluded="0" points="332.22,414.40" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="kwabaal21.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="342.48,474.84" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="kwabaal22.jpg" width="500" height="353">
+    <points label="fish" source="manual" occluded="0" points="314.20,241.49" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="kwabaal23.jpg" width="450" height="600">
+    <points label="fish" source="manual" occluded="0" points="275.29,293.79" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="kwabaal24.jpg" width="440" height="781">
+    <points label="fish" source="manual" occluded="0" points="142.59,377.74" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="kwabaal25.jpg" width="451" height="800">
+    <points label="fish" source="manual" occluded="0" points="102.16,433.57" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="kwabaal26.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="361.44,328.43" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="kwabaal27.jpg" width="520" height="390">
+    <points label="fish" source="manual" occluded="0" points="270.64,201.60" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="kwabaal28.jpg" width="700" height="525">
+    <points label="fish" source="manual" occluded="0" points="374.60,243.06" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="kwabaal29.jpg" width="500" height="375">
+    <points label="fish" source="manual" occluded="0" points="256.94,176.05" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="kwabaal3.png" width="488" height="231">
+    <points label="fish" source="manual" occluded="0" points="252.20,104.91" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="kwabaal30.jpg" width="700" height="525">
+    <points label="fish" source="manual" occluded="0" points="391.76,293.96" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="kwabaal31.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="407.19,334.31" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="kwabaal32.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="424.18,359.15" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="kwabaal33.jpg" width="480" height="360">
+    <points label="fish" source="manual" occluded="0" points="265.49,256.67" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="kwabaal34.jpg" width="599" height="800">
+    <points label="fish" source="manual" occluded="0" points="271.22,451.87" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="kwabaal35.jpg" width="576" height="432">
+    <points label="fish" source="manual" occluded="0" points="270.56,203.04" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="kwabaal36.jpg" width="800" height="451">
+    <points label="fish" source="manual" occluded="0" points="391.60,325.14" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="kwabaal37.jpg" width="500" height="375">
+    <points label="fish" source="manual" occluded="0" points="296.15,176.87" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="kwabaal38.jpg" width="800" height="532">
+    <points label="fish" source="manual" occluded="0" points="470.68,325.40" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="kwabaal39.jpg" width="450" height="600">
+    <points label="fish" source="manual" occluded="0" points="263.53,313.40" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="kwabaal4.png" width="485" height="251">
+    <points label="fish" source="manual" occluded="0" points="250.80,114.97" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="kwabaal40.jpg" width="800" height="450">
+    <points label="fish" source="manual" occluded="0" points="483.41,341.15" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="kwabaal41.jpg" width="555" height="553">
+    <points label="fish" source="manual" occluded="0" points="249.50,295.16" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="kwabaal42.jpg" width="800" height="533">
+    <points label="fish" source="manual" occluded="0" points="415.11,244.99" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="kwabaal43.jpg" width="724" height="800">
+    <points label="fish" source="manual" occluded="0" points="360.28,453.62" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="kwabaal44.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="352.29,476.14" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="kwabaal45.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="426.80,323.86" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="kwabaal46.jpg" width="2048" height="1536">
+    <points label="fish" source="manual" occluded="0" points="1223.10,728.67" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="kwabaal47.jpg" width="800" height="373">
+    <points label="fish" source="manual" occluded="0" points="464.37,207.19" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="kwabaal48.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="432.03,336.27" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="kwabaal49.jpg" width="402" height="604">
+    <points label="fish" source="manual" occluded="0" points="178.63,303.64" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="kwabaal5.png" width="472" height="263">
+    <points label="fish" source="manual" occluded="0" points="225.44,75.02" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="kwabaal6.png" width="566" height="425">
+    <points label="fish" source="manual" occluded="0" points="251.06,155.09" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="kwabaal7.png" width="631" height="269">
+    <points label="fish" source="manual" occluded="0" points="324.12,109.78" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="kwabaal8.png" width="620" height="430">
+    <points label="fish" source="manual" occluded="0" points="262.22,142.17" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="kwabaal9.png" width="564" height="365">
+    <points label="fish" source="manual" occluded="0" points="273.26,191.24" z_order="0">
+    </points>
+  </image>
+</annotations>

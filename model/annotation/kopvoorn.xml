@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>39</id>
+      <name>kopvoorn</name>
+      <size>48</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:32:52.794810+00:00</created>
+      <updated>2024-07-01 10:33:58.848463+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>47</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>39</id>
+          <start>0</start>
+          <stop>47</stop>
+          <url>http://localhost:8080/api/jobs/39</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:20:18.689803+00:00</dumped>
+  </meta>
+  <image id="0" name="kopvoorn10.png" width="481" height="255">
+    <points label="fish" source="manual" occluded="0" points="232.94,84.76" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="kopvoorn11.png" width="629" height="409">
+    <points label="fish" source="manual" occluded="0" points="349.93,117.18" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="kopvoorn12.png" width="621" height="456">
+    <points label="fish" source="manual" occluded="0" points="300.81,238.67" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="kopvoorn13.png" width="585" height="328">
+    <points label="fish" source="manual" occluded="0" points="293.94,151.52" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="kopvoorn14.png" width="509" height="272">
+    <points label="fish" source="manual" occluded="0" points="299.56,144.01" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="kopvoorn15.png" width="602" height="288">
+    <points label="fish" source="manual" occluded="0" points="270.23,151.39" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="kopvoorn16.png" width="628" height="359">
+    <points label="fish" source="manual" occluded="0" points="282.37,139.50" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="kopvoorn17.png" width="559" height="350">
+    <points label="fish" source="manual" occluded="0" points="261.68,156.80" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="kopvoorn18.png" width="575" height="231">
+    <points label="fish" source="manual" occluded="0" points="269.21,96.99" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="kopvoorn19.png" width="399" height="188">
+    <points label="fish" source="manual" occluded="0" points="209.98,91.62" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="kopvoorn2.png" width="551" height="294">
+    <points label="fish" source="manual" occluded="0" points="293.03,128.31" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="kopvoorn20.png" width="588" height="249">
+    <points label="fish" source="manual" occluded="0" points="287.83,135.22" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="kopvoorn21.png" width="605" height="325">
+    <points label="fish" source="manual" occluded="0" points="304.81,160.40" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="kopvoorn22.png" width="607" height="288">
+    <points label="fish" source="manual" occluded="0" points="306.25,141.65" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="kopvoorn23.png" width="360" height="187">
+    <points label="fish" source="manual" occluded="0" points="184.29,80.90" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="kopvoorn24.png" width="399" height="797">
+    <points label="fish" source="manual" occluded="0" points="185.19,355.96" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="kopvoorn25.png" width="605" height="347">
+    <points label="fish" source="manual" occluded="0" points="294.23,132.88" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="kopvoorn26.png" width="564" height="299">
+    <points label="fish" source="manual" occluded="0" points="264.63,121.09" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="kopvoorn27.png" width="612" height="315">
+    <points label="fish" source="manual" occluded="0" points="330.42,156.63" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="kopvoorn28.png" width="550" height="288">
+    <points label="fish" source="manual" occluded="0" points="284.23,135.74" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="kopvoorn29.png" width="576" height="301">
+    <points label="fish" source="manual" occluded="0" points="292.03,144.06" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="kopvoorn3.png" width="269" height="127">
+    <points label="fish" source="manual" occluded="0" points="143.06,73.66" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="kopvoorn30.png" width="608" height="296">
+    <points label="fish" source="manual" occluded="0" points="325.27,134.62" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="kopvoorn31.png" width="549" height="300">
+    <points label="fish" source="manual" occluded="0" points="315.01,121.38" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="kopvoorn32.png" width="596" height="332">
+    <points label="fish" source="manual" occluded="0" points="281.72,160.77" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="kopvoorn33.png" width="588" height="293">
+    <points label="fish" source="manual" occluded="0" points="277.96,126.74" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="kopvoorn34.png" width="611" height="280">
+    <points label="fish" source="manual" occluded="0" points="285.19,131.22" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="kopvoorn35.png" width="626" height="385">
+    <points label="fish" source="manual" occluded="0" points="293.74,153.95" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="kopvoorn36.png" width="619" height="371">
+    <points label="fish" source="manual" occluded="0" points="290.68,147.38" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="kopvoorn37.png" width="591" height="289">
+    <points label="fish" source="manual" occluded="0" points="277.51,108.11" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="kopvoorn38.png" width="459" height="269">
+    <points label="fish" source="manual" occluded="0" points="215.52,106.22" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="kopvoorn39.png" width="549" height="266">
+    <points label="fish" source="manual" occluded="0" points="297.34,107.05" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="kopvoorn4.png" width="627" height="293">
+    <points label="fish" source="manual" occluded="0" points="294.84,128.94" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="kopvoorn40.png" width="501" height="294">
+    <points label="fish" source="manual" occluded="0" points="255.58,108.26" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="kopvoorn41.png" width="459" height="260">
+    <points label="fish" source="manual" occluded="0" points="263.70,112.80" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="kopvoorn42.png" width="505" height="400">
+    <points label="fish" source="manual" occluded="0" points="236.14,183.25" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="kopvoorn43.png" width="344" height="783">
+    <points label="fish" source="manual" occluded="0" points="171.96,433.30" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="kopvoorn44.png" width="602" height="312">
+    <points label="fish" source="manual" occluded="0" points="291.71,147.38" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="kopvoorn45.png" width="301" height="185">
+    <points label="fish" source="manual" occluded="0" points="145.97,92.49" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="kopvoorn46.png" width="486" height="267">
+    <points label="fish" source="manual" occluded="0" points="235.86,134.17" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="kopvoorn47.jpg" width="750" height="500">
+    <points label="fish" source="manual" occluded="0" points="363.54,251.34" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="kopvoorn48.jpg" width="750" height="453">
+    <points label="fish" source="manual" occluded="0" points="360.82,331.48" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="kopvoorn49.jpg" width="2620" height="1965">
+    <points label="fish" source="manual" occluded="0" points="1352.73,1277.81" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="kopvoorn5.png" width="635" height="309">
+    <points label="fish" source="manual" occluded="0" points="311.93,179.38" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="kopvoorn6.png" width="610" height="325">
+    <points label="fish" source="manual" occluded="0" points="312.69,154.83" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="kopvoorn7.png" width="603" height="320">
+    <points label="fish" source="manual" occluded="0" points="311.00,156.01" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="kopvoorn8.png" width="550" height="278">
+    <points label="fish" source="manual" occluded="0" points="283.85,150.75" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="kopvoorn9.png" width="599" height="320">
+    <points label="fish" source="manual" occluded="0" points="309.34,138.40" z_order="0">
+    </points>
+  </image>
+</annotations>

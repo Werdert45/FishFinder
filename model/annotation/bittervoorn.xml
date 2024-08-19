@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>61</id>
+      <name>bittervoorn</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 12:04:05.497955+00:00</created>
+      <updated>2024-07-01 12:05:15.644430+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>61</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/61</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:11:23.374933+00:00</dumped>
+  </meta>
+  <image id="0" name="bittervoorn1.png" width="461" height="253">
+    <points label="fish" source="manual" occluded="0" points="261.95,122.30" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="bittervoorn10.png" width="388" height="219">
+    <points label="fish" source="manual" occluded="0" points="197.52,99.45" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="bittervoorn11.png" width="599" height="273">
+    <points label="fish" source="manual" occluded="0" points="255.26,119.74" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="bittervoorn12.png" width="339" height="164">
+    <points label="fish" source="manual" occluded="0" points="164.88,72.40" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="bittervoorn13.png" width="489" height="264">
+    <points label="fish" source="manual" occluded="0" points="227.89,135.95" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="bittervoorn14.png" width="503" height="294">
+    <points label="fish" source="manual" occluded="0" points="259.76,147.54" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="bittervoorn15.png" width="573" height="274">
+    <points label="fish" source="manual" occluded="0" points="279.08,127.19" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="bittervoorn16.png" width="572" height="292">
+    <points label="fish" source="manual" occluded="0" points="277.19,137.41" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="bittervoorn17.png" width="533" height="385">
+    <points label="fish" source="manual" occluded="0" points="269.21,192.50" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="bittervoorn18.png" width="287" height="144">
+    <points label="fish" source="manual" occluded="0" points="127.74,67.27" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="bittervoorn19.png" width="599" height="286">
+    <points label="fish" source="manual" occluded="0" points="297.60,144.89" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="bittervoorn2.png" width="394" height="214">
+    <points label="fish" source="manual" occluded="0" points="176.61,106.85" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="bittervoorn20.png" width="286" height="430">
+    <points label="fish" source="manual" occluded="0" points="135.52,234.45" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="bittervoorn21.png" width="613" height="412">
+    <points label="fish" source="manual" occluded="0" points="282.05,224.61" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="bittervoorn22.png" width="490" height="235">
+    <points label="fish" source="manual" occluded="0" points="226.48,134.65" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="bittervoorn23.png" width="346" height="238">
+    <points label="fish" source="manual" occluded="0" points="186.23,117.58" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="bittervoorn24.png" width="616" height="325">
+    <points label="fish" source="manual" occluded="0" points="273.08,159.49" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="bittervoorn25.png" width="612" height="338">
+    <points label="fish" source="manual" occluded="0" points="272.60,140.95" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="bittervoorn26.png" width="575" height="330">
+    <points label="fish" source="manual" occluded="0" points="263.17,176.46" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="bittervoorn27.png" width="430" height="256">
+    <points label="fish" source="manual" occluded="0" points="192.73,122.43" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="bittervoorn28.jpg" width="777" height="505">
+    <points label="fish" source="manual" occluded="0" points="346.97,254.72" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="bittervoorn29.jpg" width="2048" height="1536">
+    <points label="fish" source="manual" occluded="0" points="916.90,797.27" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="bittervoorn3.png" width="564" height="345">
+    <points label="fish" source="manual" occluded="0" points="248.85,167.78" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="bittervoorn30.jpg" width="750" height="570">
+    <points label="fish" source="manual" occluded="0" points="352.05,249.91" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="bittervoorn31.png" width="219" height="388">
+    <points label="fish" source="manual" occluded="0" points="97.87,197.57" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="bittervoorn32.png" width="412" height="613">
+    <points label="fish" source="manual" occluded="0" points="227.35,327.85" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="bittervoorn33.png" width="341" height="600">
+    <points label="fish" source="manual" occluded="0" points="155.16,231.70" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="bittervoorn34.png" width="159" height="317">
+    <points label="fish" source="manual" occluded="0" points="80.70,154.36" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="bittervoorn35.png" width="430" height="286">
+    <points label="fish" source="manual" occluded="0" points="231.51,126.02" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="bittervoorn36.png" width="235" height="490">
+    <points label="fish" source="manual" occluded="0" points="138.04,261.29" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="bittervoorn37.png" width="266" height="593">
+    <points label="fish" source="manual" occluded="0" points="116.86,341.08" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="bittervoorn38.png" width="303" height="527">
+    <points label="fish" source="manual" occluded="0" points="138.78,304.69" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="bittervoorn39.png" width="238" height="346">
+    <points label="fish" source="manual" occluded="0" points="113.10,170.39" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="bittervoorn4.png" width="527" height="303">
+    <points label="fish" source="manual" occluded="0" points="257.78,149.28" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="bittervoorn40.png" width="256" height="430">
+    <points label="fish" source="manual" occluded="0" points="109.29,214.30" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="bittervoorn41.png" width="253" height="461">
+    <points label="fish" source="manual" occluded="0" points="109.67,207.90" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="bittervoorn42.png" width="330" height="575">
+    <points label="fish" source="manual" occluded="0" points="188.79,275.60" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="bittervoorn43.png" width="144" height="287">
+    <points label="fish" source="manual" occluded="0" points="68.88,175.08" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="bittervoorn44.png" width="325" height="616">
+    <points label="fish" source="manual" occluded="0" points="162.85,378.11" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="bittervoorn45.png" width="345" height="564">
+    <points label="fish" source="manual" occluded="0" points="162.96,349.92" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="bittervoorn46.jpg" width="570" height="750">
+    <points label="fish" source="manual" occluded="0" points="206.57,402.40" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="bittervoorn47.png" width="214" height="394">
+    <points label="fish" source="manual" occluded="0" points="93.70,231.99" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="bittervoorn48.png" width="388" height="219">
+    <points label="fish" source="manual" occluded="0" points="195.08,129.05" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="bittervoorn49.png" width="338" height="612">
+    <points label="fish" source="manual" occluded="0" points="135.67,351.67" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="bittervoorn5.png" width="593" height="266">
+    <points label="fish" source="manual" occluded="0" points="263.11,109.57" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="bittervoorn6.png" width="600" height="341">
+    <points label="fish" source="manual" occluded="0" points="334.84,160.01" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="bittervoorn7.png" width="317" height="159">
+    <points label="fish" source="manual" occluded="0" points="159.50,78.17" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="bittervoorn8.png" width="233" height="439">
+    <points label="fish" source="manual" occluded="0" points="111.50,239.13" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="bittervoorn9.png" width="525" height="307">
+    <points label="fish" source="manual" occluded="0" points="245.04,129.61" z_order="0">
+    </points>
+  </image>
+</annotations>

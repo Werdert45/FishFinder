@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>9</id>
+      <name>elrits</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 09:39:21.853086+00:00</created>
+      <updated>2024-07-01 09:40:46.710018+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>9</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/9</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:31:16.993350+00:00</dumped>
+  </meta>
+  <image id="0" name="elrits1.png" width="580" height="258">
+    <points label="fish" source="manual" occluded="0" points="269.91,140.35" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="elrits10.png" width="574" height="349">
+    <points label="fish" source="manual" occluded="0" points="338.61,179.94" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="elrits11.png" width="485" height="248">
+    <points label="fish" source="manual" occluded="0" points="215.00,119.93" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="elrits12.png" width="568" height="381">
+    <points label="fish" source="manual" occluded="0" points="321.14,158.33" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="elrits13.png" width="567" height="289">
+    <points label="fish" source="manual" occluded="0" points="235.08,137.95" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="elrits14.png" width="478" height="270">
+    <points label="fish" source="manual" occluded="0" points="290.00,96.86" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="elrits15.png" width="610" height="278">
+    <points label="fish" source="manual" occluded="0" points="285.58,119.79" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="elrits16.png" width="414" height="251">
+    <points label="fish" source="manual" occluded="0" points="239.02,153.18" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="elrits17.png" width="598" height="282">
+    <points label="fish" source="manual" occluded="0" points="373.26,132.64" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="elrits18.png" width="575" height="281">
+    <points label="fish" source="manual" occluded="0" points="236.01,145.92" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="elrits19.png" width="542" height="273">
+    <points label="fish" source="manual" occluded="0" points="263.21,110.89" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="elrits2.png" width="558" height="335">
+    <points label="fish" source="manual" occluded="0" points="243.65,166.92" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="elrits20.png" width="594" height="277">
+    <points label="fish" source="manual" occluded="0" points="295.96,139.96" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="elrits21.png" width="494" height="294">
+    <points label="fish" source="manual" occluded="0" points="244.77,111.40" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="elrits22.png" width="362" height="224">
+    <points label="fish" source="manual" occluded="0" points="152.76,109.47" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="elrits23.png" width="606" height="282">
+    <points label="fish" source="manual" occluded="0" points="350.26,122.33" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="elrits24.png" width="485" height="336">
+    <points label="fish" source="manual" occluded="0" points="232.63,157.74" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="elrits25.png" width="438" height="220">
+    <points label="fish" source="manual" occluded="0" points="230.18,102.64" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="elrits26.png" width="426" height="270">
+    <points label="fish" source="manual" occluded="0" points="194.36,120.99" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="elrits27.png" width="478" height="246">
+    <points label="fish" source="manual" occluded="0" points="206.71,110.61" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="elrits28.png" width="613" height="213">
+    <points label="fish" source="manual" occluded="0" points="358.38,96.84" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="elrits29.png" width="444" height="200">
+    <points label="fish" source="manual" occluded="0" points="237.38,95.35" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="elrits3.png" width="586" height="271">
+    <points label="fish" source="manual" occluded="0" points="264.49,106.57" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="elrits30.png" width="580" height="332">
+    <points label="fish" source="manual" occluded="0" points="340.12,151.39" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="elrits31.png" width="297" height="240">
+    <points label="fish" source="manual" occluded="0" points="161.32,118.18" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="elrits32.png" width="559" height="302">
+    <points label="fish" source="manual" occluded="0" points="237.62,134.59" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="elrits33.png" width="366" height="646">
+    <points label="fish" source="manual" occluded="0" points="179.84,293.42" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="elrits34.png" width="523" height="249">
+    <points label="fish" source="manual" occluded="0" points="307.63,136.02" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="elrits35.png" width="593" height="299">
+    <points label="fish" source="manual" occluded="0" points="272.45,116.08" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="elrits36.jpg" width="777" height="479">
+    <points label="fish" source="manual" occluded="0" points="363.49,311.56" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="elrits37.jpg" width="480" height="640">
+    <points label="fish" source="manual" occluded="0" points="214.57,425.96" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="elrits38.jpg" width="800" height="531">
+    <points label="fish" source="manual" occluded="0" points="413.61,235.11" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="elrits39.jpg" width="1024" height="575">
+    <points label="fish" source="manual" occluded="0" points="517.37,273.52" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="elrits4.png" width="569" height="386">
+    <points label="fish" source="manual" occluded="0" points="306.35,161.45" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="elrits40.jpg" width="870" height="350">
+    <points label="fish" source="manual" occluded="0" points="430.41,171.36" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="elrits41.jpg" width="600" height="400">
+    <points label="fish" source="manual" occluded="0" points="366.91,179.98" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="elrits42.jpg" width="1200" height="799">
+    <points label="fish" source="manual" occluded="0" points="638.77,361.64" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="elrits43.jpg" width="800" height="533">
+    <points label="fish" source="manual" occluded="0" points="457.21,230.19" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="elrits44.jpg" width="500" height="332">
+    <points label="fish" source="manual" occluded="0" points="250.19,171.78" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="elrits45.jpg" width="750" height="500">
+    <points label="fish" source="manual" occluded="0" points="373.62,238.54" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="elrits46.jpg" width="1500" height="1125">
+    <points label="fish" source="manual" occluded="0" points="646.40,612.08" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="elrits47.jpg" width="750" height="500">
+    <points label="fish" source="manual" occluded="0" points="442.24,237.45" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="elrits48.jpg" width="600" height="412">
+    <points label="fish" source="manual" occluded="0" points="357.23,211.82" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="elrits49.jpg" width="600" height="400">
+    <points label="fish" source="manual" occluded="0" points="294.14,204.81" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="elrits5.png" width="354" height="201">
+    <points label="fish" source="manual" occluded="0" points="181.84,94.69" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="elrits6.png" width="574" height="293">
+    <points label="fish" source="manual" occluded="0" points="318.52,110.53" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="elrits7.png" width="171" height="257">
+    <points label="fish" source="manual" occluded="0" points="75.99,100.66" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="elrits8.png" width="309" height="190">
+    <points label="fish" source="manual" occluded="0" points="168.13,75.54" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="elrits9.png" width="232" height="238">
+    <points label="fish" source="manual" occluded="0" points="115.09,95.42" z_order="0">
+    </points>
+  </image>
+</annotations>

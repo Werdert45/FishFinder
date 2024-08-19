@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>57</id>
+      <name>grootkopkarper</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 11:00:16.285815+00:00</created>
+      <updated>2024-07-01 11:01:17.856329+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>57</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/57</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:13:06.376464+00:00</dumped>
+  </meta>
+  <image id="0" name="grootkopkarper1.png" width="408" height="238">
+    <points label="fish" source="manual" occluded="0" points="200.42,91.01" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="grootkopkarper10.png" width="623" height="275">
+    <points label="fish" source="manual" occluded="0" points="340.69,92.36" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="grootkopkarper11.png" width="341" height="639">
+    <points label="fish" source="manual" occluded="0" points="161.42,262.77" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="grootkopkarper12.jpg" width="222" height="323">
+    <points label="fish" source="manual" occluded="0" points="48.56,171.18" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="grootkopkarper13.jpg" width="529" height="1000">
+    <points label="fish" source="manual" occluded="0" points="278.63,502.16" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="grootkopkarper14.jpg" width="800" height="570">
+    <points label="fish" source="manual" occluded="0" points="379.18,295.54" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="grootkopkarper15.jpg" width="850" height="522">
+    <points label="fish" source="manual" occluded="0" points="369.97,236.61" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="grootkopkarper16.jpg" width="850" height="641">
+    <points label="fish" source="manual" occluded="0" points="426.75,327.10" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="grootkopkarper17.jpg" width="666" height="509">
+    <points label="fish" source="manual" occluded="0" points="407.57,286.92" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="grootkopkarper18.jpg" width="614" height="458">
+    <points label="fish" source="manual" occluded="0" points="255.84,317.31" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="grootkopkarper19.jpg" width="800" height="794">
+    <points label="fish" source="manual" occluded="0" points="422.96,576.91" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="grootkopkarper2.png" width="619" height="316">
+    <points label="fish" source="manual" occluded="0" points="329.88,130.71" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="grootkopkarper20.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="363.73,356.86" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="grootkopkarper21.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="411.44,263.40" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="grootkopkarper22.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="378.10,329.41" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="grootkopkarper23.jpg" width="624" height="752">
+    <points label="fish" source="manual" occluded="0" points="409.06,543.08" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="grootkopkarper24.jpg" width="720" height="540">
+    <points label="fish" source="manual" occluded="0" points="379.71,363.53" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="grootkopkarper25.jpg" width="600" height="800">
+    <points label="fish" source="manual" occluded="0" points="248.13,330.30" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="grootkopkarper26.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="425.16,306.54" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="grootkopkarper27.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="399.67,306.54" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="grootkopkarper28.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="431.05,262.09" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="grootkopkarper29.jpg" width="563" height="800">
+    <points label="fish" source="manual" occluded="0" points="339.89,468.00" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="grootkopkarper3.png" width="629" height="348">
+    <points label="fish" source="manual" occluded="0" points="311.43,163.44" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="grootkopkarper30.jpg" width="450" height="800">
+    <points label="fish" source="manual" occluded="0" points="326.60,393.90" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="grootkopkarper31.jpg" width="720" height="540">
+    <points label="fish" source="manual" occluded="0" points="390.29,240.59" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="grootkopkarper32.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="474.84,390.85" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="grootkopkarper33.jpg" width="1000" height="531">
+    <points label="fish" source="manual" occluded="0" points="592.71,173.47" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="grootkopkarper34.jpg" width="700" height="778">
+    <points label="fish" source="manual" occluded="0" points="346.15,467.00" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="grootkopkarper35.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="389.22,312.42" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="grootkopkarper36.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="424.51,304.58" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="grootkopkarper37.jpg" width="600" height="296">
+    <points label="fish" source="manual" occluded="0" points="316.16,148.00" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="grootkopkarper38.jpg" width="480" height="360">
+    <points label="fish" source="manual" occluded="0" points="254.31,159.61" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="grootkopkarper39.jpg" width="3072" height="2304">
+    <points label="fish" source="manual" occluded="0" points="1572.46,1137.01" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="grootkopkarper4.png" width="563" height="277">
+    <points label="fish" source="manual" occluded="0" points="305.13,120.55" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="grootkopkarper40.jpg" width="800" height="540">
+    <points label="fish" source="manual" occluded="0" points="423.82,279.41" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="grootkopkarper41.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="413.40,349.02" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="grootkopkarper42.jpg" width="1000" height="750">
+    <points label="fish" source="manual" occluded="0" points="499.62,448.56" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="grootkopkarper43.jpg" width="640" height="422">
+    <points label="fish" source="manual" occluded="0" points="319.29,218.80" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="grootkopkarper44.jpg" width="480" height="360">
+    <points label="fish" source="manual" occluded="0" points="244.12,250.59" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="grootkopkarper45.jpg" width="365" height="273">
+    <points label="fish" source="manual" occluded="0" points="184.89,170.85" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="grootkopkarper46.jpg" width="923" height="479">
+    <points label="fish" source="manual" occluded="0" points="459.59,241.15" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="grootkopkarper47.png" width="591" height="372">
+    <points label="fish" source="manual" occluded="0" points="272.34,233.13" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="grootkopkarper48.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="360.46,315.03" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="grootkopkarper49.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="407.52,306.54" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="grootkopkarper5.png" width="617" height="309">
+    <points label="fish" source="manual" occluded="0" points="280.44,127.08" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="grootkopkarper6.png" width="564" height="338">
+    <points label="fish" source="manual" occluded="0" points="250.23,155.19" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="grootkopkarper7.png" width="563" height="250">
+    <points label="fish" source="manual" occluded="0" points="267.31,127.76" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="grootkopkarper8.png" width="539" height="291">
+    <points label="fish" source="manual" occluded="0" points="255.91,148.33" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="grootkopkarper9.png" width="615" height="353">
+    <points label="fish" source="manual" occluded="0" points="274.35,94.93" z_order="0">
+    </points>
+  </image>
+</annotations>

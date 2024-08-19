@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>30</id>
+      <name>atlantische_steur</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:19:44.230978+00:00</created>
+      <updated>2024-07-01 10:20:50.920855+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>30</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/30</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:23:39.610963+00:00</dumped>
+  </meta>
+  <image id="0" name="atlantische_steur1.png" width="604" height="261">
+    <points label="fish" source="manual" occluded="0" points="354.61,138.54" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="atlantische_steur10.png" width="401" height="193">
+    <points label="fish" source="manual" occluded="0" points="195.16,71.52" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="atlantische_steur11.png" width="498" height="236">
+    <points label="fish" source="manual" occluded="0" points="244.28,119.21" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="atlantische_steur12.png" width="543" height="233">
+    <points label="fish" source="manual" occluded="0" points="297.70,96.35" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="atlantische_steur13.png" width="479" height="252">
+    <points label="fish" source="manual" occluded="0" points="203.29,120.79" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="atlantische_steur14.png" width="510" height="253">
+    <points label="fish" source="manual" occluded="0" points="257.67,131.87" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="atlantische_steur15.png" width="450" height="164">
+    <points label="fish" source="manual" occluded="0" points="247.83,90.35" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="atlantische_steur16.png" width="475" height="206">
+    <points label="fish" source="manual" occluded="0" points="217.54,83.22" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="atlantische_steur17.png" width="295" height="151">
+    <points label="fish" source="manual" occluded="0" points="132.22,62.92" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="atlantische_steur18.png" width="562" height="261">
+    <points label="fish" source="manual" occluded="0" points="240.71,136.02" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="atlantische_steur19.png" width="539" height="229">
+    <points label="fish" source="manual" occluded="0" points="295.14,102.81" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="atlantische_steur2.png" width="610" height="227">
+    <points label="fish" source="manual" occluded="0" points="287.29,110.95" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="atlantische_steur20.png" width="595" height="243">
+    <points label="fish" source="manual" occluded="0" points="357.87,142.31" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="atlantische_steur21.png" width="586" height="152">
+    <points label="fish" source="manual" occluded="0" points="259.57,88.08" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="atlantische_steur22.png" width="398" height="144">
+    <points label="fish" source="manual" occluded="0" points="165.45,48.75" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="atlantische_steur23.png" width="579" height="247">
+    <points label="fish" source="manual" occluded="0" points="230.75,108.10" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="atlantische_steur24.png" width="591" height="267">
+    <points label="fish" source="manual" occluded="0" points="254.56,95.45" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="atlantische_steur25.png" width="431" height="237">
+    <points label="fish" source="manual" occluded="0" points="177.18,94.96" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="atlantische_steur26.png" width="451" height="204">
+    <points label="fish" source="manual" occluded="0" points="191.11,117.63" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="atlantische_steur27.png" width="575" height="268">
+    <points label="fish" source="manual" occluded="0" points="310.45,135.82" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="atlantische_steur28.png" width="598" height="215">
+    <points label="fish" source="manual" occluded="0" points="220.90,109.20" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="atlantische_steur29.png" width="285" height="116">
+    <points label="fish" source="manual" occluded="0" points="164.25,44.34" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="atlantische_steur3.png" width="583" height="301">
+    <points label="fish" source="manual" occluded="0" points="350.24,199.04" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="atlantische_steur30.png" width="526" height="303">
+    <points label="fish" source="manual" occluded="0" points="313.25,211.15" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="atlantische_steur31.png" width="527" height="269">
+    <points label="fish" source="manual" occluded="0" points="304.43,187.60" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="atlantische_steur32.png" width="399" height="241">
+    <points label="fish" source="manual" occluded="0" points="207.88,125.79" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="atlantische_steur33.jpg" width="500" height="250">
+    <points label="fish" source="manual" occluded="0" points="250.52,169.97" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="atlantische_steur34.jpg" width="500" height="250">
+    <points label="fish" source="manual" occluded="0" points="254.37,125.88" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="atlantische_steur35.jpg" width="2400" height="1324">
+    <points label="fish" source="manual" occluded="0" points="1220.99,634.34" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="atlantische_steur36.jpg" width="277" height="182">
+    <points label="fish" source="manual" occluded="0" points="134.53,99.62" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="atlantische_steur37.png" width="924" height="583">
+    <points label="fish" source="manual" occluded="0" points="459.73,294.72" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="atlantische_steur38.jpg" width="682" height="379">
+    <points label="fish" source="manual" occluded="0" points="383.69,213.84" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="atlantische_steur39.jpg" width="682" height="379">
+    <points label="fish" source="manual" occluded="0" points="265.38,260.61" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="atlantische_steur4.png" width="510" height="226">
+    <points label="fish" source="manual" occluded="0" points="280.51,70.69" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="atlantische_steur40.jpg" width="1280" height="720">
+    <points label="fish" source="manual" occluded="0" points="679.82,449.17" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="atlantische_steur41.jpg" width="1000" height="750">
+    <points label="fish" source="manual" occluded="0" points="511.06,518.42" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="atlantische_steur42.jpg" width="1000" height="750">
+    <points label="fish" source="manual" occluded="0" points="508.61,502.89" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="atlantische_steur43.jpg" width="1000" height="750">
+    <points label="fish" source="manual" occluded="0" points="483.28,520.87" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="atlantische_steur44.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="386.60,416.01" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="atlantische_steur45.jpg" width="800" height="450">
+    <points label="fish" source="manual" occluded="0" points="397.47,255.50" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="atlantische_steur46.jpg" width="960" height="540">
+    <points label="fish" source="manual" occluded="0" points="541.50,305.29" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="atlantische_steur47.jpg" width="480" height="360">
+    <points label="fish" source="manual" occluded="0" points="235.10,224.12" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="atlantische_steur48.png" width="365" height="210">
+    <points label="fish" source="manual" occluded="0" points="195.78,120.96" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="atlantische_steur49.png" width="336" height="212">
+    <points label="fish" source="manual" occluded="0" points="183.63,116.22" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="atlantische_steur5.png" width="539" height="279">
+    <points label="fish" source="manual" occluded="0" points="211.40,189.30" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="atlantische_steur6.png" width="597" height="188">
+    <points label="fish" source="manual" occluded="0" points="248.35,104.64" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="atlantische_steur7.png" width="597" height="198">
+    <points label="fish" source="manual" occluded="0" points="252.11,99.20" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="atlantische_steur8.png" width="528" height="270">
+    <points label="fish" source="manual" occluded="0" points="229.08,157.73" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="atlantische_steur9.png" width="538" height="226">
+    <points label="fish" source="manual" occluded="0" points="292.92,115.83" z_order="0">
+    </points>
+  </image>
+</annotations>

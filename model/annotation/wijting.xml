@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>47</id>
+      <name>wijting</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:46:35.305191+00:00</created>
+      <updated>2024-07-01 10:47:38.189500+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>47</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/47</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:17:20.500399+00:00</dumped>
+  </meta>
+  <image id="0" name="wijting1.png" width="527" height="410">
+    <points label="fish" source="manual" occluded="0" points="325.79,242.09" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="wijting10.png" width="330" height="210">
+    <points label="fish" source="manual" occluded="0" points="188.32,99.69" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="wijting11.png" width="367" height="797">
+    <points label="fish" source="manual" occluded="0" points="141.43,374.63" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="wijting12.png" width="610" height="317">
+    <points label="fish" source="manual" occluded="0" points="289.64,145.91" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="wijting13.png" width="562" height="301">
+    <points label="fish" source="manual" occluded="0" points="266.86,142.03" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="wijting14.png" width="621" height="322">
+    <points label="fish" source="manual" occluded="0" points="328.97,147.10" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="wijting15.png" width="294" height="227">
+    <points label="fish" source="manual" occluded="0" points="146.26,117.82" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="wijting16.png" width="540" height="410">
+    <points label="fish" source="manual" occluded="0" points="233.83,197.87" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="wijting17.png" width="536" height="270">
+    <points label="fish" source="manual" occluded="0" points="230.87,109.87" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="wijting18.png" width="525" height="231">
+    <points label="fish" source="manual" occluded="0" points="226.67,99.15" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="wijting19.png" width="513" height="265">
+    <points label="fish" source="manual" occluded="0" points="221.51,116.54" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="wijting2.png" width="473" height="208">
+    <points label="fish" source="manual" occluded="0" points="204.22,89.43" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="wijting20.png" width="431" height="194">
+    <points label="fish" source="manual" occluded="0" points="186.08,83.74" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="wijting21.png" width="483" height="307">
+    <points label="fish" source="manual" occluded="0" points="208.55,138.79" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="wijting22.png" width="508" height="326">
+    <points label="fish" source="manual" occluded="0" points="251.17,182.38" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="wijting23.png" width="522" height="318">
+    <points label="fish" source="manual" occluded="0" points="237.27,175.25" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="wijting24.png" width="510" height="375">
+    <points label="fish" source="manual" occluded="0" points="236.23,175.24" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="wijting25.png" width="529" height="312">
+    <points label="fish" source="manual" occluded="0" points="246.54,148.78" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="wijting26.png" width="438" height="231">
+    <points label="fish" source="manual" occluded="0" points="204.28,109.69" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="wijting27.png" width="395" height="166">
+    <points label="fish" source="manual" occluded="0" points="184.64,90.88" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="wijting28.png" width="402" height="203">
+    <points label="fish" source="manual" occluded="0" points="203.80,85.73" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="wijting29.png" width="607" height="307">
+    <points label="fish" source="manual" occluded="0" points="337.25,133.11" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="wijting3.png" width="561" height="247">
+    <points label="fish" source="manual" occluded="0" points="293.25,115.25" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="wijting30.png" width="614" height="309">
+    <points label="fish" source="manual" occluded="0" points="333.64,147.21" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="wijting31.png" width="593" height="276">
+    <points label="fish" source="manual" occluded="0" points="327.84,116.21" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="wijting32.png" width="557" height="257">
+    <points label="fish" source="manual" occluded="0" points="291.16,125.78" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="wijting33.png" width="408" height="209">
+    <points label="fish" source="manual" occluded="0" points="163.74,61.66" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="wijting34.png" width="627" height="388">
+    <points label="fish" source="manual" occluded="0" points="333.01,210.02" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="wijting35.png" width="611" height="326">
+    <points label="fish" source="manual" occluded="0" points="334.79,131.57" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="wijting36.png" width="575" height="296">
+    <points label="fish" source="manual" occluded="0" points="285.71,139.76" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="wijting37.png" width="617" height="283">
+    <points label="fish" source="manual" occluded="0" points="355.78,114.29" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="wijting38.png" width="458" height="249">
+    <points label="fish" source="manual" occluded="0" points="225.46,113.92" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="wijting39.png" width="521" height="258">
+    <points label="fish" source="manual" occluded="0" points="250.09,120.08" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="wijting4.png" width="565" height="262">
+    <points label="fish" source="manual" occluded="0" points="259.36,122.88" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="wijting40.png" width="461" height="199">
+    <points label="fish" source="manual" occluded="0" points="211.63,93.04" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="wijting41.png" width="277" height="652">
+    <points label="fish" source="manual" occluded="0" points="130.35,303.65" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="wijting42.png" width="529" height="351">
+    <points label="fish" source="manual" occluded="0" points="260.10,163.63" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="wijting43.png" width="562" height="322">
+    <points label="fish" source="manual" occluded="0" points="307.37,161.19" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="wijting44.png" width="590" height="233">
+    <points label="fish" source="manual" occluded="0" points="288.41,113.18" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="wijting45.png" width="590" height="273">
+    <points label="fish" source="manual" occluded="0" points="278.91,123.71" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="wijting46.png" width="546" height="277">
+    <points label="fish" source="manual" occluded="0" points="258.09,126.65" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="wijting47.png" width="601" height="298">
+    <points label="fish" source="manual" occluded="0" points="284.31,134.92" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="wijting48.jpg" width="750" height="500">
+    <points label="fish" source="manual" occluded="0" points="420.19,256.24" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="wijting49.jpg" width="250" height="224">
+    <points label="fish" source="manual" occluded="0" points="117.45,153.61" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="wijting5.png" width="582" height="235">
+    <points label="fish" source="manual" occluded="0" points="272.67,88.98" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="wijting6.png" width="450" height="273">
+    <points label="fish" source="manual" occluded="0" points="194.46,117.62" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="wijting7.png" width="549" height="311">
+    <points label="fish" source="manual" occluded="0" points="318.10,144.00" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="wijting8.png" width="286" height="281">
+    <points label="fish" source="manual" occluded="0" points="155.85,127.35" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="wijting9.png" width="626" height="336">
+    <points label="fish" source="manual" occluded="0" points="305.57,144.58" z_order="0">
+    </points>
+  </image>
+</annotations>

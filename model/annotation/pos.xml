@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>15</id>
+      <name>pos</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 09:52:28.683830+00:00</created>
+      <updated>2024-07-01 09:53:49.791929+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>15</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/15</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:29:13.852423+00:00</dumped>
+  </meta>
+  <image id="0" name="pos1.png" width="416" height="330">
+    <points label="fish" source="manual" occluded="0" points="178.34,111.44" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="pos10.png" width="388" height="225">
+    <points label="fish" source="manual" occluded="0" points="175.67,137.36" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="pos11.png" width="502" height="271">
+    <points label="fish" source="manual" occluded="0" points="318.97,126.18" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="pos12.png" width="543" height="291">
+    <points label="fish" source="manual" occluded="0" points="258.56,144.57" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="pos13.png" width="494" height="287">
+    <points label="fish" source="manual" occluded="0" points="262.74,140.23" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="pos14.png" width="556" height="362">
+    <points label="fish" source="manual" occluded="0" points="308.18,147.88" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="pos15.png" width="545" height="240">
+    <points label="fish" source="manual" occluded="0" points="296.51,131.45" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="pos16.png" width="583" height="356">
+    <points label="fish" source="manual" occluded="0" points="316.37,193.49" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="pos17.png" width="516" height="321">
+    <points label="fish" source="manual" occluded="0" points="289.22,170.78" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="pos18.png" width="547" height="273">
+    <points label="fish" source="manual" occluded="0" points="283.82,113.33" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="pos19.png" width="618" height="307">
+    <points label="fish" source="manual" occluded="0" points="290.60,139.46" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="pos2.png" width="618" height="263">
+    <points label="fish" source="manual" occluded="0" points="362.83,134.31" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="pos20.png" width="406" height="236">
+    <points label="fish" source="manual" occluded="0" points="187.81,106.92" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="pos21.png" width="519" height="336">
+    <points label="fish" source="manual" occluded="0" points="244.85,180.44" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="pos22.png" width="604" height="351">
+    <points label="fish" source="manual" occluded="0" points="317.84,156.67" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="pos23.png" width="615" height="312">
+    <points label="fish" source="manual" occluded="0" points="291.57,170.20" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="pos24.png" width="616" height="313">
+    <points label="fish" source="manual" occluded="0" points="289.24,131.73" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="pos25.png" width="520" height="295">
+    <points label="fish" source="manual" occluded="0" points="228.88,159.34" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="pos26.png" width="312" height="221">
+    <points label="fish" source="manual" occluded="0" points="156.13,137.11" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="pos27.png" width="530" height="287">
+    <points label="fish" source="manual" occluded="0" points="254.81,138.87" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="pos28.png" width="516" height="272">
+    <points label="fish" source="manual" occluded="0" points="220.25,140.70" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="pos29.png" width="484" height="339">
+    <points label="fish" source="manual" occluded="0" points="204.87,162.29" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="pos3.png" width="562" height="289">
+    <points label="fish" source="manual" occluded="0" points="244.64,154.93" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="pos30.png" width="599" height="303">
+    <points label="fish" source="manual" occluded="0" points="265.53,129.09" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="pos31.png" width="440" height="235">
+    <points label="fish" source="manual" occluded="0" points="243.55,122.88" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="pos32.png" width="595" height="315">
+    <points label="fish" source="manual" occluded="0" points="328.72,161.05" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="pos33.png" width="629" height="359">
+    <points label="fish" source="manual" occluded="0" points="347.96,183.25" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="pos34.png" width="629" height="330">
+    <points label="fish" source="manual" occluded="0" points="312.75,171.59" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="pos35.png" width="439" height="284">
+    <points label="fish" source="manual" occluded="0" points="228.77,151.28" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="pos36.png" width="618" height="354">
+    <points label="fish" source="manual" occluded="0" points="305.31,186.94" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="pos37.jpg" width="960" height="720">
+    <points label="fish" source="manual" occluded="0" points="454.47,382.71" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="pos38.png" width="592" height="451">
+    <points label="fish" source="manual" occluded="0" points="289.88,197.27" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="pos39.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="380.07,328.10" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="pos4.png" width="412" height="204">
+    <points label="fish" source="manual" occluded="0" points="234.98,101.72" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="pos40.jpg" width="3072" height="2304">
+    <points label="fish" source="manual" occluded="0" points="1672.85,1244.93" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="pos41.jpg" width="599" height="800">
+    <points label="fish" source="manual" occluded="0" points="405.86,454.92" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="pos42.jpg" width="500" height="375">
+    <points label="fish" source="manual" occluded="0" points="284.51,190.96" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="pos43.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="385.95,334.64" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="pos44.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="387.25,334.64" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="pos45.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="418.63,269.28" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="pos46.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="412.75,228.10" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="pos47.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="433.01,325.49" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="pos48.jpg" width="800" height="598">
+    <points label="fish" source="manual" occluded="0" points="427.05,304.85" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="pos49.jpg" width="1000" height="659">
+    <points label="fish" source="manual" occluded="0" points="503.26,372.25" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="pos5.png" width="521" height="300">
+    <points label="fish" source="manual" occluded="0" points="260.12,161.68" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="pos6.png" width="583" height="399">
+    <points label="fish" source="manual" occluded="0" points="291.93,204.48" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="pos7.png" width="598" height="240">
+    <points label="fish" source="manual" occluded="0" points="283.29,129.62" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="pos8.png" width="466" height="245">
+    <points label="fish" source="manual" occluded="0" points="223.37,130.17" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="pos9.png" width="587" height="290">
+    <points label="fish" source="manual" occluded="0" points="281.57,154.84" z_order="0">
+    </points>
+  </image>
+</annotations>

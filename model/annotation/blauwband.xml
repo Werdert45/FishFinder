@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>3</id>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-06-30 13:37:36.146167+00:00</created>
+      <updated>2024-06-30 13:39:52.931285+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/3</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-06-30 18:35:40.072869+00:00</dumped>
+  </meta>
+  <image id="0" name="blauwband1.png" width="365" height="161">
+    <points label="fish" source="manual" occluded="0" points="204.08,84.33" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="blauwband10.png" width="372" height="157">
+    <points label="fish" source="manual" occluded="0" points="204.08,86.89" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="blauwband11.png" width="449" height="213">
+    <points label="fish" source="manual" occluded="0" points="205.50,89.53" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="blauwband12.png" width="575" height="247">
+    <points label="fish" source="manual" occluded="0" points="248.29,113.45" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="blauwband13.png" width="522" height="225">
+    <points label="fish" source="manual" occluded="0" points="235.44,88.74" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="blauwband14.png" width="567" height="261">
+    <points label="fish" source="manual" occluded="0" points="263.45,165.01" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="blauwband15.png" width="590" height="274">
+    <points label="fish" source="manual" occluded="0" points="243.41,127.72" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="blauwband16.png" width="550" height="225">
+    <points label="fish" source="manual" occluded="0" points="315.02,88.63" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="blauwband17.png" width="606" height="318">
+    <points label="fish" source="manual" occluded="0" points="274.14,174.49" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="blauwband18.png" width="637" height="339">
+    <points label="fish" source="manual" occluded="0" points="378.47,146.32" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="blauwband19.png" width="488" height="248">
+    <points label="fish" source="manual" occluded="0" points="284.30,101.97" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="blauwband2.png" width="416" height="221">
+    <points label="fish" source="manual" occluded="0" points="186.74,134.08" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="blauwband20.png" width="434" height="169">
+    <points label="fish" source="manual" occluded="0" points="212.13,79.96" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="blauwband21.png" width="379" height="159">
+    <points label="fish" source="manual" occluded="0" points="173.72,107.62" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="blauwband22.png" width="598" height="207">
+    <points label="fish" source="manual" occluded="0" points="250.86,103.51" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="blauwband23.png" width="486" height="236">
+    <points label="fish" source="manual" occluded="0" points="219.19,112.74" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="blauwband24.png" width="599" height="294">
+    <points label="fish" source="manual" occluded="0" points="253.59,158.52" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="blauwband25.png" width="503" height="246">
+    <points label="fish" source="manual" occluded="0" points="224.91,118.96" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="blauwband26.png" width="582" height="297">
+    <points label="fish" source="manual" occluded="0" points="288.55,134.23" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="blauwband27.png" width="566" height="294">
+    <points label="fish" source="manual" occluded="0" points="276.28,121.06" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="blauwband28.png" width="563" height="251">
+    <points label="fish" source="manual" occluded="0" points="266.33,139.31" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="blauwband29.png" width="589" height="235">
+    <points label="fish" source="manual" occluded="0" points="265.02,105.55" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="blauwband3.png" width="550" height="260">
+    <points label="fish" source="manual" occluded="0" points="307.71,136.74" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="blauwband30.png" width="451" height="229">
+    <points label="fish" source="manual" occluded="0" points="266.06,95.57" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="blauwband31.png" width="603" height="254">
+    <points label="fish" source="manual" occluded="0" points="243.48,113.73" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="blauwband32.png" width="503" height="261">
+    <points label="fish" source="manual" occluded="0" points="211.54,97.77" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="blauwband33.jpg" width="708" height="777">
+    <points label="fish" source="manual" occluded="0" points="389.54,430.85" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="blauwband34.jpg" width="800" height="501">
+    <points label="fish" source="manual" occluded="0" points="372.56,237.64" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="blauwband35.jpg" width="850" height="637">
+    <points label="fish" source="manual" occluded="0" points="391.67,301.88" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="blauwband36.jpg" width="850" height="595">
+    <points label="fish" source="manual" occluded="0" points="396.45,298.13" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="blauwband37.jpg" width="2350" height="1457">
+    <points label="fish" source="manual" occluded="0" points="1151.92,736.68" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="blauwband38.jpg" width="750" height="489">
+    <points label="fish" source="manual" occluded="0" points="387.24,249.81" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="blauwband39.jpg" width="1280" height="720">
+    <points label="fish" source="manual" occluded="0" points="612.19,324.66" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="blauwband4.png" width="298" height="192">
+    <points label="fish" source="manual" occluded="0" points="120.14,109.50" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="blauwband40.jpg" width="1280" height="720">
+    <points label="fish" source="manual" occluded="0" points="782.38,332.72" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="blauwband41.jpg" width="1280" height="720">
+    <points label="fish" source="manual" occluded="0" points="759.99,359.60" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="blauwband42.jpg" width="640" height="480">
+    <points label="fish" source="manual" occluded="0" points="310.58,210.44" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="blauwband43.jpg" width="850" height="595">
+    <points label="fish" source="manual" occluded="0" points="407.47,294.24" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="blauwband44.jpg" width="320" height="240">
+    <points label="fish" source="manual" occluded="0" points="181.97,117.27" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="blauwband45.jpg" width="640" height="480">
+    <points label="fish" source="manual" occluded="0" points="306.92,246.52" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="blauwband46.jpg" width="321" height="241">
+    <points label="fish" source="manual" occluded="0" points="153.01,123.64" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="blauwband47.jpg" width="695" height="460">
+    <points label="fish" source="manual" occluded="0" points="359.80,241.79" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="blauwband48.png" width="700" height="400">
+    <points label="fish" source="manual" occluded="0" points="410.73,221.31" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="blauwband49.jpg" width="624" height="468">
+    <points label="fish" source="manual" occluded="0" points="286.01,202.15" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="blauwband5.png" width="535" height="278">
+    <points label="fish" source="manual" occluded="0" points="299.14,129.09" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="blauwband6.png" width="523" height="242">
+    <points label="fish" source="manual" occluded="0" points="242.30,136.20" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="blauwband7.png" width="615" height="270">
+    <points label="fish" source="manual" occluded="0" points="386.47,104.23" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="blauwband8.png" width="438" height="209">
+    <points label="fish" source="manual" occluded="0" points="218.38,117.69" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="blauwband9.png" width="471" height="231">
+    <points label="fish" source="manual" occluded="0" points="272.57,112.55" z_order="0">
+    </points>
+  </image>
+</annotations>

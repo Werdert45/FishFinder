@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>59</id>
+      <name>siberische_steur</name>
+      <size>48</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 11:03:31.601313+00:00</created>
+      <updated>2024-07-01 11:05:03.684602+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>47</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>59</id>
+          <start>0</start>
+          <stop>47</stop>
+          <url>http://localhost:8080/api/jobs/59</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:11:56.484759+00:00</dumped>
+  </meta>
+  <image id="0" name="siberische_steur1.png" width="620" height="210">
+    <points label="fish" source="manual" occluded="0" points="286.33,87.23" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="siberische_steur10.png" width="536" height="273">
+    <points label="fish" source="manual" occluded="0" points="306.08,114.93" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="siberische_steur11.png" width="522" height="254">
+    <points label="fish" source="manual" occluded="0" points="302.11,110.55" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="siberische_steur12.png" width="613" height="322">
+    <points label="fish" source="manual" occluded="0" points="323.68,142.14" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="siberische_steur13.png" width="538" height="254">
+    <points label="fish" source="manual" occluded="0" points="304.60,113.08" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="siberische_steur14.png" width="550" height="308">
+    <points label="fish" source="manual" occluded="0" points="292.12,90.48" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="siberische_steur15.png" width="613" height="275">
+    <points label="fish" source="manual" occluded="0" points="387.55,114.56" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="siberische_steur16.png" width="592" height="307">
+    <points label="fish" source="manual" occluded="0" points="364.96,103.60" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="siberische_steur17.png" width="572" height="317">
+    <points label="fish" source="manual" occluded="0" points="323.82,174.72" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="siberische_steur18.png" width="623" height="212">
+    <points label="fish" source="manual" occluded="0" points="265.27,84.65" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="siberische_steur19.png" width="616" height="234">
+    <points label="fish" source="manual" occluded="0" points="322.87,92.85" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="siberische_steur2.png" width="579" height="261">
+    <points label="fish" source="manual" occluded="0" points="223.05,166.77" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="siberische_steur20.png" width="613" height="273">
+    <points label="fish" source="manual" occluded="0" points="362.29,105.85" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="siberische_steur21.png" width="608" height="270">
+    <points label="fish" source="manual" occluded="0" points="245.07,115.86" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="siberische_steur22.png" width="624" height="335">
+    <points label="fish" source="manual" occluded="0" points="341.47,218.37" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="siberische_steur23.png" width="527" height="296">
+    <points label="fish" source="manual" occluded="0" points="306.65,107.79" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="siberische_steur24.png" width="614" height="396">
+    <points label="fish" source="manual" occluded="0" points="341.29,261.84" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="siberische_steur25.png" width="543" height="274">
+    <points label="fish" source="manual" occluded="0" points="295.42,122.94" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="siberische_steur26.png" width="626" height="303">
+    <points label="fish" source="manual" occluded="0" points="315.43,172.75" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="siberische_steur27.png" width="602" height="300">
+    <points label="fish" source="manual" occluded="0" points="288.97,184.12" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="siberische_steur28.png" width="538" height="265">
+    <points label="fish" source="manual" occluded="0" points="253.02,160.93" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="siberische_steur29.png" width="617" height="245">
+    <points label="fish" source="manual" occluded="0" points="306.35,161.57" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="siberische_steur3.png" width="504" height="229">
+    <points label="fish" source="manual" occluded="0" points="262.76,127.01" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="siberische_steur30.png" width="626" height="289">
+    <points label="fish" source="manual" occluded="0" points="306.67,165.30" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="siberische_steur31.png" width="624" height="316">
+    <points label="fish" source="manual" occluded="0" points="393.00,70.65" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="siberische_steur32.png" width="626" height="296">
+    <points label="fish" source="manual" occluded="0" points="347.41,87.54" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="siberische_steur33.png" width="618" height="265">
+    <points label="fish" source="manual" occluded="0" points="263.92,144.13" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="siberische_steur34.png" width="573" height="312">
+    <points label="fish" source="manual" occluded="0" points="281.28,140.38" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="siberische_steur35.png" width="504" height="533">
+    <points label="fish" source="manual" occluded="0" points="226.76,269.67" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="siberische_steur36.png" width="624" height="318">
+    <points label="fish" source="manual" occluded="0" points="304.79,150.25" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="siberische_steur37.png" width="630" height="295">
+    <points label="fish" source="manual" occluded="0" points="308.19,142.86" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="siberische_steur38.png" width="631" height="200">
+    <points label="fish" source="manual" occluded="0" points="308.89,95.56" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="siberische_steur39.png" width="621" height="235">
+    <points label="fish" source="manual" occluded="0" points="277.90,94.69" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="siberische_steur4.png" width="562" height="282">
+    <points label="fish" source="manual" occluded="0" points="251.72,120.56" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="siberische_steur40.png" width="347" height="192">
+    <points label="fish" source="manual" occluded="0" points="156.01,83.62" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="siberische_steur41.png" width="606" height="345">
+    <points label="fish" source="manual" occluded="0" points="301.50,157.86" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="siberische_steur42.jpg" width="1340" height="893">
+    <points label="fish" source="manual" occluded="0" points="642.26,454.81" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="siberische_steur43.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="448.04,358.17" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="siberische_steur44.jpg" width="1024" height="682">
+    <points label="fish" source="manual" occluded="0" points="443.30,405.60" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="siberische_steur45.jpg" width="800" height="431">
+    <points label="fish" source="manual" occluded="0" points="317.42,134.02" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="siberische_steur46.jpg" width="500" height="333">
+    <points label="fish" source="manual" occluded="0" points="249.44,193.54" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="siberische_steur47.jpg" width="500" height="333">
+    <points label="fish" source="manual" occluded="0" points="215.71,177.94" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="siberische_steur48.jpg" width="300" height="200">
+    <points label="fish" source="manual" occluded="0" points="155.34,125.93" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="siberische_steur5.png" width="611" height="286">
+    <points label="fish" source="manual" occluded="0" points="321.75,120.32" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="siberische_steur6.png" width="621" height="258">
+    <points label="fish" source="manual" occluded="0" points="351.78,82.09" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="siberische_steur7.png" width="562" height="255">
+    <points label="fish" source="manual" occluded="0" points="282.79,128.86" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="siberische_steur8.png" width="555" height="356">
+    <points label="fish" source="manual" occluded="0" points="239.43,92.15" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="siberische_steur9.png" width="622" height="207">
+    <points label="fish" source="manual" occluded="0" points="331.20,95.90" z_order="0">
+    </points>
+  </image>
+</annotations>

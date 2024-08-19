@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>19</id>
+      <name>blauwneus</name>
+      <size>47</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:00:22.196596+00:00</created>
+      <updated>2024-07-01 10:01:32.694349+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>46</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>19</id>
+          <start>0</start>
+          <stop>46</stop>
+          <url>http://localhost:8080/api/jobs/19</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:27:55.248214+00:00</dumped>
+  </meta>
+  <image id="0" name="blauwneus1.png" width="501" height="249">
+    <points label="fish" source="manual" occluded="0" points="219.47,116.08" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="blauwneus10.png" width="312" height="306">
+    <points label="fish" source="manual" occluded="0" points="140.33,166.17" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="blauwneus11.png" width="523" height="298">
+    <points label="fish" source="manual" occluded="0" points="242.30,140.04" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="blauwneus12.png" width="351" height="196">
+    <points label="fish" source="manual" occluded="0" points="202.64,94.20" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="blauwneus13.png" width="625" height="318">
+    <points label="fish" source="manual" occluded="0" points="298.74,143.48" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="blauwneus14.png" width="587" height="391">
+    <points label="fish" source="manual" occluded="0" points="406.15,162.26" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="blauwneus15.png" width="528" height="274">
+    <points label="fish" source="manual" occluded="0" points="244.78,136.08" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="blauwneus16.png" width="618" height="257">
+    <points label="fish" source="manual" occluded="0" points="337.09,114.68" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="blauwneus17.png" width="614" height="266">
+    <points label="fish" source="manual" occluded="0" points="279.50,140.50" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="blauwneus18.png" width="550" height="242">
+    <points label="fish" source="manual" occluded="0" points="303.09,130.05" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="blauwneus19.png" width="626" height="355">
+    <points label="fish" source="manual" occluded="0" points="353.76,179.23" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="blauwneus2.png" width="581" height="251">
+    <points label="fish" source="manual" occluded="0" points="286.23,123.48" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="blauwneus20.png" width="553" height="208">
+    <points label="fish" source="manual" occluded="0" points="255.80,109.59" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="blauwneus21.png" width="530" height="250">
+    <points label="fish" source="manual" occluded="0" points="257.22,120.36" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="blauwneus22.png" width="506" height="250">
+    <points label="fish" source="manual" occluded="0" points="246.96,108.90" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="blauwneus23.png" width="621" height="273">
+    <points label="fish" source="manual" occluded="0" points="343.31,129.54" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="blauwneus24.png" width="605" height="315">
+    <points label="fish" source="manual" occluded="0" points="265.01,171.07" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="blauwneus25.png" width="636" height="380">
+    <points label="fish" source="manual" occluded="0" points="321.13,152.41" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="blauwneus26.png" width="561" height="299">
+    <points label="fish" source="manual" occluded="0" points="319.55,128.29" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="blauwneus27.png" width="325" height="772">
+    <points label="fish" source="manual" occluded="0" points="183.07,351.93" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="blauwneus28.png" width="570" height="308">
+    <points label="fish" source="manual" occluded="0" points="328.88,159.80" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="blauwneus29.png" width="623" height="365">
+    <points label="fish" source="manual" occluded="0" points="346.58,180.34" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="blauwneus3.png" width="583" height="309">
+    <points label="fish" source="manual" occluded="0" points="292.51,182.64" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="blauwneus30.jpg" width="1200" height="900">
+    <points label="fish" source="manual" occluded="0" points="433.33,463.24" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="blauwneus31.jpg" width="640" height="480">
+    <points label="fish" source="manual" occluded="0" points="362.34,219.33" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="blauwneus32.jpg" width="448" height="336">
+    <points label="fish" source="manual" occluded="0" points="260.96,167.08" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="blauwneus33.jpg" width="686" height="777">
+    <points label="fish" source="manual" occluded="0" points="431.87,524.80" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="blauwneus34.jpg" width="554" height="800">
+    <points label="fish" source="manual" occluded="0" points="470.44,390.00" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="blauwneus35.jpg" width="800" height="450">
+    <points label="fish" source="manual" occluded="0" points="411.75,296.93" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="blauwneus36.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="511.11,285.95" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="blauwneus37.jpg" width="448" height="336">
+    <points label="fish" source="manual" occluded="0" points="266.45,165.98" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="blauwneus38.jpg" width="683" height="1024">
+    <points label="fish" source="manual" occluded="0" points="419.01,538.26" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="blauwneus39.jpg" width="640" height="426">
+    <points label="fish" source="manual" occluded="0" points="342.73,229.45" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="blauwneus4.png" width="570" height="280">
+    <points label="fish" source="manual" occluded="0" points="282.61,150.58" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="blauwneus40.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="527.45,303.59" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="blauwneus41.jpg" width="3648" height="2736">
+    <points label="fish" source="manual" occluded="0" points="2062.52,1378.52" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="blauwneus42.jpg" width="3388" height="2541">
+    <points label="fish" source="manual" occluded="0" points="1860.02,1289.82" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="blauwneus43.jpg" width="2000" height="1090">
+    <points label="fish" source="manual" occluded="0" points="966.40,554.09" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="blauwneus44.jpg" width="1200" height="797">
+    <points label="fish" source="manual" occluded="0" points="641.68,362.91" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="blauwneus47.jpg" width="700" height="524">
+    <points label="fish" source="manual" occluded="0" points="340.27,257.16" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="blauwneus48.jpg" width="2736" height="3648">
+    <points label="fish" source="manual" occluded="0" points="1411.90,1674.97" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="blauwneus49.jpg" width="470" height="470">
+    <points label="fish" source="manual" occluded="0" points="237.04,217.84" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="blauwneus5.png" width="371" height="734">
+    <points label="fish" source="manual" occluded="0" points="198.67,350.58" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="blauwneus6.png" width="612" height="283">
+    <points label="fish" source="manual" occluded="0" points="291.87,139.79" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="blauwneus7.png" width="584" height="266">
+    <points label="fish" source="manual" occluded="0" points="269.13,125.85" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="blauwneus8.png" width="563" height="267">
+    <points label="fish" source="manual" occluded="0" points="261.21,136.27" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="blauwneus9.png" width="581" height="306">
+    <points label="fish" source="manual" occluded="0" points="313.06,127.18" z_order="0">
+    </points>
+  </image>
+</annotations>

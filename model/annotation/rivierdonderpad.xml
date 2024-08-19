@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>34</id>
+      <name>rivierdonderpad</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:25:22.384484+00:00</created>
+      <updated>2024-07-01 10:26:32.720043+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>34</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/34</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:22:18.353490+00:00</dumped>
+  </meta>
+  <image id="0" name="rivierdonderpad1.png" width="538" height="259">
+    <points label="fish" source="manual" occluded="0" points="215.37,98.24" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="rivierdonderpad10.png" width="266" height="307">
+    <points label="fish" source="manual" occluded="0" points="110.78,127.43" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="rivierdonderpad11.png" width="252" height="277">
+    <points label="fish" source="manual" occluded="0" points="131.89,166.26" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="rivierdonderpad12.png" width="389" height="186">
+    <points label="fish" source="manual" occluded="0" points="187.69,93.69" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="rivierdonderpad13.png" width="637" height="319">
+    <points label="fish" source="manual" occluded="0" points="231.15,122.96" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="rivierdonderpad14.png" width="520" height="316">
+    <points label="fish" source="manual" occluded="0" points="192.49,178.55" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="rivierdonderpad15.png" width="277" height="252">
+    <points label="fish" source="manual" occluded="0" points="165.96,124.48" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="rivierdonderpad16.png" width="594" height="500">
+    <points label="fish" source="manual" occluded="0" points="403.46,306.90" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="rivierdonderpad17.png" width="315" height="468">
+    <points label="fish" source="manual" occluded="0" points="164.62,290.34" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="rivierdonderpad18.png" width="337" height="582">
+    <points label="fish" source="manual" occluded="0" points="164.08,357.25" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="rivierdonderpad19.png" width="317" height="600">
+    <points label="fish" source="manual" occluded="0" points="116.01,206.86" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="rivierdonderpad2.png" width="582" height="337">
+    <points label="fish" source="manual" occluded="0" points="270.83,146.08" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="rivierdonderpad20.png" width="259" height="538">
+    <points label="fish" source="manual" occluded="0" points="99.62,353.09" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="rivierdonderpad21.png" width="493" height="544">
+    <points label="fish" source="manual" occluded="0" points="294.47,230.83" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="rivierdonderpad22.png" width="300" height="516">
+    <points label="fish" source="manual" occluded="0" points="160.42,174.53" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="rivierdonderpad23.png" width="342" height="584">
+    <points label="fish" source="manual" occluded="0" points="166.23,332.39" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="rivierdonderpad24.png" width="203" height="421">
+    <points label="fish" source="manual" occluded="0" points="142.32,174.28" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="rivierdonderpad25.png" width="252" height="277">
+    <points label="fish" source="manual" occluded="0" points="132.50,108.63" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="rivierdonderpad26.png" width="316" height="520">
+    <points label="fish" source="manual" occluded="0" points="187.18,321.43" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="rivierdonderpad27.png" width="319" height="637">
+    <points label="fish" source="manual" occluded="0" points="156.72,423.31" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="rivierdonderpad28.png" width="186" height="389">
+    <points label="fish" source="manual" occluded="0" points="102.96,240.25" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="rivierdonderpad29.png" width="307" height="266">
+    <points label="fish" source="manual" occluded="0" points="155.25,153.42" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="rivierdonderpad3.png" width="600" height="317">
+    <points label="fish" source="manual" occluded="0" points="337.15,129.52" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="rivierdonderpad30.png" width="277" height="252">
+    <points label="fish" source="manual" occluded="0" points="176.12,128.33" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="rivierdonderpad31.png" width="500" height="594">
+    <points label="fish" source="manual" occluded="0" points="344.79,207.35" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="rivierdonderpad32.png" width="468" height="315">
+    <points label="fish" source="manual" occluded="0" points="308.98,146.85" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="rivierdonderpad33.png" width="582" height="337">
+    <points label="fish" source="manual" occluded="0" points="365.73,165.23" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="rivierdonderpad34.png" width="600" height="317">
+    <points label="fish" source="manual" occluded="0" points="195.23,181.17" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="rivierdonderpad35.png" width="538" height="259">
+    <points label="fish" source="manual" occluded="0" points="324.55,157.73" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="rivierdonderpad36.png" width="544" height="493">
+    <points label="fish" source="manual" occluded="0" points="259.89,208.39" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="rivierdonderpad37.png" width="516" height="300">
+    <points label="fish" source="manual" occluded="0" points="194.61,161.72" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="rivierdonderpad38.png" width="584" height="342">
+    <points label="fish" source="manual" occluded="0" points="320.42,147.10" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="rivierdonderpad39.png" width="421" height="203">
+    <points label="fish" source="manual" occluded="0" points="191.93,75.59" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="rivierdonderpad4.png" width="544" height="493">
+    <points label="fish" source="manual" occluded="0" points="315.74,293.78" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="rivierdonderpad40.png" width="277" height="252">
+    <points label="fish" source="manual" occluded="0" points="106.94,126.95" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="rivierdonderpad41.png" width="520" height="316">
+    <points label="fish" source="manual" occluded="0" points="324.22,136.71" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="rivierdonderpad42.png" width="637" height="319">
+    <points label="fish" source="manual" occluded="0" points="447.79,162.63" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="rivierdonderpad43.png" width="389" height="186">
+    <points label="fish" source="manual" occluded="0" points="284.30,84.70" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="rivierdonderpad44.png" width="266" height="307">
+    <points label="fish" source="manual" occluded="0" points="157.59,157.53" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="rivierdonderpad45.png" width="252" height="277">
+    <points label="fish" source="manual" occluded="0" points="147.58,93.24" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="rivierdonderpad46.png" width="594" height="500">
+    <points label="fish" source="manual" occluded="0" points="261.31,185.98" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="rivierdonderpad47.png" width="315" height="468">
+    <points label="fish" source="manual" occluded="0" points="151.37,160.85" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="rivierdonderpad48.png" width="337" height="582">
+    <points label="fish" source="manual" occluded="0" points="169.15,253.91" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="rivierdonderpad49.png" width="317" height="600">
+    <points label="fish" source="manual" occluded="0" points="187.91,340.20" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="rivierdonderpad5.png" width="516" height="300">
+    <points label="fish" source="manual" occluded="0" points="289.94,144.03" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="rivierdonderpad6.png" width="421" height="203">
+    <points label="fish" source="manual" occluded="0" points="242.31,128.03" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="rivierdonderpad7.png" width="584" height="342">
+    <points label="fish" source="manual" occluded="0" points="338.81,183.47" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="rivierdonderpad8.png" width="500" height="594">
+    <points label="fish" source="manual" occluded="0" points="194.02,401.47" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="rivierdonderpad9.png" width="468" height="315">
+    <points label="fish" source="manual" occluded="0" points="194.37,174.30" z_order="0">
+    </points>
+  </image>
+</annotations>

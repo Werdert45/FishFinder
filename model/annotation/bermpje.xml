@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>54</id>
+      <name>bermpje</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:56:57.085732+00:00</created>
+      <updated>2024-07-01 10:57:50.339205+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>54</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/54</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:14:47.066237+00:00</dumped>
+  </meta>
+  <image id="0" name="bermpje1.png" width="487" height="242">
+    <points label="fish" source="manual" occluded="0" points="200.04,130.21" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="bermpje10.png" width="471" height="292">
+    <points label="fish" source="manual" occluded="0" points="204.34,151.60" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="bermpje11.png" width="462" height="256">
+    <points label="fish" source="manual" occluded="0" points="226.47,112.79" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="bermpje12.png" width="368" height="178">
+    <points label="fish" source="manual" occluded="0" points="178.84,69.67" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="bermpje13.png" width="560" height="289">
+    <points label="fish" source="manual" occluded="0" points="272.16,132.14" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="bermpje14.png" width="503" height="332">
+    <points label="fish" source="manual" occluded="0" points="254.20,137.79" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="bermpje15.png" width="582" height="284">
+    <points label="fish" source="manual" occluded="0" points="295.47,121.65" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="bermpje16.png" width="574" height="339">
+    <points label="fish" source="manual" occluded="0" points="291.41,149.62" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="bermpje17.png" width="539" height="246">
+    <points label="fish" source="manual" occluded="0" points="273.83,105.64" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="bermpje18.png" width="611" height="282">
+    <points label="fish" source="manual" occluded="0" points="306.57,117.50" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="bermpje19.png" width="617" height="343">
+    <points label="fish" source="manual" occluded="0" points="325.99,125.09" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="bermpje2.png" width="561" height="221">
+    <points label="fish" source="manual" occluded="0" points="290.50,95.78" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="bermpje20.png" width="366" height="291">
+    <points label="fish" source="manual" occluded="0" points="204.56,156.75" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="bermpje21.png" width="624" height="388">
+    <points label="fish" source="manual" occluded="0" points="299.77,135.49" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="bermpje22.jpg" width="800" height="531">
+    <points label="fish" source="manual" occluded="0" points="365.89,222.38" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="bermpje23.jpg" width="850" height="513">
+    <points label="fish" source="manual" occluded="0" points="377.41,231.79" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="bermpje24.jpg" width="850" height="536">
+    <points label="fish" source="manual" occluded="0" points="373.24,240.66" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="bermpje25.jpg" width="850" height="513">
+    <points label="fish" source="manual" occluded="0" points="373.24,238.34" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="bermpje26.jpg" width="777" height="407">
+    <points label="fish" source="manual" occluded="0" points="358.33,206.51" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="bermpje27.jpg" width="640" height="360">
+    <points label="fish" source="manual" occluded="0" points="311.05,204.19" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="bermpje28.jpg" width="1600" height="1200">
+    <points label="fish" source="manual" occluded="0" points="841.76,646.99" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="bermpje29.jpg" width="800" height="302">
+    <points label="fish" source="manual" occluded="0" points="412.87,184.57" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="bermpje3.png" width="492" height="230">
+    <points label="fish" source="manual" occluded="0" points="253.92,136.00" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="bermpje30.jpg" width="700" height="525">
+    <points label="fish" source="manual" occluded="0" points="380.32,249.64" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="bermpje31.jpg" width="1200" height="1162">
+    <points label="fish" source="manual" occluded="0" points="684.86,697.40" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="bermpje32.jpg" width="750" height="562">
+    <points label="fish" source="manual" occluded="0" points="367.06,222.82" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="bermpje33.jpg" width="1621" height="1216">
+    <points label="fish" source="manual" occluded="0" points="831.05,503.34" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="bermpje34.jpg" width="2672" height="1734">
+    <points label="fish" source="manual" occluded="0" points="1383.24,804.68" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="bermpje35.jpg" width="500" height="375">
+    <points label="fish" source="manual" occluded="0" points="281.85,178.71" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="bermpje36.jpg" width="1024" height="479">
+    <points label="fish" source="manual" occluded="0" points="554.27,224.79" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="bermpje37.jpg" width="640" height="480">
+    <points label="fish" source="manual" occluded="0" points="356.07,260.90" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="bermpje38.jpg" width="1200" height="759">
+    <points label="fish" source="manual" occluded="0" points="636.10,418.52" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="bermpje39.jpg" width="800" height="457">
+    <points label="fish" source="manual" occluded="0" points="391.60,173.37" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="bermpje4.png" width="421" height="253">
+    <points label="fish" source="manual" occluded="0" points="213.58,127.23" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="bermpje40.jpg" width="600" height="400">
+    <points label="fish" source="manual" occluded="0" points="290.00,198.28" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="bermpje41.jpg" width="600" height="400">
+    <points label="fish" source="manual" occluded="0" points="297.41,252.31" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="bermpje42.jpg" width="4479" height="2986">
+    <points label="fish" source="manual" occluded="0" points="2234.48,1379.02" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="bermpje43.jpg" width="800" height="533">
+    <points label="fish" source="manual" occluded="0" points="397.69,302.76" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="bermpje44.jpg" width="600" height="450">
+    <points label="fish" source="manual" occluded="0" points="303.43,210.78" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="bermpje45.jpg" width="1200" height="900">
+    <points label="fish" source="manual" occluded="0" points="590.20,431.37" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="bermpje46.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="307.44,300.47" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="bermpje47.jpg" width="1157" height="1200">
+    <points label="fish" source="manual" occluded="0" points="619.67,632.61" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="bermpje48.jpg" width="480" height="480">
+    <points label="fish" source="manual" occluded="0" points="256.72,253.06" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="bermpje49.jpg" width="1080" height="847">
+    <points label="fish" source="manual" occluded="0" points="574.11,369.56" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="bermpje5.png" width="373" height="212">
+    <points label="fish" source="manual" occluded="0" points="193.42,92.16" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="bermpje6.png" width="489" height="221">
+    <points label="fish" source="manual" occluded="0" points="234.05,106.21" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="bermpje7.png" width="569" height="271">
+    <points label="fish" source="manual" occluded="0" points="265.97,134.09" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="bermpje8.png" width="568" height="293">
+    <points label="fish" source="manual" occluded="0" points="265.31,145.51" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="bermpje9.png" width="552" height="386">
+    <points label="fish" source="manual" occluded="0" points="248.24,240.50" z_order="0">
+    </points>
+  </image>
+</annotations>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>45</id>
+      <name>kroeskarper</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:42:58.294402+00:00</created>
+      <updated>2024-07-01 10:44:45.216399+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>45</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/45</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:18:03.514495+00:00</dumped>
+  </meta>
+  <image id="0" name="kroeskarper1.png" width="528" height="306">
+    <points label="fish" source="manual" occluded="0" points="221.32,175.91" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="kroeskarper10.png" width="561" height="393">
+    <points label="fish" source="manual" occluded="0" points="240.68,214.70" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="kroeskarper11.png" width="321" height="173">
+    <points label="fish" source="manual" occluded="0" points="138.26,108.64" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="kroeskarper12.png" width="609" height="402">
+    <points label="fish" source="manual" occluded="0" points="267.26,208.45" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="kroeskarper13.png" width="444" height="219">
+    <points label="fish" source="manual" occluded="0" points="196.36,107.16" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="kroeskarper14.png" width="575" height="324">
+    <points label="fish" source="manual" occluded="0" points="293.55,160.00" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="kroeskarper15.png" width="615" height="306">
+    <points label="fish" source="manual" occluded="0" points="306.63,152.56" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="kroeskarper16.png" width="547" height="315">
+    <points label="fish" source="manual" occluded="0" points="290.71,158.46" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="kroeskarper17.png" width="607" height="389">
+    <points label="fish" source="manual" occluded="0" points="283.95,181.11" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="kroeskarper18.png" width="617" height="395">
+    <points label="fish" source="manual" occluded="0" points="288.21,183.03" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="kroeskarper19.png" width="613" height="369">
+    <points label="fish" source="manual" occluded="0" points="279.45,170.54" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="kroeskarper2.png" width="536" height="310">
+    <points label="fish" source="manual" occluded="0" points="291.45,162.87" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="kroeskarper20.png" width="581" height="310">
+    <points label="fish" source="manual" occluded="0" points="290.90,141.16" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="kroeskarper21.png" width="376" height="209">
+    <points label="fish" source="manual" occluded="0" points="168.66,98.85" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="kroeskarper22.png" width="627" height="328">
+    <points label="fish" source="manual" occluded="0" points="349.46,161.80" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="kroeskarper23.png" width="600" height="407">
+    <points label="fish" source="manual" occluded="0" points="315.76,191.75" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="kroeskarper24.png" width="555" height="333">
+    <points label="fish" source="manual" occluded="0" points="258.46,170.18" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="kroeskarper25.png" width="435" height="262">
+    <points label="fish" source="manual" occluded="0" points="226.95,131.30" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="kroeskarper26.jpg" width="750" height="499">
+    <points label="fish" source="manual" occluded="0" points="338.31,270.96" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="kroeskarper27.jpg" width="750" height="519">
+    <points label="fish" source="manual" occluded="0" points="402.39,341.79" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="kroeskarper28.jpg" width="340" height="400">
+    <points label="fish" source="manual" occluded="0" points="240.81,260.59" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="kroeskarper29.jpg" width="1024" height="683">
+    <points label="fish" source="manual" occluded="0" points="494.49,365.71" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="kroeskarper3.png" width="351" height="221">
+    <points label="fish" source="manual" occluded="0" points="154.62,125.12" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="kroeskarper30.jpg" width="800" height="400">
+    <points label="fish" source="manual" occluded="0" points="396.91,247.61" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="kroeskarper31.jpg" width="800" height="531">
+    <points label="fish" source="manual" occluded="0" points="403.20,253.04" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="kroeskarper32.jpg" width="800" height="780">
+    <points label="fish" source="manual" occluded="0" points="404.67,389.12" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="kroeskarper33.jpg" width="1023" height="679">
+    <points label="fish" source="manual" occluded="0" points="518.93,333.21" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="kroeskarper34.jpg" width="1023" height="679">
+    <points label="fish" source="manual" occluded="0" points="510.79,312.49" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="kroeskarper35.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="443.99,300.85" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="kroeskarper36.jpg" width="666" height="499">
+    <points label="fish" source="manual" occluded="0" points="359.35,270.42" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="kroeskarper37.jpg" width="2044" height="1172">
+    <points label="fish" source="manual" occluded="0" points="1078.48,663.24" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="kroeskarper38.jpg" width="413" height="400">
+    <points label="fish" source="manual" occluded="0" points="196.49,273.22" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="kroeskarper39.jpg" width="800" height="534">
+    <points label="fish" source="manual" occluded="0" points="389.24,327.52" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="kroeskarper4.png" width="620" height="535">
+    <points label="fish" source="manual" occluded="0" points="319.05,270.68" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="kroeskarper40.jpg" width="590" height="787">
+    <points label="fish" source="manual" occluded="0" points="289.39,422.18" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="kroeskarper41.jpg" width="630" height="395">
+    <points label="fish" source="manual" occluded="0" points="292.76,214.46" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="kroeskarper42.jpg" width="640" height="480">
+    <points label="fish" source="manual" occluded="0" points="344.82,310.58" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="kroeskarper43.jpg" width="1600" height="1200">
+    <points label="fish" source="manual" occluded="0" points="838.50,780.33" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="kroeskarper44.jpg" width="1024" height="768">
+    <points label="fish" source="manual" occluded="0" points="550.05,548.80" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="kroeskarper45.jpg" width="1280" height="720">
+    <points label="fish" source="manual" occluded="0" points="647.57,439.76" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="kroeskarper46.jpg" width="276" height="183">
+    <points label="fish" source="manual" occluded="0" points="151.65,90.41" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="kroeskarper47.jpg" width="500" height="324">
+    <points label="fish" source="manual" occluded="0" points="263.25,158.81" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="kroeskarper48.jpg" width="567" height="308">
+    <points label="fish" source="manual" occluded="0" points="264.44,154.81" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="kroeskarper49.jpg" width="500" height="324">
+    <points label="fish" source="manual" occluded="0" points="266.78,156.34" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="kroeskarper5.png" width="554" height="324">
+    <points label="fish" source="manual" occluded="0" points="284.54,178.67" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="kroeskarper6.png" width="599" height="328">
+    <points label="fish" source="manual" occluded="0" points="290.26,184.97" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="kroeskarper7.png" width="598" height="384">
+    <points label="fish" source="manual" occluded="0" points="333.09,188.25" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="kroeskarper8.png" width="483" height="287">
+    <points label="fish" source="manual" occluded="0" points="251.98,159.54" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="kroeskarper9.png" width="536" height="296">
+    <points label="fish" source="manual" occluded="0" points="273.45,173.52" z_order="0">
+    </points>
+  </image>
+</annotations>

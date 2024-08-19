@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>36</id>
+      <name>zwarte_grondel</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:28:15.882683+00:00</created>
+      <updated>2024-07-01 10:29:16.018074+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>36</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/36</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:21:40.922419+00:00</dumped>
+  </meta>
+  <image id="0" name="zwarte_grondel1.png" width="627" height="334">
+    <points label="fish" source="manual" occluded="0" points="288.25,155.13" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="zwarte_grondel10.png" width="550" height="328">
+    <points label="fish" source="manual" occluded="0" points="244.20,153.22" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="zwarte_grondel11.png" width="590" height="272">
+    <points label="fish" source="manual" occluded="0" points="281.80,129.41" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="zwarte_grondel12.png" width="379" height="285">
+    <points label="fish" source="manual" occluded="0" points="180.64,137.67" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="zwarte_grondel13.png" width="591" height="360">
+    <points label="fish" source="manual" occluded="0" points="314.32,155.59" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="zwarte_grondel14.png" width="533" height="323">
+    <points label="fish" source="manual" occluded="0" points="279.74,158.70" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="zwarte_grondel15.png" width="361" height="320">
+    <points label="fish" source="manual" occluded="0" points="166.02,157.89" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="zwarte_grondel16.png" width="513" height="365">
+    <points label="fish" source="manual" occluded="0" points="256.68,173.14" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="zwarte_grondel17.png" width="455" height="256">
+    <points label="fish" source="manual" occluded="0" points="234.34,120.03" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="zwarte_grondel18.png" width="551" height="311">
+    <points label="fish" source="manual" occluded="0" points="271.05,135.25" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="zwarte_grondel19.png" width="577" height="286">
+    <points label="fish" source="manual" occluded="0" points="270.55,147.03" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="zwarte_grondel2.png" width="633" height="327">
+    <points label="fish" source="manual" occluded="0" points="303.86,189.40" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="zwarte_grondel20.png" width="339" height="170">
+    <points label="fish" source="manual" occluded="0" points="162.74,99.00" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="zwarte_grondel21.png" width="599" height="291">
+    <points label="fish" source="manual" occluded="0" points="287.54,170.42" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="zwarte_grondel22.png" width="549" height="272">
+    <points label="fish" source="manual" occluded="0" points="328.10,125.20" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="zwarte_grondel23.png" width="360" height="831">
+    <points label="fish" source="manual" occluded="0" points="166.41,379.77" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="zwarte_grondel24.png" width="523" height="222">
+    <points label="fish" source="manual" occluded="0" points="268.65,79.51" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="zwarte_grondel25.png" width="337" height="721">
+    <points label="fish" source="manual" occluded="0" points="141.39,294.93" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="zwarte_grondel26.png" width="608" height="328">
+    <points label="fish" source="manual" occluded="0" points="283.15,133.39" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="zwarte_grondel27.png" width="592" height="266">
+    <points label="fish" source="manual" occluded="0" points="256.63,176.51" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="zwarte_grondel28.png" width="618" height="275">
+    <points label="fish" source="manual" occluded="0" points="262.71,148.97" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="zwarte_grondel29.png" width="612" height="337">
+    <points label="fish" source="manual" occluded="0" points="262.32,169.99" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="zwarte_grondel3.png" width="479" height="281">
+    <points label="fish" source="manual" occluded="0" points="235.63,148.72" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="zwarte_grondel30.png" width="339" height="185">
+    <points label="fish" source="manual" occluded="0" points="176.97,99.26" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="zwarte_grondel31.png" width="294" height="214">
+    <points label="fish" source="manual" occluded="0" points="149.10,98.14" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="zwarte_grondel32.png" width="480" height="272">
+    <points label="fish" source="manual" occluded="0" points="243.02,122.90" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="zwarte_grondel33.png" width="526" height="294">
+    <points label="fish" source="manual" occluded="0" points="266.32,132.63" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="zwarte_grondel34.png" width="602" height="310">
+    <points label="fish" source="manual" occluded="0" points="304.77,138.58" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="zwarte_grondel35.png" width="586" height="342">
+    <points label="fish" source="manual" occluded="0" points="211.00,159.50" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="zwarte_grondel36.png" width="518" height="265">
+    <points label="fish" source="manual" occluded="0" points="306.47,102.24" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="zwarte_grondel37.png" width="617" height="323">
+    <points label="fish" source="manual" occluded="0" points="297.50,153.50" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="zwarte_grondel38.png" width="399" height="256">
+    <points label="fish" source="manual" occluded="0" points="177.87,96.45" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="zwarte_grondel39.png" width="614" height="303">
+    <points label="fish" source="manual" occluded="0" points="278.64,127.66" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="zwarte_grondel4.png" width="590" height="349">
+    <points label="fish" source="manual" occluded="0" points="324.33,170.16" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="zwarte_grondel40.png" width="610" height="276">
+    <points label="fish" source="manual" occluded="0" points="335.74,133.32" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="zwarte_grondel41.png" width="606" height="333">
+    <points label="fish" source="manual" occluded="0" points="345.81,121.77" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="zwarte_grondel42.png" width="523" height="309">
+    <points label="fish" source="manual" occluded="0" points="282.92,138.21" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="zwarte_grondel43.png" width="618" height="333">
+    <points label="fish" source="manual" occluded="0" points="334.50,147.24" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="zwarte_grondel44.png" width="560" height="353">
+    <points label="fish" source="manual" occluded="0" points="303.11,159.06" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="zwarte_grondel45.png" width="511" height="341">
+    <points label="fish" source="manual" occluded="0" points="277.61,153.99" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="zwarte_grondel46.png" width="636" height="324">
+    <points label="fish" source="manual" occluded="0" points="285.97,176.71" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="zwarte_grondel47.png" width="629" height="386">
+    <points label="fish" source="manual" occluded="0" points="356.10,184.66" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="zwarte_grondel48.jpg" width="260" height="195">
+    <points label="fish" source="manual" occluded="0" points="133.39,97.60" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="zwarte_grondel49.jpg" width="870" height="350">
+    <points label="fish" source="manual" occluded="0" points="489.77,176.23" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="zwarte_grondel5.png" width="603" height="345">
+    <points label="fish" source="manual" occluded="0" points="298.34,179.89" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="zwarte_grondel6.png" width="598" height="322">
+    <points label="fish" source="manual" occluded="0" points="300.66,120.42" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="zwarte_grondel7.png" width="536" height="353">
+    <points label="fish" source="manual" occluded="0" points="265.29,147.08" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="zwarte_grondel8.png" width="615" height="378">
+    <points label="fish" source="manual" occluded="0" points="295.66,161.47" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="zwarte_grondel9.png" width="501" height="233">
+    <points label="fish" source="manual" occluded="0" points="240.86,94.24" z_order="0">
+    </points>
+  </image>
+</annotations>

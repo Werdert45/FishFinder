@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>28</id>
+      <name>sterlet</name>
+      <size>50</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:16:32.020771+00:00</created>
+      <updated>2024-07-01 10:17:53.057516+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>49</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>28</id>
+          <start>0</start>
+          <stop>49</stop>
+          <url>http://localhost:8080/api/jobs/28</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:24:26.540532+00:00</dumped>
+  </meta>
+  <image id="0" name="sterlet1.png" width="620" height="243">
+    <points label="fish" source="manual" occluded="0" points="238.17,124.98" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="sterlet10.png" width="634" height="225">
+    <points label="fish" source="manual" occluded="0" points="351.81,109.39" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="sterlet11.png" width="629" height="210">
+    <points label="fish" source="manual" occluded="0" points="307.91,128.10" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="sterlet12.png" width="457" height="291">
+    <points label="fish" source="manual" occluded="0" points="239.05,135.59" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="sterlet13.png" width="533" height="207">
+    <points label="fish" source="manual" occluded="0" points="273.58,100.89" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="sterlet14.png" width="583" height="189">
+    <points label="fish" source="manual" occluded="0" points="324.94,102.67" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="sterlet15.png" width="538" height="227">
+    <points label="fish" source="manual" occluded="0" points="222.90,116.13" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="sterlet16.png" width="414" height="229">
+    <points label="fish" source="manual" occluded="0" points="213.82,97.99" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="sterlet17.png" width="518" height="234">
+    <points label="fish" source="manual" occluded="0" points="243.22,112.47" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="sterlet18.jpg" width="600" height="400">
+    <points label="fish" source="manual" occluded="0" points="282.77,194.57" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="sterlet19.jpg" width="1180" height="789">
+    <points label="fish" source="manual" occluded="0" points="611.10,466.71" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="sterlet2.png" width="428" height="163">
+    <points label="fish" source="manual" occluded="0" points="230.91,86.28" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="sterlet20.jpg" width="1030" height="749">
+    <points label="fish" source="manual" occluded="0" points="455.02,439.76" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="sterlet21.jpg" width="886" height="591">
+    <points label="fish" source="manual" occluded="0" points="447.85,340.60" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="sterlet22.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="410.78,300.98" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="sterlet23.jpg" width="573" height="299">
+    <points label="fish" source="manual" occluded="0" points="292.51,167.97" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="sterlet23.png" width="316" height="481">
+    <points label="fish" source="manual" occluded="0" points="198.11,205.92" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="sterlet24.png" width="201" height="631">
+    <points label="fish" source="manual" occluded="0" points="92.95,359.51" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="sterlet25.png" width="174" height="425">
+    <points label="fish" source="manual" occluded="0" points="82.13,207.87" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="sterlet26.png" width="291" height="457">
+    <points label="fish" source="manual" occluded="0" points="127.60,211.09" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="sterlet27.png" width="207" height="533">
+    <points label="fish" source="manual" occluded="0" points="106.40,280.99" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="sterlet28.png" width="210" height="629">
+    <points label="fish" source="manual" occluded="0" points="136.16,320.00" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="sterlet29.png" width="225" height="634">
+    <points label="fish" source="manual" occluded="0" points="110.43,247.59" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="sterlet3.png" width="481" height="316">
+    <points label="fish" source="manual" occluded="0" points="261.49,167.14" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="sterlet30.png" width="189" height="583">
+    <points label="fish" source="manual" occluded="0" points="109.08,267.98" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="sterlet31.png" width="227" height="538">
+    <points label="fish" source="manual" occluded="0" points="143.99,313.83" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="sterlet32.png" width="234" height="518">
+    <points label="fish" source="manual" occluded="0" points="110.51,281.32" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="sterlet33.png" width="229" height="414">
+    <points label="fish" source="manual" occluded="0" points="104.12,215.78" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="sterlet34.jpg" width="400" height="600">
+    <points label="fish" source="manual" occluded="0" points="206.86,287.91" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="sterlet35.jpg" width="789" height="1180">
+    <points label="fish" source="manual" occluded="0" points="483.14,622.73" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="sterlet36.jpg" width="591" height="886">
+    <points label="fish" source="manual" occluded="0" points="334.11,547.70" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="sterlet37.jpg" width="749" height="1030">
+    <points label="fish" source="manual" occluded="0" points="453.03,599.67" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="sterlet38.jpg" width="600" height="800">
+    <points label="fish" source="manual" occluded="0" points="292.57,424.86" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="sterlet39.jpg" width="299" height="573">
+    <points label="fish" source="manual" occluded="0" points="176.94,308.33" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="sterlet4.png" width="166" height="391">
+    <points label="fish" source="manual" occluded="0" points="61.06,190.80" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="sterlet40.png" width="217" height="447">
+    <points label="fish" source="manual" occluded="0" points="72.48,266.33" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="sterlet41.png" width="224" height="635">
+    <points label="fish" source="manual" occluded="0" points="95.03,270.45" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="sterlet42.png" width="391" height="166">
+    <points label="fish" source="manual" occluded="0" points="206.44,117.35" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="sterlet43.png" width="248" height="517">
+    <points label="fish" source="manual" occluded="0" points="101.75,282.13" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="sterlet44.png" width="243" height="620">
+    <points label="fish" source="manual" occluded="0" points="132.29,363.68" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="sterlet45.png" width="163" height="428">
+    <points label="fish" source="manual" occluded="0" points="82.46,160.13" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="sterlet46.png" width="316" height="481">
+    <points label="fish" source="manual" occluded="0" points="174.00,217.40" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="sterlet47.png" width="631" height="201">
+    <points label="fish" source="manual" occluded="0" points="356.58,102.72" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="sterlet48.png" width="425" height="174">
+    <points label="fish" source="manual" occluded="0" points="237.77,89.51" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="sterlet49.png" width="457" height="291">
+    <points label="fish" source="manual" occluded="0" points="231.05,149.67" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="sterlet5.png" width="517" height="248">
+    <points label="fish" source="manual" occluded="0" points="244.03,104.99" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="sterlet6.png" width="635" height="224">
+    <points label="fish" source="manual" occluded="0" points="351.71,86.91" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="sterlet7.png" width="447" height="217">
+    <points label="fish" source="manual" occluded="0" points="184.70,82.54" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="sterlet8.png" width="631" height="201">
+    <points label="fish" source="manual" occluded="0" points="271.35,92.12" z_order="0">
+    </points>
+  </image>
+  <image id="49" name="sterlet9.png" width="425" height="174">
+    <points label="fish" source="manual" occluded="0" points="219.33,82.08" z_order="0">
+    </points>
+  </image>
+</annotations>

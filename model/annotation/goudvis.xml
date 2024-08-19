@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>44</id>
+      <name>goudvis</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:40:17.619939+00:00</created>
+      <updated>2024-07-01 10:41:57.737180+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>44</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/44</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:18:18.204533+00:00</dumped>
+  </meta>
+  <image id="0" name="goudvis1.png" width="612" height="462">
+    <points label="fish" source="manual" occluded="0" points="293.65,205.83" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="goudvis10.png" width="639" height="337">
+    <points label="fish" source="manual" occluded="0" points="348.56,178.99" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="goudvis11.png" width="593" height="304">
+    <points label="fish" source="manual" occluded="0" points="292.36,160.32" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="goudvis12.png" width="392" height="261">
+    <points label="fish" source="manual" occluded="0" points="193.31,136.33" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="goudvis13.png" width="488" height="246">
+    <points label="fish" source="manual" occluded="0" points="256.81,134.96" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="goudvis14.png" width="501" height="296">
+    <points label="fish" source="manual" occluded="0" points="268.03,137.82" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="goudvis15.png" width="593" height="395">
+    <points label="fish" source="manual" occluded="0" points="317.60,189.12" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="goudvis16.png" width="417" height="247">
+    <points label="fish" source="manual" occluded="0" points="214.04,118.39" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="goudvis17.png" width="544" height="320">
+    <points label="fish" source="manual" occluded="0" points="250.10,166.47" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="goudvis18.png" width="608" height="311">
+    <points label="fish" source="manual" occluded="0" points="278.68,163.38" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="goudvis19.png" width="622" height="357">
+    <points label="fish" source="manual" occluded="0" points="287.70,187.84" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="goudvis2.png" width="627" height="414">
+    <points label="fish" source="manual" occluded="0" points="297.73,214.21" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="goudvis20.png" width="602" height="385">
+    <points label="fish" source="manual" occluded="0" points="305.40,190.61" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="goudvis21.png" width="607" height="339">
+    <points label="fish" source="manual" occluded="0" points="288.62,179.50" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="goudvis22.png" width="598" height="418">
+    <points label="fish" source="manual" occluded="0" points="321.56,174.39" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="goudvis23.png" width="577" height="339">
+    <points label="fish" source="manual" occluded="0" points="308.71,132.94" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="goudvis24.png" width="499" height="355">
+    <points label="fish" source="manual" occluded="0" points="247.17,152.54" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="goudvis25.png" width="629" height="393">
+    <points label="fish" source="manual" occluded="0" points="310.11,178.23" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="goudvis26.png" width="486" height="336">
+    <points label="fish" source="manual" occluded="0" points="220.11,150.42" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="goudvis27.png" width="621" height="375">
+    <points label="fish" source="manual" occluded="0" points="283.12,166.87" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="goudvis28.png" width="541" height="406">
+    <points label="fish" source="manual" occluded="0" points="269.61,250.33" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="goudvis29.png" width="590" height="310">
+    <points label="fish" source="manual" occluded="0" points="325.77,156.66" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="goudvis3.png" width="433" height="272">
+    <points label="fish" source="manual" occluded="0" points="239.23,136.90" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="goudvis30.png" width="630" height="341">
+    <points label="fish" source="manual" occluded="0" points="306.42,164.11" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="goudvis31.png" width="511" height="311">
+    <points label="fish" source="manual" occluded="0" points="250.51,141.01" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="goudvis32.png" width="594" height="315">
+    <points label="fish" source="manual" occluded="0" points="284.74,139.42" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="goudvis33.png" width="276" height="467">
+    <points label="fish" source="manual" occluded="0" points="134.70,251.05" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="goudvis34.png" width="423" height="799">
+    <points label="fish" source="manual" occluded="0" points="177.56,402.55" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="goudvis35.png" width="505" height="355">
+    <points label="fish" source="manual" occluded="0" points="237.43,178.45" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="goudvis36.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="374.84,301.96" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="goudvis37.jpg" width="500" height="375">
+    <points label="fish" source="manual" occluded="0" points="234.26,188.92" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="goudvis38.jpg" width="449" height="797">
+    <points label="fish" source="manual" occluded="0" points="275.70,395.50" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="goudvis39.jpg" width="695" height="800">
+    <points label="fish" source="manual" occluded="0" points="242.03,341.63" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="goudvis4.png" width="541" height="243">
+    <points label="fish" source="manual" occluded="0" points="286.79,113.36" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="goudvis40.jpg" width="650" height="488">
+    <points label="fish" source="manual" occluded="0" points="336.98,274.30" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="goudvis41.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="427.12,288.24" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="goudvis42.jpg" width="800" height="689">
+    <points label="fish" source="manual" occluded="0" points="453.70,358.38" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="goudvis43.jpg" width="600" height="800">
+    <points label="fish" source="manual" occluded="0" points="313.49,430.52" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="goudvis44.jpg" width="800" height="800">
+    <points label="fish" source="manual" occluded="0" points="410.91,412.22" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="goudvis45.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="334.97,305.88" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="goudvis46.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="473.53,378.43" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="goudvis47.png" width="800" height="585">
+    <points label="fish" source="manual" occluded="0" points="418.80,320.22" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="goudvis48.jpg" width="800" height="533">
+    <points label="fish" source="manual" occluded="0" points="417.72,280.70" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="goudvis49.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="413.40,304.58" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="goudvis5.png" width="530" height="350">
+    <points label="fish" source="manual" occluded="0" points="255.28,155.93" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="goudvis6.png" width="527" height="263">
+    <points label="fish" source="manual" occluded="0" points="285.62,142.76" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="goudvis7.png" width="634" height="379">
+    <points label="fish" source="manual" occluded="0" points="299.45,175.54" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="goudvis8.png" width="565" height="375">
+    <points label="fish" source="manual" occluded="0" points="310.29,202.81" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="goudvis9.png" width="309" height="222">
+    <points label="fish" source="manual" occluded="0" points="145.32,121.40" z_order="0">
+    </points>
+  </image>
+</annotations>

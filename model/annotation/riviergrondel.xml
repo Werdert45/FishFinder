@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>40</id>
+      <name>riviergrondel</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:34:23.640535+00:00</created>
+      <updated>2024-07-01 10:35:20.144810+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>40</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/40</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:19:57.945225+00:00</dumped>
+  </meta>
+  <image id="0" name="riviergrondel1.png" width="568" height="293">
+    <points label="fish" source="manual" occluded="0" points="231.32,128.22" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="riviergrondel10.png" width="487" height="281">
+    <points label="fish" source="manual" occluded="0" points="208.05,125.17" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="riviergrondel11.png" width="451" height="251">
+    <points label="fish" source="manual" occluded="0" points="188.90,117.29" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="riviergrondel12.png" width="510" height="242">
+    <points label="fish" source="manual" occluded="0" points="216.27,131.90" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="riviergrondel13.png" width="501" height="232">
+    <points label="fish" source="manual" occluded="0" points="209.83,110.58" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="riviergrondel14.png" width="582" height="239">
+    <points label="fish" source="manual" occluded="0" points="251.69,98.31" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="riviergrondel15.png" width="461" height="281">
+    <points label="fish" source="manual" occluded="0" points="214.69,111.14" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="riviergrondel16.png" width="326" height="811">
+    <points label="fish" source="manual" occluded="0" points="128.13,310.12" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="riviergrondel17.png" width="451" height="240">
+    <points label="fish" source="manual" occluded="0" points="213.20,86.07" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="riviergrondel18.png" width="616" height="301">
+    <points label="fish" source="manual" occluded="0" points="287.52,119.44" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="riviergrondel19.png" width="384" height="268">
+    <points label="fish" source="manual" occluded="0" points="220.77,168.89" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="riviergrondel2.png" width="593" height="326">
+    <points label="fish" source="manual" occluded="0" points="323.49,174.01" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="riviergrondel20.png" width="606" height="367">
+    <points label="fish" source="manual" occluded="0" points="330.76,194.97" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="riviergrondel21.png" width="620" height="248">
+    <points label="fish" source="manual" occluded="0" points="347.51,143.72" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="riviergrondel22.png" width="407" height="192">
+    <points label="fish" source="manual" occluded="0" points="224.86,99.29" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="riviergrondel23.png" width="600" height="342">
+    <points label="fish" source="manual" occluded="0" points="342.19,156.10" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="riviergrondel24.png" width="591" height="351">
+    <points label="fish" source="manual" occluded="0" points="293.43,143.22" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="riviergrondel25.png" width="575" height="338">
+    <points label="fish" source="manual" occluded="0" points="248.08,165.19" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="riviergrondel26.png" width="535" height="319">
+    <points label="fish" source="manual" occluded="0" points="221.08,138.53" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="riviergrondel27.png" width="323" height="161">
+    <points label="fish" source="manual" occluded="0" points="133.25,67.61" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="riviergrondel28.png" width="593" height="249">
+    <points label="fish" source="manual" occluded="0" points="244.64,100.85" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="riviergrondel29.png" width="343" height="141">
+    <points label="fish" source="manual" occluded="0" points="207.02,71.21" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="riviergrondel3.png" width="580" height="403">
+    <points label="fish" source="manual" occluded="0" points="317.87,173.84" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="riviergrondel30.png" width="238" height="146">
+    <points label="fish" source="manual" occluded="0" points="113.91,72.09" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="riviergrondel31.png" width="469" height="253">
+    <points label="fish" source="manual" occluded="0" points="211.52,128.48" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="riviergrondel32.png" width="498" height="293">
+    <points label="fish" source="manual" occluded="0" points="241.14,128.02" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="riviergrondel33.png" width="597" height="321">
+    <points label="fish" source="manual" occluded="0" points="281.35,144.20" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="riviergrondel34.png" width="554" height="326">
+    <points label="fish" source="manual" occluded="0" points="260.50,148.85" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="riviergrondel35.png" width="598" height="321">
+    <points label="fish" source="manual" occluded="0" points="281.20,145.44" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="riviergrondel36.png" width="617" height="304">
+    <points label="fish" source="manual" occluded="0" points="290.37,136.66" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="riviergrondel37.png" width="568" height="349">
+    <points label="fish" source="manual" occluded="0" points="267.49,160.57" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="riviergrondel38.png" width="616" height="365">
+    <points label="fish" source="manual" occluded="0" points="290.10,167.42" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="riviergrondel39.png" width="600" height="410">
+    <points label="fish" source="manual" occluded="0" points="277.90,217.30" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="riviergrondel4.png" width="596" height="255">
+    <points label="fish" source="manual" occluded="0" points="325.30,102.88" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="riviergrondel40.png" width="629" height="275">
+    <points label="fish" source="manual" occluded="0" points="359.85,140.16" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="riviergrondel41.png" width="611" height="352">
+    <points label="fish" source="manual" occluded="0" points="224.26,143.28" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="riviergrondel42.png" width="599" height="355">
+    <points label="fish" source="manual" occluded="0" points="312.06,173.31" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="riviergrondel43.png" width="568" height="338">
+    <points label="fish" source="manual" occluded="0" points="277.43,160.06" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="riviergrondel44.png" width="606" height="334">
+    <points label="fish" source="manual" occluded="0" points="294.71,157.44" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="riviergrondel45.png" width="599" height="372">
+    <points label="fish" source="manual" occluded="0" points="293.20,200.06" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="riviergrondel46.png" width="617" height="237">
+    <points label="fish" source="manual" occluded="0" points="317.57,86.96" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="riviergrondel47.jpg" width="1200" height="900">
+    <points label="fish" source="manual" occluded="0" points="639.71,628.92" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="riviergrondel48.png" width="566" height="376">
+    <points label="fish" source="manual" occluded="0" points="303.26,227.94" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="riviergrondel49.jpg" width="498" height="374">
+    <points label="fish" source="manual" occluded="0" points="283.00,193.74" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="riviergrondel5.png" width="608" height="299">
+    <points label="fish" source="manual" occluded="0" points="350.59,123.13" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="riviergrondel6.png" width="159" height="367">
+    <points label="fish" source="manual" occluded="0" points="81.09,137.54" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="riviergrondel7.png" width="593" height="282">
+    <points label="fish" source="manual" occluded="0" points="288.21,133.72" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="riviergrondel8.png" width="536" height="257">
+    <points label="fish" source="manual" occluded="0" points="258.44,112.38" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="riviergrondel9.png" width="458" height="289">
+    <points label="fish" source="manual" occluded="0" points="290.68,121.10" z_order="0">
+    </points>
+  </image>
+</annotations>

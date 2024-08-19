@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>64</id>
+      <name>zeeforel</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 12:08:40.134384+00:00</created>
+      <updated>2024-07-01 12:09:41.589685+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>64</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/64</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:10:32.396969+00:00</dumped>
+  </meta>
+  <image id="0" name="zeeforel1.png" width="515" height="261">
+    <points label="fish" source="manual" occluded="0" points="199.66,131.58" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="zeeforel10.png" width="541" height="252">
+    <points label="fish" source="manual" occluded="0" points="220.73,120.51" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="zeeforel11.png" width="565" height="568">
+    <points label="fish" source="manual" occluded="0" points="201.73,275.05" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="zeeforel12.png" width="261" height="646">
+    <points label="fish" source="manual" occluded="0" points="128.70,306.10" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="zeeforel13.png" width="537" height="245">
+    <points label="fish" source="manual" occluded="0" points="252.89,111.78" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="zeeforel14.png" width="438" height="219">
+    <points label="fish" source="manual" occluded="0" points="206.42,104.75" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="zeeforel15.png" width="416" height="273">
+    <points label="fish" source="manual" occluded="0" points="195.80,131.89" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="zeeforel16.png" width="477" height="238">
+    <points label="fish" source="manual" occluded="0" points="224.99,114.00" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="zeeforel17.png" width="437" height="237">
+    <points label="fish" source="manual" occluded="0" points="205.80,113.60" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="zeeforel18.png" width="381" height="215">
+    <points label="fish" source="manual" occluded="0" points="208.50,97.60" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="zeeforel19.png" width="598" height="286">
+    <points label="fish" source="manual" occluded="0" points="291.87,126.49" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="zeeforel2.png" width="304" height="788">
+    <points label="fish" source="manual" occluded="0" points="162.33,365.26" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="zeeforel20.png" width="464" height="245">
+    <points label="fish" source="manual" occluded="0" points="229.40,124.13" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="zeeforel21.png" width="628" height="284">
+    <points label="fish" source="manual" occluded="0" points="308.74,136.51" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="zeeforel22.png" width="558" height="270">
+    <points label="fish" source="manual" occluded="0" points="273.92,129.32" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="zeeforel23.png" width="558" height="297">
+    <points label="fish" source="manual" occluded="0" points="273.92,143.03" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="zeeforel24.png" width="385" height="212">
+    <points label="fish" source="manual" occluded="0" points="189.12,102.37" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="zeeforel25.jpg" width="935" height="624">
+    <points label="fish" source="manual" occluded="0" points="488.30,349.10" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="zeeforel26.jpg" width="306" height="230">
+    <points label="fish" source="manual" occluded="0" points="160.76,129.40" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="zeeforel27.jpg" width="1200" height="654">
+    <points label="fish" source="manual" occluded="0" points="613.40,413.10" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="zeeforel28.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="413.73,388.56" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="zeeforel29.jpg" width="1000" height="750">
+    <points label="fish" source="manual" occluded="0" points="531.08,427.73" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="zeeforel3.png" width="491" height="293">
+    <points label="fish" source="manual" occluded="0" points="250.82,153.37" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="zeeforel30.jpg" width="640" height="426">
+    <points label="fish" source="manual" occluded="0" points="328.81,225.74" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="zeeforel31.jpg" width="667" height="559">
+    <points label="fish" source="manual" occluded="0" points="336.86,408.59" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="zeeforel32.jpg" width="474" height="474">
+    <points label="fish" source="manual" occluded="0" points="261.28,234.18" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="zeeforel33.jpg" width="636" height="424">
+    <points label="fish" source="manual" occluded="0" points="320.77,256.57" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="zeeforel34.jpg" width="650" height="488">
+    <points label="fish" source="manual" occluded="0" points="343.62,235.23" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="zeeforel35.jpg" width="750" height="421">
+    <points label="fish" source="manual" occluded="0" points="379.19,262.99" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="zeeforel36.jpg" width="293" height="220">
+    <points label="fish" source="manual" occluded="0" points="152.86,92.87" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="zeeforel37.jpg" width="1000" height="662">
+    <points label="fish" source="manual" occluded="0" points="535.34,372.43" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="zeeforel38.jpg" width="775" height="550">
+    <points label="fish" source="manual" occluded="0" points="420.76,290.27" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="zeeforel39.jpg" width="709" height="531">
+    <points label="fish" source="manual" occluded="0" points="387.18,291.50" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="zeeforel4.png" width="385" height="167">
+    <points label="fish" source="manual" occluded="0" points="255.94,61.96" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="zeeforel40.jpg" width="273" height="185">
+    <points label="fish" source="manual" occluded="0" points="153.93,61.87" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="zeeforel41.png" width="480" height="344">
+    <points label="fish" source="manual" occluded="0" points="259.48,216.79" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="zeeforel42.png" width="348" height="300">
+    <points label="fish" source="manual" occluded="0" points="187.71,159.64" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="zeeforel43.png" width="446" height="400">
+    <points label="fish" source="manual" occluded="0" points="264.38,168.43" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="zeeforel44.png" width="386" height="377">
+    <points label="fish" source="manual" occluded="0" points="232.43,158.50" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="zeeforel45.png" width="365" height="329">
+    <points label="fish" source="manual" occluded="0" points="217.07,138.33" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="zeeforel46.png" width="360" height="335">
+    <points label="fish" source="manual" occluded="0" points="198.60,173.35" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="zeeforel47.png" width="489" height="309">
+    <points label="fish" source="manual" occluded="0" points="257.32,189.05" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="zeeforel48.jpg" width="1000" height="650">
+    <points label="fish" source="manual" occluded="0" points="528.30,355.82" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="zeeforel49.png" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="386.93,171.57" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="zeeforel5.png" width="566" height="232">
+    <points label="fish" source="manual" occluded="0" points="296.08,113.02" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="zeeforel6.png" width="612" height="249">
+    <points label="fish" source="manual" occluded="0" points="328.71,103.09" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="zeeforel7.png" width="199" height="436">
+    <points label="fish" source="manual" occluded="0" points="52.74,190.71" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="zeeforel8.png" width="596" height="245">
+    <points label="fish" source="manual" occluded="0" points="296.74,107.05" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="zeeforel9.png" width="609" height="298">
+    <points label="fish" source="manual" occluded="0" points="306.01,83.17" z_order="0">
+    </points>
+  </image>
+</annotations>

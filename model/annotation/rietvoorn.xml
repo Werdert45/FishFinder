@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>27</id>
+      <name>rietvoorn</name>
+      <size>48</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:15:07.167719+00:00</created>
+      <updated>2024-07-01 10:16:12.073851+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>47</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>27</id>
+          <start>0</start>
+          <stop>47</stop>
+          <url>http://localhost:8080/api/jobs/27</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:24:41.871262+00:00</dumped>
+  </meta>
+  <image id="0" name="rietvoorn1.png" width="584" height="312">
+    <points label="fish" source="manual" occluded="0" points="311.84,163.78" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="rietvoorn10.png" width="624" height="263">
+    <points label="fish" source="manual" occluded="0" points="340.59,131.87" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="rietvoorn11.png" width="588" height="298">
+    <points label="fish" source="manual" occluded="0" points="324.66,147.77" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="rietvoorn12.png" width="586" height="341">
+    <points label="fish" source="manual" occluded="0" points="281.72,153.90" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="rietvoorn13.png" width="388" height="802">
+    <points label="fish" source="manual" occluded="0" points="171.68,355.59" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="rietvoorn14.png" width="456" height="290">
+    <points label="fish" source="manual" occluded="0" points="225.29,132.56" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="rietvoorn15.png" width="576" height="326">
+    <points label="fish" source="manual" occluded="0" points="284.98,147.69" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="rietvoorn16.png" width="346" height="656">
+    <points label="fish" source="manual" occluded="0" points="167.65,300.86" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="rietvoorn17.png" width="536" height="244">
+    <points label="fish" source="manual" occluded="0" points="265.19,107.73" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="rietvoorn18.png" width="572" height="343">
+    <points label="fish" source="manual" occluded="0" points="282.99,156.50" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="rietvoorn19.png" width="512" height="293">
+    <points label="fish" source="manual" occluded="0" points="253.31,133.07" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="rietvoorn2.png" width="614" height="292">
+    <points label="fish" source="manual" occluded="0" points="303.78,130.11" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="rietvoorn20.png" width="493" height="271">
+    <points label="fish" source="manual" occluded="0" points="244.08,122.92" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="rietvoorn21.png" width="501" height="324">
+    <points label="fish" source="manual" occluded="0" points="248.04,149.28" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="rietvoorn22.png" width="252" height="321">
+    <points label="fish" source="manual" occluded="0" points="123.74,148.08" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="rietvoorn23.png" width="444" height="253">
+    <points label="fish" source="manual" occluded="0" points="219.98,115.45" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="rietvoorn24.png" width="624" height="305">
+    <points label="fish" source="manual" occluded="0" points="309.15,137.02" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="rietvoorn25.png" width="636" height="380">
+    <points label="fish" source="manual" occluded="0" points="314.68,172.44" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="rietvoorn26.png" width="543" height="310">
+    <points label="fish" source="manual" occluded="0" points="268.82,140.01" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="rietvoorn27.png" width="475" height="252">
+    <points label="fish" source="manual" occluded="0" points="197.60,112.90" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="rietvoorn28.png" width="356" height="197">
+    <points label="fish" source="manual" occluded="0" points="173.64,104.73" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="rietvoorn29.png" width="578" height="314">
+    <points label="fish" source="manual" occluded="0" points="281.91,134.56" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="rietvoorn3.png" width="577" height="255">
+    <points label="fish" source="manual" occluded="0" points="308.71,124.66" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="rietvoorn30.png" width="503" height="296">
+    <points label="fish" source="manual" occluded="0" points="252.54,132.34" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="rietvoorn31.png" width="568" height="308">
+    <points label="fish" source="manual" occluded="0" points="285.38,136.33" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="rietvoorn32.png" width="424" height="220">
+    <points label="fish" source="manual" occluded="0" points="212.10,111.60" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="rietvoorn33.png" width="521" height="268">
+    <points label="fish" source="manual" occluded="0" points="276.16,134.19" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="rietvoorn34.png" width="617" height="286">
+    <points label="fish" source="manual" occluded="0" points="348.66,114.73" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="rietvoorn35.png" width="228" height="440">
+    <points label="fish" source="manual" occluded="0" points="118.56,225.50" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="rietvoorn36.png" width="602" height="274">
+    <points label="fish" source="manual" occluded="0" points="272.96,141.44" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="rietvoorn37.png" width="564" height="278">
+    <points label="fish" source="manual" occluded="0" points="295.22,126.58" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="rietvoorn38.png" width="614" height="293">
+    <points label="fish" source="manual" occluded="0" points="334.71,136.64" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="rietvoorn39.png" width="604" height="394">
+    <points label="fish" source="manual" occluded="0" points="300.06,171.47" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="rietvoorn4.png" width="583" height="339">
+    <points label="fish" source="manual" occluded="0" points="289.86,145.02" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="rietvoorn40.png" width="552" height="294">
+    <points label="fish" source="manual" occluded="0" points="274.65,124.00" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="rietvoorn41.png" width="608" height="367">
+    <points label="fish" source="manual" occluded="0" points="302.94,176.70" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="rietvoorn42.png" width="627" height="325">
+    <points label="fish" source="manual" occluded="0" points="312.61,155.92" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="rietvoorn43.png" width="528" height="315">
+    <points label="fish" source="manual" occluded="0" points="263.44,151.96" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="rietvoorn44.png" width="637" height="292">
+    <points label="fish" source="manual" occluded="0" points="318.07,139.54" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="rietvoorn45.png" width="547" height="284">
+    <points label="fish" source="manual" occluded="0" points="273.10,136.45" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="rietvoorn46.png" width="603" height="339">
+    <points label="fish" source="manual" occluded="0" points="301.08,163.60" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="rietvoorn47.png" width="574" height="309">
+    <points label="fish" source="manual" occluded="0" points="286.79,148.89" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="rietvoorn48.png" width="509" height="255">
+    <points label="fish" source="manual" occluded="0" points="254.51,122.50" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="rietvoorn5.png" width="564" height="528">
+    <points label="fish" source="manual" occluded="0" points="282.28,256.23" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="rietvoorn6.png" width="624" height="361">
+    <points label="fish" source="manual" occluded="0" points="312.21,174.83" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="rietvoorn7.png" width="610" height="407">
+    <points label="fish" source="manual" occluded="0" points="305.21,197.74" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="rietvoorn8.png" width="578" height="299">
+    <points label="fish" source="manual" occluded="0" points="289.19,144.22" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="rietvoorn9.png" width="588" height="392">
+    <points label="fish" source="manual" occluded="0" points="294.19,190.64" z_order="0">
+    </points>
+  </image>
+</annotations>

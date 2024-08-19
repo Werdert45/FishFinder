@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>32</id>
+      <name>giebel</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:22:31.807038+00:00</created>
+      <updated>2024-07-01 10:23:33.549778+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>32</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/32</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:23:01.927199+00:00</dumped>
+  </meta>
+  <image id="0" name="giebel1.png" width="576" height="352">
+    <points label="fish" source="manual" occluded="0" points="246.68,182.84" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="giebel10.png" width="489" height="311">
+    <points label="fish" source="manual" occluded="0" points="232.86,142.31" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="giebel11.png" width="560" height="338">
+    <points label="fish" source="manual" occluded="0" points="287.24,157.65" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="giebel12.png" width="601" height="362">
+    <points label="fish" source="manual" occluded="0" points="331.63,166.30" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="giebel13.png" width="618" height="322">
+    <points label="fish" source="manual" occluded="0" points="317.42,175.70" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="giebel14.png" width="579" height="318">
+    <points label="fish" source="manual" occluded="0" points="297.19,172.76" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="giebel15.png" width="482" height="311">
+    <points label="fish" source="manual" occluded="0" points="247.59,167.20" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="giebel16.png" width="586" height="307">
+    <points label="fish" source="manual" occluded="0" points="300.99,167.63" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="giebel17.png" width="568" height="335">
+    <points label="fish" source="manual" occluded="0" points="291.74,181.20" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="giebel18.png" width="624" height="387">
+    <points label="fish" source="manual" occluded="0" points="320.51,208.55" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="giebel19.png" width="617" height="380">
+    <points label="fish" source="manual" occluded="0" points="317.14,205.10" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="giebel2.png" width="556" height="289">
+    <points label="fish" source="manual" occluded="0" points="285.99,158.30" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="giebel20.png" width="602" height="387">
+    <points label="fish" source="manual" occluded="0" points="309.64,208.46" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="giebel21.png" width="325" height="227">
+    <points label="fish" source="manual" occluded="0" points="191.70,90.60" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="giebel22.png" width="455" height="280">
+    <points label="fish" source="manual" occluded="0" points="231.95,125.03" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="giebel23.png" width="612" height="380">
+    <points label="fish" source="manual" occluded="0" points="299.37,189.56" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="giebel24.png" width="592" height="333">
+    <points label="fish" source="manual" occluded="0" points="309.45,141.42" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="giebel25.png" width="600" height="303">
+    <points label="fish" source="manual" occluded="0" points="313.64,125.24" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="giebel26.png" width="577" height="361">
+    <points label="fish" source="manual" occluded="0" points="301.84,155.27" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="giebel27.png" width="553" height="374">
+    <points label="fish" source="manual" occluded="0" points="289.93,161.76" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="giebel28.png" width="611" height="381">
+    <points label="fish" source="manual" occluded="0" points="319.61,164.19" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="giebel29.png" width="566" height="345">
+    <points label="fish" source="manual" occluded="0" points="296.28,148.15" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="giebel3.png" width="592" height="222">
+    <points label="fish" source="manual" occluded="0" points="309.86,85.74" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="giebel30.png" width="603" height="277">
+    <points label="fish" source="manual" occluded="0" points="315.85,112.97" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="giebel31.png" width="554" height="341">
+    <points label="fish" source="manual" occluded="0" points="290.36,147.03" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="giebel32.png" width="521" height="314">
+    <points label="fish" source="manual" occluded="0" points="273.24,135.14" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="giebel33.png" width="577" height="302">
+    <points label="fish" source="manual" occluded="0" points="302.65,126.76" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="giebel34.png" width="616" height="349">
+    <points label="fish" source="manual" occluded="0" points="323.30,148.84" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="giebel35.jpg" width="640" height="271">
+    <points label="fish" source="manual" occluded="0" points="335.90,108.84" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="giebel36.jpg" width="624" height="448">
+    <points label="fish" source="manual" occluded="0" points="329.34,195.19" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="giebel37.jpg" width="1600" height="1163">
+    <points label="fish" source="manual" occluded="0" points="836.09,663.17" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="giebel38.jpg" width="1200" height="900">
+    <points label="fish" source="manual" occluded="0" points="614.22,433.33" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="giebel39.jpg" width="1600" height="1200">
+    <points label="fish" source="manual" occluded="0" points="828.04,525.42" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="giebel4.png" width="601" height="375">
+    <points label="fish" source="manual" occluded="0" points="309.76,163.73" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="giebel40.jpg" width="1280" height="835">
+    <points label="fish" source="manual" occluded="0" points="660.50,366.07" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="giebel41.jpg" width="1600" height="1200">
+    <points label="fish" source="manual" occluded="0" points="829.35,526.73" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="giebel42.jpg" width="730" height="413">
+    <points label="fish" source="manual" occluded="0" points="435.30,238.90" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="giebel43.jpg" width="1280" height="835">
+    <points label="fish" source="manual" occluded="0" points="742.36,425.19" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="giebel44.jpg" width="666" height="499">
+    <points label="fish" source="manual" occluded="0" points="366.41,265.53" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="giebel45.jpg" width="460" height="261">
+    <points label="fish" source="manual" occluded="0" points="225.98,127.12" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="giebel46.jpg" width="780" height="439">
+    <points label="fish" source="manual" occluded="0" points="376.62,216.47" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="giebel47.jpg" width="677" height="488">
+    <points label="fish" source="manual" occluded="0" points="337.46,216.89" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="giebel48.jpg" width="640" height="380">
+    <points label="fish" source="manual" occluded="0" points="349.79,222.24" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="giebel49.jpg" width="1195" height="800">
+    <points label="fish" source="manual" occluded="0" points="655.01,462.77" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="giebel5.png" width="634" height="358">
+    <points label="fish" source="manual" occluded="0" points="346.48,210.94" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="giebel6.png" width="579" height="346">
+    <points label="fish" source="manual" occluded="0" points="316.64,202.18" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="giebel7.png" width="580" height="559">
+    <points label="fish" source="manual" occluded="0" points="305.50,270.67" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="giebel8.png" width="595" height="329">
+    <points label="fish" source="manual" occluded="0" points="321.23,136.40" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="giebel9.png" width="595" height="340">
+    <points label="fish" source="manual" occluded="0" points="321.23,141.69" z_order="0">
+    </points>
+  </image>
+</annotations>

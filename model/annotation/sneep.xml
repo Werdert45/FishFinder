@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>6</id>
+      <name>Sneep</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-06-30 18:33:37.302657+00:00</created>
+      <updated>2024-06-30 18:35:07.188389+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>6</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/6</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:33:12.375153+00:00</dumped>
+  </meta>
+  <image id="0" name="sneep1.png" width="460" height="809">
+    <points label="fish" source="manual" occluded="0" points="257.13,523.29" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="sneep10.png" width="642" height="271">
+    <points label="fish" source="manual" occluded="0" points="337.31,119.45" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="sneep11.png" width="384" height="205">
+    <points label="fish" source="manual" occluded="0" points="198.30,111.13" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="sneep12.png" width="373" height="250">
+    <points label="fish" source="manual" occluded="0" points="178.67,113.54" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="sneep13.png" width="633" height="308">
+    <points label="fish" source="manual" occluded="0" points="285.93,127.22" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="sneep14.png" width="619" height="368">
+    <points label="fish" source="manual" occluded="0" points="293.08,178.45" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="sneep15.png" width="540" height="252">
+    <points label="fish" source="manual" occluded="0" points="285.77,145.46" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="sneep16.png" width="597" height="268">
+    <points label="fish" source="manual" occluded="0" points="284.16,152.39" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="sneep17.png" width="455" height="232">
+    <points label="fish" source="manual" occluded="0" points="221.85,102.63" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="sneep18.png" width="624" height="294">
+    <points label="fish" source="manual" occluded="0" points="287.00,131.82" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="sneep19.png" width="476" height="245">
+    <points label="fish" source="manual" occluded="0" points="222.01,127.09" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="sneep2.png" width="481" height="258">
+    <points label="fish" source="manual" occluded="0" points="260.39,128.44" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="sneep20.png" width="558" height="296">
+    <points label="fish" source="manual" occluded="0" points="335.38,155.19" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="sneep21.png" width="514" height="249">
+    <points label="fish" source="manual" occluded="0" points="217.98,117.59" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="sneep22.jpg" width="748" height="831">
+    <points label="fish" source="manual" occluded="0" points="330.55,464.60" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="sneep23.jpg" width="2592" height="1552">
+    <points label="fish" source="manual" occluded="0" points="996.24,699.72" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="sneep24.jpg" width="1300" height="866">
+    <points label="fish" source="manual" occluded="0" points="492.34,369.08" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="sneep25.jpg" width="1024" height="768">
+    <points label="fish" source="manual" occluded="0" points="479.52,385.69" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="sneep26.jpg" width="225" height="300">
+    <points label="fish" source="manual" occluded="0" points="137.22,185.97" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="sneep27.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="475.24,338.45" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="sneep28.jpg" width="3465" height="2211">
+    <points label="fish" source="manual" occluded="0" points="2107.11,1179.25" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="sneep29.jpg" width="3872" height="2592">
+    <points label="fish" source="manual" occluded="0" points="1634.73,2005.23" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="sneep3.png" width="618" height="355">
+    <points label="fish" source="manual" occluded="0" points="296.15,196.13" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="sneep30.jpg" width="1067" height="800">
+    <points label="fish" source="manual" occluded="0" points="567.56,497.44" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="sneep31.jpg" width="450" height="338">
+    <points label="fish" source="manual" occluded="0" points="210.67,185.91" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="sneep32.jpg" width="1024" height="768">
+    <points label="fish" source="manual" occluded="0" points="513.25,414.82" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="sneep33.jpg" width="640" height="480">
+    <points label="fish" source="manual" occluded="0" points="330.36,351.25" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="sneep34.jpg" width="1552" height="2592">
+    <points label="fish" source="manual" occluded="0" points="857.51,1016.89" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="sneep35.png" width="696" height="486">
+    <points label="fish" source="manual" occluded="0" points="312.85,274.14" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="sneep36.png" width="366" height="304">
+    <points label="fish" source="manual" occluded="0" points="199.89,136.83" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="sneep37.png" width="512" height="388">
+    <points label="fish" source="manual" occluded="0" points="246.54,156.07" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="sneep38.png" width="520" height="410">
+    <points label="fish" source="manual" occluded="0" points="303.18,282.80" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="sneep39.jpg" width="1280" height="720">
+    <points label="fish" source="manual" occluded="0" points="710.18,384.65" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="sneep4.png" width="598" height="296">
+    <points label="fish" source="manual" occluded="0" points="324.14,111.24" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="sneep40.png" width="249" height="492">
+    <points label="fish" source="manual" occluded="0" points="109.09,246.01" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="sneep41.png" width="333" height="600">
+    <points label="fish" source="manual" occluded="0" points="165.61,325.28" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="sneep42.png" width="230" height="465">
+    <points label="fish" source="manual" occluded="0" points="123.18,253.43" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="sneep43.png" width="296" height="598">
+    <points label="fish" source="manual" occluded="0" points="138.19,352.84" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="sneep44.png" width="280" height="603">
+    <points label="fish" source="manual" occluded="0" points="132.55,338.28" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="sneep45.png" width="809" height="460">
+    <points label="fish" source="manual" occluded="0" points="487.76,238.34" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="sneep46.png" width="258" height="481">
+    <points label="fish" source="manual" occluded="0" points="131.70,222.83" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="sneep47.png" width="355" height="618">
+    <points label="fish" source="manual" occluded="0" points="204.97,357.21" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="sneep48.png" width="410" height="520">
+    <points label="fish" source="manual" occluded="0" points="291.99,246.52" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="sneep49.png" width="271" height="642">
+    <points label="fish" source="manual" occluded="0" points="108.98,308.28" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="sneep5.png" width="603" height="280">
+    <points label="fish" source="manual" occluded="0" points="297.08,128.42" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="sneep6.png" width="465" height="230">
+    <points label="fish" source="manual" occluded="0" points="213.57,124.59" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="sneep7.png" width="600" height="333">
+    <points label="fish" source="manual" occluded="0" points="293.68,156.18" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="sneep8.png" width="470" height="225">
+    <points label="fish" source="manual" occluded="0" points="210.75,98.34" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="sneep9.png" width="492" height="249">
+    <points label="fish" source="manual" occluded="0" points="238.28,116.00" z_order="0">
+    </points>
+  </image>
+</annotations>

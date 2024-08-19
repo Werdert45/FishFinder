@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>23</id>
+      <name>zonnebaars</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:08:27.137282+00:00</created>
+      <updated>2024-07-01 10:09:36.565913+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>23</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/23</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:26:42.063593+00:00</dumped>
+  </meta>
+  <image id="0" name="zonnebaars1.png" width="438" height="279">
+    <points label="fish" source="manual" occluded="0" points="177.15,147.48" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="zonnebaars10.png" width="559" height="396">
+    <points label="fish" source="manual" occluded="0" points="298.46,174.91" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="zonnebaars11.png" width="462" height="319">
+    <points label="fish" source="manual" occluded="0" points="252.37,144.19" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="zonnebaars12.png" width="576" height="306">
+    <points label="fish" source="manual" occluded="0" points="345.04,150.39" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="zonnebaars13.png" width="614" height="375">
+    <points label="fish" source="manual" occluded="0" points="309.79,187.08" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="zonnebaars14.png" width="445" height="228">
+    <points label="fish" source="manual" occluded="0" points="205.07,121.62" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="zonnebaars15.png" width="497" height="360">
+    <points label="fish" source="manual" occluded="0" points="273.22,173.53" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="zonnebaars16.png" width="540" height="348">
+    <points label="fish" source="manual" occluded="0" points="247.45,177.21" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="zonnebaars17.png" width="220" height="157">
+    <points label="fish" source="manual" occluded="0" points="118.12,71.65" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="zonnebaars18.png" width="364" height="253">
+    <points label="fish" source="manual" occluded="0" points="211.36,113.55" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="zonnebaars19.png" width="627" height="359">
+    <points label="fish" source="manual" occluded="0" points="302.95,166.32" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="zonnebaars2.png" width="600" height="292">
+    <points label="fish" source="manual" occluded="0" points="336.31,143.67" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="zonnebaars20.png" width="532" height="801">
+    <points label="fish" source="manual" occluded="0" points="267.35,358.62" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="zonnebaars21.png" width="520" height="283">
+    <points label="fish" source="manual" occluded="0" points="289.29,142.97" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="zonnebaars22.png" width="581" height="734">
+    <points label="fish" source="manual" occluded="0" points="343.31,316.20" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="zonnebaars23.png" width="530" height="348">
+    <points label="fish" source="manual" occluded="0" points="282.25,165.08" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="zonnebaars24.png" width="582" height="283">
+    <points label="fish" source="manual" occluded="0" points="296.49,126.00" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="zonnebaars25.png" width="587" height="352">
+    <points label="fish" source="manual" occluded="0" points="273.35,172.92" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="zonnebaars26.png" width="595" height="369">
+    <points label="fish" source="manual" occluded="0" points="276.26,182.41" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="zonnebaars27.png" width="176" height="294">
+    <points label="fish" source="manual" occluded="0" points="83.37,126.99" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="zonnebaars28.png" width="243" height="409">
+    <points label="fish" source="manual" occluded="0" points="115.27,176.88" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="zonnebaars29.png" width="607" height="404">
+    <points label="fish" source="manual" occluded="0" points="303.51,176.24" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="zonnebaars3.png" width="607" height="357">
+    <points label="fish" source="manual" occluded="0" points="304.33,160.25" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="zonnebaars30.png" width="589" height="351">
+    <points label="fish" source="manual" occluded="0" points="278.00,162.72" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="zonnebaars31.png" width="383" height="284">
+    <points label="fish" source="manual" occluded="0" points="180.05,134.11" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="zonnebaars32.png" width="623" height="445">
+    <points label="fish" source="manual" occluded="0" points="301.30,217.63" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="zonnebaars33.png" width="608" height="311">
+    <points label="fish" source="manual" occluded="0" points="314.85,158.49" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="zonnebaars34.png" width="606" height="389">
+    <points label="fish" source="manual" occluded="0" points="301.07,207.65" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="zonnebaars35.png" width="361" height="191">
+    <points label="fish" source="manual" occluded="0" points="169.63,111.93" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="zonnebaars36.png" width="425" height="238">
+    <points label="fish" source="manual" occluded="0" points="208.63,124.19" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="zonnebaars37.png" width="166" height="229">
+    <points label="fish" source="manual" occluded="0" points="79.87,118.99" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="zonnebaars38.png" width="548" height="715">
+    <points label="fish" source="manual" occluded="0" points="261.96,304.57" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="zonnebaars39.png" width="612" height="386">
+    <points label="fish" source="manual" occluded="0" points="338.77,182.49" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="zonnebaars4.png" width="473" height="336">
+    <points label="fish" source="manual" occluded="0" points="209.42,176.96" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="zonnebaars40.png" width="598" height="358">
+    <points label="fish" source="manual" occluded="0" points="267.39,201.81" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="zonnebaars41.png" width="622" height="340">
+    <points label="fish" source="manual" occluded="0" points="273.77,203.30" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="zonnebaars42.png" width="612" height="279">
+    <points label="fish" source="manual" occluded="0" points="269.39,171.19" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="zonnebaars43.png" width="568" height="370">
+    <points label="fish" source="manual" occluded="0" points="293.88,191.63" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="zonnebaars44.png" width="451" height="288">
+    <points label="fish" source="manual" occluded="0" points="260.23,180.76" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="zonnebaars45.png" width="505" height="397">
+    <points label="fish" source="manual" occluded="0" points="304.81,200.24" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="zonnebaars46.png" width="329" height="204">
+    <points label="fish" source="manual" occluded="0" points="112.70,82.76" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="zonnebaars47.png" width="354" height="237">
+    <points label="fish" source="manual" occluded="0" points="181.51,107.65" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="zonnebaars48.png" width="611" height="356">
+    <points label="fish" source="manual" occluded="0" points="366.65,155.12" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="zonnebaars49.png" width="622" height="325">
+    <points label="fish" source="manual" occluded="0" points="388.24,193.85" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="zonnebaars5.png" width="515" height="383">
+    <points label="fish" source="manual" occluded="0" points="259.16,189.82" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="zonnebaars6.png" width="568" height="375">
+    <points label="fish" source="manual" occluded="0" points="271.97,193.21" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="zonnebaars7.png" width="626" height="460">
+    <points label="fish" source="manual" occluded="0" points="279.17,249.31" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="zonnebaars8.png" width="404" height="726">
+    <points label="fish" source="manual" occluded="0" points="166.02,334.95" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="zonnebaars9.png" width="577" height="332">
+    <points label="fish" source="manual" occluded="0" points="270.35,151.27" z_order="0">
+    </points>
+  </image>
+</annotations>

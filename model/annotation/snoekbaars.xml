@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>16</id>
+      <name>snoekbaars</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 09:54:13.287314+00:00</created>
+      <updated>2024-07-01 09:55:36.800872+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>16</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/16</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:28:56.493256+00:00</dumped>
+  </meta>
+  <image id="0" name="snoekbaars1.png" width="550" height="222">
+    <points label="fish" source="manual" occluded="0" points="209.37,104.84" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="snoekbaars10.png" width="618" height="296">
+    <points label="fish" source="manual" occluded="0" points="243.03,119.04" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="snoekbaars11.png" width="482" height="382">
+    <points label="fish" source="manual" occluded="0" points="251.59,191.00" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="snoekbaars12.png" width="632" height="546">
+    <points label="fish" source="manual" occluded="0" points="278.21,275.95" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="snoekbaars13.png" width="446" height="199">
+    <points label="fish" source="manual" occluded="0" points="212.87,97.79" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="snoekbaars14.png" width="534" height="282">
+    <points label="fish" source="manual" occluded="0" points="259.73,139.14" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="snoekbaars15.png" width="634" height="302">
+    <points label="fish" source="manual" occluded="0" points="327.40,126.16" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="snoekbaars16.png" width="634" height="370">
+    <points label="fish" source="manual" occluded="0" points="301.23,184.99" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="snoekbaars17.png" width="619" height="354">
+    <points label="fish" source="manual" occluded="0" points="326.85,174.85" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="snoekbaars18.png" width="549" height="342">
+    <points label="fish" source="manual" occluded="0" points="266.80,172.14" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="snoekbaars19.png" width="587" height="287">
+    <points label="fish" source="manual" occluded="0" points="285.72,155.62" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="snoekbaars2.png" width="601" height="232">
+    <points label="fish" source="manual" occluded="0" points="299.24,126.51" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="snoekbaars20.png" width="542" height="406">
+    <points label="fish" source="manual" occluded="0" points="158.42,130.92" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="snoekbaars21.png" width="512" height="529">
+    <points label="fish" source="manual" occluded="0" points="233.30,157.81" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="snoekbaars22.png" width="616" height="232">
+    <points label="fish" source="manual" occluded="0" points="353.47,131.94" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="snoekbaars23.png" width="519" height="245">
+    <points label="fish" source="manual" occluded="0" points="260.59,97.27" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="snoekbaars24.png" width="415" height="205">
+    <points label="fish" source="manual" occluded="0" points="198.79,85.52" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="snoekbaars25.png" width="569" height="272">
+    <points label="fish" source="manual" occluded="0" points="305.59,142.77" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="snoekbaars26.png" width="376" height="754">
+    <points label="fish" source="manual" occluded="0" points="162.98,359.78" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="snoekbaars27.png" width="625" height="282">
+    <points label="fish" source="manual" occluded="0" points="311.21,132.24" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="snoekbaars28.png" width="499" height="605">
+    <points label="fish" source="manual" occluded="0" points="260.05,261.30" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="snoekbaars29.png" width="633" height="376">
+    <points label="fish" source="manual" occluded="0" points="355.02,184.44" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="snoekbaars3.png" width="608" height="234">
+    <points label="fish" source="manual" occluded="0" points="282.09,105.52" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="snoekbaars30.png" width="612" height="455">
+    <points label="fish" source="manual" occluded="0" points="339.44,199.02" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="snoekbaars31.png" width="613" height="399">
+    <points label="fish" source="manual" occluded="0" points="301.27,144.50" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="snoekbaars32.png" width="614" height="319">
+    <points label="fish" source="manual" occluded="0" points="362.21,142.52" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="snoekbaars33.png" width="624" height="325">
+    <points label="fish" source="manual" occluded="0" points="342.34,145.71" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="snoekbaars34.png" width="613" height="336">
+    <points label="fish" source="manual" occluded="0" points="285.50,161.57" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="snoekbaars35.png" width="575" height="268">
+    <points label="fish" source="manual" occluded="0" points="340.23,123.95" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="snoekbaars36.png" width="586" height="263">
+    <points label="fish" source="manual" occluded="0" points="289.10,112.85" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="snoekbaars37.png" width="462" height="355">
+    <points label="fish" source="manual" occluded="0" points="244.74,172.27" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="snoekbaars38.png" width="615" height="308">
+    <points label="fish" source="manual" occluded="0" points="305.77,120.88" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="snoekbaars39.png" width="601" height="319">
+    <points label="fish" source="manual" occluded="0" points="305.59,128.11" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="snoekbaars4.png" width="619" height="290">
+    <points label="fish" source="manual" occluded="0" points="383.59,62.70" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="snoekbaars40.png" width="602" height="304">
+    <points label="fish" source="manual" occluded="0" points="286.49,108.63" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="snoekbaars41.png" width="597" height="415">
+    <points label="fish" source="manual" occluded="0" points="282.69,196.89" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="snoekbaars42.jpg" width="730" height="413">
+    <points label="fish" source="manual" occluded="0" points="353.52,221.57" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="snoekbaars43.jpg" width="1280" height="960">
+    <points label="fish" source="manual" occluded="0" points="611.23,558.42" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="snoekbaars44.jpg" width="1280" height="720">
+    <points label="fish" source="manual" occluded="0" points="707.59,404.83" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="snoekbaars45.jpg" width="1024" height="768">
+    <points label="fish" source="manual" occluded="0" points="486.47,407.41" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="snoekbaars46.png" width="645" height="464">
+    <points label="fish" source="manual" occluded="0" points="295.72,208.74" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="snoekbaars47.png" width="585" height="453">
+    <points label="fish" source="manual" occluded="0" points="264.38,246.46" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="snoekbaars48.jpg" width="261" height="193">
+    <points label="fish" source="manual" occluded="0" points="117.26,112.80" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="snoekbaars49.jpg" width="3415" height="2277">
+    <points label="fish" source="manual" occluded="0" points="1784.43,1204.27" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="snoekbaars5.png" width="615" height="296">
+    <points label="fish" source="manual" occluded="0" points="361.72,120.88" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="snoekbaars6.png" width="333" height="195">
+    <points label="fish" source="manual" occluded="0" points="169.54,77.35" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="snoekbaars7.png" width="580" height="290">
+    <points label="fish" source="manual" occluded="0" points="331.20,142.18" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="snoekbaars8.png" width="631" height="592">
+    <points label="fish" source="manual" occluded="0" points="243.28,328.92" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="snoekbaars9.png" width="609" height="317">
+    <points label="fish" source="manual" occluded="0" points="333.88,142.53" z_order="0">
+    </points>
+  </image>
+</annotations>

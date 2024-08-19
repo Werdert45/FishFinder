@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>26</id>
+      <name>gestippelde_alver</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:13:02.852557+00:00</created>
+      <updated>2024-07-01 10:14:15.747492+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>26</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/26</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:25:05.015965+00:00</dumped>
+  </meta>
+  <image id="0" name="gestippelde_alver1.png" width="607" height="294">
+    <points label="fish" source="manual" occluded="0" points="251.45,126.61" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="gestippelde_alver10.png" width="585" height="267">
+    <points label="fish" source="manual" occluded="0" points="239.08,112.42" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="gestippelde_alver11.png" width="620" height="270">
+    <points label="fish" source="manual" occluded="0" points="254.01,112.87" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="gestippelde_alver12.png" width="603" height="296">
+    <points label="fish" source="manual" occluded="0" points="274.29,144.61" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="gestippelde_alver13.png" width="600" height="244">
+    <points label="fish" source="manual" occluded="0" points="308.81,99.75" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="gestippelde_alver14.png" width="595" height="245">
+    <points label="fish" source="manual" occluded="0" points="306.86,100.21" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="gestippelde_alver15.png" width="530" height="284">
+    <points label="fish" source="manual" occluded="0" points="273.54,122.33" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="gestippelde_alver16.png" width="315" height="156">
+    <points label="fish" source="manual" occluded="0" points="145.50,81.50" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="gestippelde_alver17.png" width="589" height="291">
+    <points label="fish" source="manual" occluded="0" points="322.31,142.81" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="gestippelde_alver18.png" width="316" height="184">
+    <points label="fish" source="manual" occluded="0" points="167.08,76.74" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="gestippelde_alver19.png" width="598" height="266">
+    <points label="fish" source="manual" occluded="0" points="316.56,104.14" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="gestippelde_alver2.png" width="593" height="307">
+    <points label="fish" source="manual" occluded="0" points="314.15,125.09" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="gestippelde_alver20.png" width="436" height="260">
+    <points label="fish" source="manual" occluded="0" points="231.12,109.26" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="gestippelde_alver21.png" width="556" height="254">
+    <points label="fish" source="manual" occluded="0" points="294.75,100.56" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="gestippelde_alver22.png" width="466" height="307">
+    <points label="fish" source="manual" occluded="0" points="247.39,130.94" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="gestippelde_alver23.png" width="484" height="256">
+    <points label="fish" source="manual" occluded="0" points="222.30,124.30" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="gestippelde_alver24.png" width="510" height="284">
+    <points label="fish" source="manual" occluded="0" points="269.63,124.51" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="gestippelde_alver25.png" width="521" height="349">
+    <points label="fish" source="manual" occluded="0" points="227.22,119.94" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="gestippelde_alver26.png" width="588" height="341">
+    <points label="fish" source="manual" occluded="0" points="277.55,170.27" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="gestippelde_alver27.png" width="553" height="259">
+    <points label="fish" source="manual" occluded="0" points="302.62,114.20" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="gestippelde_alver28.png" width="547" height="310">
+    <points label="fish" source="manual" occluded="0" points="295.88,153.48" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="gestippelde_alver29.jpg" width="1200" height="600">
+    <points label="fish" source="manual" occluded="0" points="672.21,185.83" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="gestippelde_alver3.png" width="605" height="267">
+    <points label="fish" source="manual" occluded="0" points="291.26,140.08" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="gestippelde_alver30.jpg" width="318" height="159">
+    <points label="fish" source="manual" occluded="0" points="152.54,81.40" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="gestippelde_alver31.jpg" width="828" height="600">
+    <points label="fish" source="manual" occluded="0" points="419.87,267.97" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="gestippelde_alver32.jpg" width="1200" height="900">
+    <points label="fish" source="manual" occluded="0" points="622.55,463.73" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="gestippelde_alver33.jpg" width="800" height="469">
+    <points label="fish" source="manual" occluded="0" points="412.87,242.62" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="gestippelde_alver34.jpg" width="800" height="500">
+    <points label="fish" source="manual" occluded="0" points="412.87,258.41" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="gestippelde_alver35.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="415.03,309.80" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="gestippelde_alver36.jpg" width="704" height="600">
+    <points label="fish" source="manual" occluded="0" points="367.06,309.80" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="gestippelde_alver37.jpg" width="811" height="600">
+    <points label="fish" source="manual" occluded="0" points="420.85,309.80" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="gestippelde_alver38.png" width="418" height="212">
+    <points label="fish" source="manual" occluded="0" points="209.60,89.90" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="gestippelde_alver39.jpg" width="800" height="469">
+    <points label="fish" source="manual" occluded="0" points="368.08,248.78" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="gestippelde_alver4.png" width="615" height="268">
+    <points label="fish" source="manual" occluded="0" points="290.92,120.67" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="gestippelde_alver40.png" width="576" height="432">
+    <points label="fish" source="manual" occluded="0" points="298.80,153.44" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="gestippelde_alver41.jpg" width="694" height="600">
+    <points label="fish" source="manual" occluded="0" points="333.92,145.75" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="gestippelde_alver42.jpg" width="920" height="616">
+    <points label="fish" source="manual" occluded="0" points="525.74,335.50" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="gestippelde_alver43.png" width="850" height="691">
+    <points label="fish" source="manual" occluded="0" points="406.92,204.36" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="gestippelde_alver44.jpg" width="469" height="800">
+    <points label="fish" source="manual" occluded="0" points="273.31,440.11" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="gestippelde_alver45.png" width="267" height="605">
+    <points label="fish" source="manual" occluded="0" points="158.89,327.21" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="gestippelde_alver46.png" width="156" height="315">
+    <points label="fish" source="manual" occluded="0" points="90.37,179.62" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="gestippelde_alver47.png" width="291" height="589">
+    <points label="fish" source="manual" occluded="0" points="133.63,233.85" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="gestippelde_alver48.png" width="307" height="593">
+    <points label="fish" source="manual" occluded="0" points="155.11,326.55" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="gestippelde_alver49.jpg" width="600" height="1200">
+    <points label="fish" source="manual" occluded="0" points="175.75,490.13" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="gestippelde_alver5.png" width="531" height="304">
+    <points label="fish" source="manual" occluded="0" points="295.41,169.48" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="gestippelde_alver6.png" width="451" height="201">
+    <points label="fish" source="manual" occluded="0" points="253.12,102.55" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="gestippelde_alver7.png" width="558" height="270">
+    <points label="fish" source="manual" occluded="0" points="267.28,122.49" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="gestippelde_alver8.png" width="601" height="351">
+    <points label="fish" source="manual" occluded="0" points="340.67,141.23" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="gestippelde_alver9.png" width="578" height="253">
+    <points label="fish" source="manual" occluded="0" points="280.90,99.61" z_order="0">
+    </points>
+  </image>
+</annotations>

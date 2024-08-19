@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>62</id>
+      <name>dunlipharder</name>
+      <size>50</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 12:05:43.700956+00:00</created>
+      <updated>2024-07-01 12:06:45.549338+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>49</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>62</id>
+          <start>0</start>
+          <stop>49</stop>
+          <url>http://localhost:8080/api/jobs/62</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:11:06.504470+00:00</dumped>
+  </meta>
+  <image id="0" name="dunlipharder1.png" width="436" height="195">
+    <points label="fish" source="manual" occluded="0" points="220.90,80.12" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="dunlipharder10.png" width="518" height="250">
+    <points label="fish" source="manual" occluded="0" points="243.94,121.93" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="dunlipharder11.png" width="484" height="292">
+    <points label="fish" source="manual" occluded="0" points="226.24,143.80" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="dunlipharder12.png" width="496" height="229">
+    <points label="fish" source="manual" occluded="0" points="232.91,116.60" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="dunlipharder13.png" width="614" height="284">
+    <points label="fish" source="manual" occluded="0" points="288.74,144.80" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="dunlipharder14.png" width="601" height="324">
+    <points label="fish" source="manual" occluded="0" points="282.84,164.74" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="dunlipharder15.png" width="399" height="192">
+    <points label="fish" source="manual" occluded="0" points="187.78,97.82" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="dunlipharder16.png" width="531" height="255">
+    <points label="fish" source="manual" occluded="0" points="249.89,130.09" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="dunlipharder17.png" width="599" height="246">
+    <points label="fish" source="manual" occluded="0" points="281.88,126.16" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="dunlipharder18.png" width="435" height="249">
+    <points label="fish" source="manual" occluded="0" points="204.72,126.95" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="dunlipharder19.png" width="601" height="181">
+    <points label="fish" source="manual" occluded="0" points="282.84,93.88" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="dunlipharder2.png" width="534" height="265">
+    <points label="fish" source="manual" occluded="0" points="251.50,135.47" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="dunlipharder20.png" width="197" height="391">
+    <points label="fish" source="manual" occluded="0" points="81.04,198.89" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="dunlipharder21.jpg" width="665" height="777">
+    <points label="fish" source="manual" occluded="0" points="299.90,440.20" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="dunlipharder22.jpg" width="1200" height="1065">
+    <points label="fish" source="manual" occluded="0" points="567.60,546.40" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="dunlipharder23.jpg" width="259" height="194">
+    <points label="fish" source="manual" occluded="0" points="138.27,119.51" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="dunlipharder24.png" width="623" height="511">
+    <points label="fish" source="manual" occluded="0" points="321.26,312.30" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="dunlipharder25.png" width="464" height="365">
+    <points label="fish" source="manual" occluded="0" points="265.39,186.46" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="dunlipharder26.jpg" width="321" height="157">
+    <points label="fish" source="manual" occluded="0" points="160.17,59.62" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="dunlipharder27.jpg" width="350" height="269">
+    <points label="fish" source="manual" occluded="0" points="188.18,119.84" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="dunlipharder28.jpg" width="724" height="261">
+    <points label="fish" source="manual" occluded="0" points="381.26,135.08" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="dunlipharder29.jpg" width="640" height="325">
+    <points label="fish" source="manual" occluded="0" points="320.90,141.44" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="dunlipharder3.png" width="574" height="267">
+    <points label="fish" source="manual" occluded="0" points="287.79,114.63" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="dunlipharder30.jpg" width="1600" height="1200">
+    <points label="fish" source="manual" occluded="0" points="811.70,679.02" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="dunlipharder30.png" width="265" height="534">
+    <points label="fish" source="manual" occluded="0" points="108.34,267.90" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="dunlipharder31.png" width="250" height="518">
+    <points label="fish" source="manual" occluded="0" points="121.06,274.55" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="dunlipharder32.png" width="292" height="484">
+    <points label="fish" source="manual" occluded="0" points="142.32,256.52" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="dunlipharder33.png" width="284" height="614">
+    <points label="fish" source="manual" occluded="0" points="137.33,325.41" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="dunlipharder34.png" width="229" height="496">
+    <points label="fish" source="manual" occluded="0" points="110.97,262.84" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="dunlipharder35.png" width="238" height="628">
+    <points label="fish" source="manual" occluded="0" points="114.87,332.82" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="dunlipharder36.png" width="255" height="531">
+    <points label="fish" source="manual" occluded="0" points="123.76,246.96" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="dunlipharder37.png" width="246" height="599">
+    <points label="fish" source="manual" occluded="0" points="134.74,281.88" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="dunlipharder38.png" width="190" height="553">
+    <points label="fish" source="manual" occluded="0" points="100.41,266.25" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="dunlipharder39.jpg" width="325" height="640">
+    <points label="fish" source="manual" occluded="0" points="157.96,342.64" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="dunlipharder4.png" width="320" height="619">
+    <points label="fish" source="manual" occluded="0" points="149.22,262.30" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="dunlipharder40.png" width="192" height="399">
+    <points label="fish" source="manual" occluded="0" points="87.73,193.40" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="dunlipharder41.png" width="324" height="601">
+    <points label="fish" source="manual" occluded="0" points="146.31,279.54" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="dunlipharder42.jpg" width="261" height="724">
+    <points label="fish" source="manual" occluded="0" points="137.24,330.07" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="dunlipharder43.png" width="253" height="555">
+    <points label="fish" source="manual" occluded="0" points="118.96,274.16" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="dunlipharder44.png" width="365" height="464">
+    <points label="fish" source="manual" occluded="0" points="196.91,179.93" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="dunlipharder45.png" width="181" height="601">
+    <points label="fish" source="manual" occluded="0" points="85.62,251.06" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="dunlipharder46.png" width="249" height="435">
+    <points label="fish" source="manual" occluded="0" points="125.70,206.83" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="dunlipharder47.png" width="511" height="623">
+    <points label="fish" source="manual" occluded="0" points="325.73,339.64" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="dunlipharder48.jpg" width="1200" height="1600">
+    <points label="fish" source="manual" occluded="0" points="781.20,866.25" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="dunlipharder49.png" width="252" height="504">
+    <points label="fish" source="manual" occluded="0" points="112.82,234.97" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="dunlipharder5.png" width="566" height="308">
+    <points label="fish" source="manual" occluded="0" points="275.89,133.42" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="dunlipharder6.png" width="555" height="253">
+    <points label="fish" source="manual" occluded="0" points="268.36,108.81" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="dunlipharder7.png" width="504" height="252">
+    <points label="fish" source="manual" occluded="0" points="249.89,108.71" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="dunlipharder8.png" width="553" height="190">
+    <points label="fish" source="manual" occluded="0" points="271.28,91.91" z_order="0">
+    </points>
+  </image>
+  <image id="49" name="dunlipharder9.png" width="628" height="238">
+    <points label="fish" source="manual" occluded="0" points="304.34,116.38" z_order="0">
+    </points>
+  </image>
+</annotations>

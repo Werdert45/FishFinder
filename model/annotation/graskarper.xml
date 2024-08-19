@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>50</id>
+      <name>graskarper</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:51:29.360028+00:00</created>
+      <updated>2024-07-01 10:52:26.106154+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>50</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/50</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:16:25.218090+00:00</dumped>
+  </meta>
+  <image id="0" name="graskarper1.png" width="549" height="290">
+    <points label="fish" source="manual" occluded="0" points="240.48,134.25" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="graskarper10.png" width="614" height="285">
+    <points label="fish" source="manual" occluded="0" points="337.51,129.38" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="graskarper11.png" width="608" height="253">
+    <points label="fish" source="manual" occluded="0" points="295.07,107.98" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="graskarper12.png" width="563" height="268">
+    <points label="fish" source="manual" occluded="0" points="273.81,119.81" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="graskarper13.png" width="619" height="317">
+    <points label="fish" source="manual" occluded="0" points="301.07,143.14" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="graskarper14.png" width="602" height="275">
+    <points label="fish" source="manual" occluded="0" points="292.98,122.53" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="graskarper15.png" width="566" height="318">
+    <points label="fish" source="manual" occluded="0" points="275.49,145.14" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="graskarper16.png" width="466" height="239">
+    <points label="fish" source="manual" occluded="0" points="226.80,108.26" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="graskarper17.png" width="605" height="293">
+    <points label="fish" source="manual" occluded="0" points="294.65,131.90" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="graskarper18.png" width="600" height="295">
+    <points label="fish" source="manual" occluded="0" points="292.44,133.01" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="graskarper19.png" width="609" height="333">
+    <points label="fish" source="manual" occluded="0" points="297.06,151.78" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="graskarper2.png" width="525" height="292">
+    <points label="fish" source="manual" occluded="0" points="256.06,133.50" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="graskarper20.png" width="496" height="217">
+    <points label="fish" source="manual" occluded="0" points="242.11,96.88" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="graskarper21.png" width="570" height="459">
+    <points label="fish" source="manual" occluded="0" points="276.50,212.75" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="graskarper22.png" width="478" height="259">
+    <points label="fish" source="manual" occluded="0" points="253.71,116.63" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="graskarper23.png" width="614" height="236">
+    <points label="fish" source="manual" occluded="0" points="325.91,101.66" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="graskarper24.png" width="591" height="293">
+    <points label="fish" source="manual" occluded="0" points="318.45,164.07" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="graskarper25.png" width="562" height="400">
+    <points label="fish" source="manual" occluded="0" points="275.32,162.98" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="graskarper26.png" width="609" height="294">
+    <points label="fish" source="manual" occluded="0" points="321.35,135.50" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="graskarper27.png" width="360" height="173">
+    <points label="fish" source="manual" occluded="0" points="138.69,75.54" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="graskarper28.png" width="618" height="307">
+    <points label="fish" source="manual" occluded="0" points="292.12,182.27" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="graskarper29.png" width="599" height="308">
+    <points label="fish" source="manual" occluded="0" points="295.08,140.58" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="graskarper3.png" width="602" height="373">
+    <points label="fish" source="manual" occluded="0" points="277.81,153.03" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="graskarper30.png" width="436" height="215">
+    <points label="fish" source="manual" occluded="0" points="212.81,121.98" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="graskarper31.png" width="594" height="311">
+    <points label="fish" source="manual" occluded="0" points="294.09,133.27" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="graskarper32.png" width="602" height="263">
+    <points label="fish" source="manual" occluded="0" points="300.98,108.96" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="graskarper33.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="478.43,432.68" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="graskarper34.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="467.97,441.18" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="graskarper35.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="479.08,413.73" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="graskarper36.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="413.07,411.11" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="graskarper37.jpg" width="675" height="900">
+    <points label="fish" source="manual" occluded="0" points="358.53,616.67" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="graskarper38.jpg" width="800" height="533">
+    <points label="fish" source="manual" occluded="0" points="401.76,335.86" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="graskarper39.jpg" width="540" height="421">
+    <points label="fish" source="manual" occluded="0" points="266.33,251.56" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="graskarper4.png" width="637" height="339">
+    <points label="fish" source="manual" occluded="0" points="314.73,205.38" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="graskarper40.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="402.61,379.08" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="graskarper41.jpg" width="600" height="800">
+    <points label="fish" source="manual" occluded="0" points="255.53,351.22" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="graskarper42.jpg" width="600" height="800">
+    <points label="fish" source="manual" occluded="0" points="337.45,437.49" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="graskarper43.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="385.62,350.33" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="graskarper44.jpg" width="666" height="489">
+    <points label="fish" source="manual" occluded="0" points="343.67,249.01" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="graskarper45.jpg" width="747" height="800">
+    <points label="fish" source="manual" occluded="0" points="401.85,477.58" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="graskarper46.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="422.22,353.59" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="graskarper47.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="485.62,247.06" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="graskarper48.jpg" width="800" height="533">
+    <points label="fish" source="manual" occluded="0" points="395.95,230.77" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="graskarper49.jpg" width="800" height="533">
+    <points label="fish" source="manual" occluded="0" points="395.37,230.77" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="graskarper5.png" width="617" height="331">
+    <points label="fish" source="manual" occluded="0" points="304.84,142.83" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="graskarper6.png" width="594" height="234">
+    <points label="fish" source="manual" occluded="0" points="295.76,127.82" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="graskarper7.png" width="610" height="309">
+    <points label="fish" source="manual" occluded="0" points="296.47,162.39" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="graskarper8.png" width="619" height="359">
+    <points label="fish" source="manual" occluded="0" points="330.96,150.68" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="graskarper9.png" width="593" height="332">
+    <points label="fish" source="manual" occluded="0" points="325.77,160.61" z_order="0">
+    </points>
+  </image>
+</annotations>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>20</id>
+      <name>fint</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:01:48.122149+00:00</created>
+      <updated>2024-07-01 10:03:11.465696+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>20</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/20</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:27:37.817345+00:00</dumped>
+  </meta>
+  <image id="0" name="fint1.png" width="595" height="316">
+    <points label="fish" source="manual" occluded="0" points="308.94,152.59" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="fint10.png" width="493" height="237">
+    <points label="fish" source="manual" occluded="0" points="287.03,88.66" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="fint11.png" width="405" height="333">
+    <points label="fish" source="manual" occluded="0" points="170.04,124.26" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="fint12.png" width="582" height="223">
+    <points label="fish" source="manual" occluded="0" points="208.72,118.63" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="fint13.png" width="447" height="220">
+    <points label="fish" source="manual" occluded="0" points="249.29,94.36" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="fint14.png" width="525" height="248">
+    <points label="fish" source="manual" occluded="0" points="221.16,123.62" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="fint15.png" width="500" height="188">
+    <points label="fish" source="manual" occluded="0" points="200.66,118.50" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="fint16.png" width="365" height="180">
+    <points label="fish" source="manual" occluded="0" points="212.25,80.81" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="fint17.png" width="412" height="204">
+    <points label="fish" source="manual" occluded="0" points="231.08,105.46" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="fint18.png" width="632" height="316">
+    <points label="fish" source="manual" occluded="0" points="327.07,138.53" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="fint19.png" width="589" height="333">
+    <points label="fish" source="manual" occluded="0" points="240.70,160.94" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="fint2.png" width="611" height="340">
+    <points label="fish" source="manual" occluded="0" points="359.59,152.05" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="fint20.png" width="616" height="223">
+    <points label="fish" source="manual" occluded="0" points="274.80,98.36" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="fint21.png" width="363" height="207">
+    <points label="fish" source="manual" occluded="0" points="181.63,85.33" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="fint22.png" width="163" height="303">
+    <points label="fish" source="manual" occluded="0" points="76.72,133.53" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="fint23.png" width="538" height="261">
+    <points label="fish" source="manual" occluded="0" points="141.39,142.37" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="fint24.png" width="609" height="302">
+    <points label="fish" source="manual" occluded="0" points="267.66,109.25" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="fint25.png" width="618" height="362">
+    <points label="fish" source="manual" occluded="0" points="344.88,118.31" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="fint26.png" width="289" height="656">
+    <points label="fish" source="manual" occluded="0" points="132.00,325.87" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="fint27.jpg" width="666" height="499">
+    <points label="fish" source="manual" occluded="0" points="354.73,192.69" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="fint28.jpg" width="800" height="450">
+    <points label="fish" source="manual" occluded="0" points="462.13,261.94" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="fint29.jpg" width="259" height="194">
+    <points label="fish" source="manual" occluded="0" points="138.49,92.56" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="fint3.png" width="259" height="133">
+    <points label="fish" source="manual" occluded="0" points="123.43,64.24" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="fint30.jpg" width="640" height="426">
+    <points label="fish" source="manual" occluded="0" points="314.42,250.10" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="fint31.jpg" width="640" height="853">
+    <points label="fish" source="manual" occluded="0" points="357.16,399.07" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="fint32.jpg" width="239" height="211">
+    <points label="fish" source="manual" occluded="0" points="122.61,91.83" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="fint33.jpg" width="720" height="480">
+    <points label="fish" source="manual" occluded="0" points="398.68,291.75" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="fint34.jpg" width="800" height="505">
+    <points label="fish" source="manual" occluded="0" points="442.54,294.74" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="fint35.jpg" width="1024" height="576">
+    <points label="fish" source="manual" occluded="0" points="613.75,285.84" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="fint36.jpg" width="1040" height="780">
+    <points label="fish" source="manual" occluded="0" points="633.83,497.88" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="fint37.jpg" width="1280" height="960">
+    <points label="fish" source="manual" occluded="0" points="719.46,644.17" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="fint38.jpg" width="1600" height="1200">
+    <points label="fish" source="manual" occluded="0" points="1082.29,699.28" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="fint39.jpg" width="672" height="372">
+    <points label="fish" source="manual" occluded="0" points="336.46,242.88" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="fint4.png" width="593" height="289">
+    <points label="fish" source="manual" occluded="0" points="364.36,100.73" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="fint40.jpg" width="1280" height="720">
+    <points label="fish" source="manual" occluded="0" points="679.37,417.37" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="fint41.jpg" width="1277" height="899">
+    <points label="fish" source="manual" occluded="0" points="741.81,538.11" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="fint42.jpg" width="1175" height="642">
+    <points label="fish" source="manual" occluded="0" points="607.67,284.03" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="fint43.jpg" width="1000" height="676">
+    <points label="fish" source="manual" occluded="0" points="558.88,347.61" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="fint44.jpg" width="960" height="720">
+    <points label="fish" source="manual" occluded="0" points="512.20,390.63" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="fint45.jpg" width="3264" height="2448">
+    <points label="fish" source="manual" occluded="0" points="1954.80,978.80" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="fint46.jpg" width="450" height="800">
+    <points label="fish" source="manual" occluded="0" points="209.35,469.74" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="fint47.jpg" width="1024" height="689">
+    <points label="fish" source="manual" occluded="0" points="479.74,334.36" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="fint48.jpg" width="1280" height="720">
+    <points label="fish" source="manual" occluded="0" points="725.95,396.77" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="fint49.jpg" width="600" height="800">
+    <points label="fish" source="manual" occluded="0" points="210.22,296.32" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="fint5.png" width="387" height="129">
+    <points label="fish" source="manual" occluded="0" points="143.53,73.31" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="fint6.png" width="584" height="325">
+    <points label="fish" source="manual" occluded="0" points="251.15,148.00" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="fint7.png" width="525" height="246">
+    <points label="fish" source="manual" occluded="0" points="308.60,114.91" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="fint8.png" width="417" height="249">
+    <points label="fish" source="manual" occluded="0" points="164.87,84.36" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="fint9.png" width="617" height="270">
+    <points label="fish" source="manual" occluded="0" points="358.38,141.93" z_order="0">
+    </points>
+  </image>
+</annotations>

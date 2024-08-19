@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>22</id>
+      <name>spiering</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:06:33.568578+00:00</created>
+      <updated>2024-07-01 10:08:01.485790+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>22</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/22</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:26:59.131545+00:00</dumped>
+  </meta>
+  <image id="0" name="spiering1.png" width="424" height="255">
+    <points label="fish" source="manual" occluded="0" points="237.65,118.61" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="spiering10.png" width="575" height="273">
+    <points label="fish" source="manual" occluded="0" points="262.97,135.30" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="spiering11.png" width="608" height="289">
+    <points label="fish" source="manual" occluded="0" points="288.04,141.51" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="spiering12.png" width="587" height="286">
+    <points label="fish" source="manual" occluded="0" points="252.40,133.36" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="spiering13.png" width="324" height="115">
+    <points label="fish" source="manual" occluded="0" points="165.07,47.76" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="spiering14.png" width="348" height="193">
+    <points label="fish" source="manual" occluded="0" points="147.81,113.55" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="spiering15.png" width="234" height="379">
+    <points label="fish" source="manual" occluded="0" points="101.93,112.70" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="spiering16.png" width="619" height="279">
+    <points label="fish" source="manual" occluded="0" points="250.61,112.21" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="spiering17.png" width="511" height="307">
+    <points label="fish" source="manual" occluded="0" points="226.91,133.47" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="spiering18.png" width="564" height="364">
+    <points label="fish" source="manual" occluded="0" points="244.94,181.42" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="spiering19.png" width="616" height="283">
+    <points label="fish" source="manual" occluded="0" points="343.99,127.72" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="spiering2.png" width="563" height="320">
+    <points label="fish" source="manual" occluded="0" points="268.50,154.28" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="spiering20.png" width="473" height="145">
+    <points label="fish" source="manual" occluded="0" points="270.26,56.26" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="spiering21.png" width="627" height="235">
+    <points label="fish" source="manual" occluded="0" points="310.41,146.01" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="spiering22.png" width="614" height="275">
+    <points label="fish" source="manual" occluded="0" points="329.56,137.07" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="spiering23.png" width="617" height="313">
+    <points label="fish" source="manual" occluded="0" points="375.86,149.18" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="spiering24.png" width="608" height="335">
+    <points label="fish" source="manual" occluded="0" points="352.29,152.19" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="spiering25.png" width="571" height="355">
+    <points label="fish" source="manual" occluded="0" points="292.28,164.33" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="spiering26.png" width="625" height="293">
+    <points label="fish" source="manual" occluded="0" points="293.71,143.43" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="spiering27.png" width="442" height="187">
+    <points label="fish" source="manual" occluded="0" points="281.46,116.69" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="spiering28.png" width="625" height="272">
+    <points label="fish" source="manual" occluded="0" points="259.60,151.96" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="spiering29.jpg" width="2916" height="2916">
+    <points label="fish" source="manual" occluded="0" points="1532.64,1357.93" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="spiering3.png" width="603" height="272">
+    <points label="fish" source="manual" occluded="0" points="279.56,110.90" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="spiering30.jpg" width="600" height="400">
+    <points label="fish" source="manual" occluded="0" points="366.91,173.22" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="spiering31.jpg" width="750" height="467">
+    <points label="fish" source="manual" occluded="0" points="360.56,364.18" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="spiering32.jpg" width="850" height="638">
+    <points label="fish" source="manual" occluded="0" points="332.22,288.09" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="spiering33.jpg" width="500" height="375">
+    <points label="fish" source="manual" occluded="0" points="223.64,190.76" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="spiering34.jpg" width="782" height="521">
+    <points label="fish" source="manual" occluded="0" points="348.74,278.65" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="spiering35.png" width="377" height="567">
+    <points label="fish" source="manual" occluded="0" points="186.04,249.54" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="spiering36.png" width="255" height="424">
+    <points label="fish" source="manual" occluded="0" points="115.93,182.67" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="spiering37.png" width="320" height="563">
+    <points label="fish" source="manual" occluded="0" points="155.43,290.72" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="spiering38.png" width="272" height="603">
+    <points label="fish" source="manual" occluded="0" points="98.91,326.44" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="spiering39.png" width="189" height="267">
+    <points label="fish" source="manual" occluded="0" points="84.02,143.68" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="spiering4.png" width="255" height="455">
+    <points label="fish" source="manual" occluded="0" points="101.23,181.43" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="spiering40.png" width="281" height="489">
+    <points label="fish" source="manual" occluded="0" points="129.32,306.28" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="spiering41.png" width="455" height="255">
+    <points label="fish" source="manual" occluded="0" points="208.39,178.78" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="spiering42.png" width="164" height="635">
+    <points label="fish" source="manual" occluded="0" points="76.15,372.14" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="spiering43.png" width="275" height="614">
+    <points label="fish" source="manual" occluded="0" points="142.21,255.85" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="spiering44.png" width="313" height="617">
+    <points label="fish" source="manual" occluded="0" points="150.42,272.21" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="spiering45.png" width="235" height="627">
+    <points label="fish" source="manual" occluded="0" points="159.14,432.34" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="spiering46.png" width="567" height="377">
+    <points label="fish" source="manual" occluded="0" points="252.30,196.70" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="spiering47.jpg" width="521" height="782">
+    <points label="fish" source="manual" occluded="0" points="286.89,484.26" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="spiering48.png" width="145" height="473">
+    <points label="fish" source="manual" occluded="0" points="55.50,145.83" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="spiering49.png" width="335" height="608">
+    <points label="fish" source="manual" occluded="0" points="148.94,228.15" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="spiering5.png" width="635" height="164">
+    <points label="fish" source="manual" occluded="0" points="311.27,65.36" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="spiering6.png" width="489" height="281">
+    <points label="fish" source="manual" occluded="0" points="229.09,124.41" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="spiering7.png" width="267" height="189">
+    <points label="fish" source="manual" occluded="0" points="113.32,83.18" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="spiering8.png" width="513" height="207">
+    <points label="fish" source="manual" occluded="0" points="299.59,82.33" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="spiering9.png" width="567" height="377">
+    <points label="fish" source="manual" occluded="0" points="334.03,151.93" z_order="0">
+    </points>
+  </image>
+</annotations>

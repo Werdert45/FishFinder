@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>24</id>
+      <name>amerikaanse_hondvis</name>
+      <size>48</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:10:02.169410+00:00</created>
+      <updated>2024-07-01 10:11:06.586356+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>47</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>24</id>
+          <start>0</start>
+          <stop>47</stop>
+          <url>http://localhost:8080/api/jobs/24</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:26:09.917492+00:00</dumped>
+  </meta>
+  <image id="0" name="amerikaanse_hondsvis10.png" width="521" height="194">
+    <points label="fish" source="manual" occluded="0" points="219.47,84.97" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="amerikaanse_hondsvis11.png" width="580" height="373">
+    <points label="fish" source="manual" occluded="0" points="314.37,185.08" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="amerikaanse_hondsvis12.png" width="511" height="170">
+    <points label="fish" source="manual" occluded="0" points="277.86,83.94" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="amerikaanse_hondsvis13.png" width="616" height="235">
+    <points label="fish" source="manual" occluded="0" points="320.49,115.99" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="amerikaanse_hondsvis14.png" width="615" height="278">
+    <points label="fish" source="manual" occluded="0" points="278.87,148.04" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="amerikaanse_hondsvis15.png" width="597" height="279">
+    <points label="fish" source="manual" occluded="0" points="317.91,130.54" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="amerikaanse_hondsvis16.png" width="570" height="216">
+    <points label="fish" source="manual" occluded="0" points="277.03,92.03" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="amerikaanse_hondsvis17.png" width="532" height="263">
+    <points label="fish" source="manual" occluded="0" points="264.87,121.99" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="amerikaanse_hondsvis18.png" width="439" height="189">
+    <points label="fish" source="manual" occluded="0" points="221.18,91.60" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="amerikaanse_hondsvis19.png" width="553" height="297">
+    <points label="fish" source="manual" occluded="0" points="311.52,148.29" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="amerikaanse_hondsvis2.jpg" width="794" height="595">
+    <points label="fish" source="manual" occluded="0" points="422.25,273.82" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="amerikaanse_hondsvis20.png" width="309" height="140">
+    <points label="fish" source="manual" occluded="0" points="174.29,55.51" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="amerikaanse_hondsvis21.png" width="578" height="277">
+    <points label="fish" source="manual" occluded="0" points="310.42,114.01" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="amerikaanse_hondsvis22.png" width="540" height="238">
+    <points label="fish" source="manual" occluded="0" points="265.10,112.58" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="amerikaanse_hondsvis23.png" width="614" height="296">
+    <points label="fish" source="manual" occluded="0" points="301.42,141.11" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="amerikaanse_hondsvis24.png" width="519" height="318">
+    <points label="fish" source="manual" occluded="0" points="254.97,153.20" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="amerikaanse_hondsvis25.png" width="602" height="286">
+    <points label="fish" source="manual" occluded="0" points="295.92,136.26" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="amerikaanse_hondsvis26.png" width="611" height="291">
+    <points label="fish" source="manual" occluded="0" points="332.65,138.45" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="amerikaanse_hondsvis27.png" width="622" height="293">
+    <points label="fish" source="manual" occluded="0" points="338.84,139.31" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="amerikaanse_hondsvis28.png" width="551" height="322">
+    <points label="fish" source="manual" occluded="0" points="299.20,140.57" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="amerikaanse_hondsvis29.png" width="390" height="141">
+    <points label="fish" source="manual" occluded="0" points="200.72,67.08" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="amerikaanse_hondsvis3.jpg" width="1024" height="768">
+    <points label="fish" source="manual" occluded="0" points="573.90,366.42" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="amerikaanse_hondsvis30.png" width="349" height="120">
+    <points label="fish" source="manual" occluded="0" points="215.65,59.52" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="amerikaanse_hondsvis31.png" width="541" height="314">
+    <points label="fish" source="manual" occluded="0" points="314.99,164.96" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="amerikaanse_hondsvis32.png" width="561" height="255">
+    <points label="fish" source="manual" occluded="0" points="260.67,116.31" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="amerikaanse_hondsvis33.png" width="234" height="137">
+    <points label="fish" source="manual" occluded="0" points="108.81,63.83" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="amerikaanse_hondsvis34.png" width="583" height="280">
+    <points label="fish" source="manual" occluded="0" points="338.61,130.62" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="amerikaanse_hondsvis35.png" width="460" height="253">
+    <points label="fish" source="manual" occluded="0" points="240.30,118.62" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="amerikaanse_hondsvis36.jpg" width="1200" height="600">
+    <points label="fish" source="manual" occluded="0" points="657.10,337.82" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="amerikaanse_hondsvis37.jpg" width="641" height="318">
+    <points label="fish" source="manual" occluded="0" points="328.79,145.11" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="amerikaanse_hondsvis38.png" width="319" height="158">
+    <points label="fish" source="manual" occluded="0" points="159.38,74.53" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="amerikaanse_hondsvis39.png" width="405" height="491">
+    <points label="fish" source="manual" occluded="0" points="193.70,295.00" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="amerikaanse_hondsvis4.jpg" width="1200" height="600">
+    <points label="fish" source="manual" occluded="0" points="609.23,321.03" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="amerikaanse_hondsvis40.png" width="480" height="364">
+    <points label="fish" source="manual" occluded="0" points="275.67,145.14" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="amerikaanse_hondsvis41.png" width="420" height="523">
+    <points label="fish" source="manual" occluded="0" points="215.67,269.74" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="amerikaanse_hondsvis42.png" width="394" height="361">
+    <points label="fish" source="manual" occluded="0" points="198.57,165.77" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="amerikaanse_hondsvis43.png" width="479" height="383">
+    <points label="fish" source="manual" occluded="0" points="260.16,182.10" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="amerikaanse_hondsvis44.png" width="515" height="392">
+    <points label="fish" source="manual" occluded="0" points="305.98,168.65" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="amerikaanse_hondsvis45.png" width="305" height="291">
+    <points label="fish" source="manual" occluded="0" points="172.32,161.51" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="amerikaanse_hondsvis46.png" width="529" height="350">
+    <points label="fish" source="manual" occluded="0" points="319.60,162.79" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="amerikaanse_hondsvis47.png" width="543" height="266">
+    <points label="fish" source="manual" occluded="0" points="325.63,144.79" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="amerikaanse_hondsvis48.png" width="500" height="341">
+    <points label="fish" source="manual" occluded="0" points="302.38,159.19" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="amerikaanse_hondsvis49.png" width="416" height="328">
+    <points label="fish" source="manual" occluded="0" points="243.37,172.23" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="amerikaanse_hondsvis5.jpg" width="1200" height="600">
+    <points label="fish" source="manual" occluded="0" points="689.01,348.74" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="amerikaanse_hondsvis6.jpg" width="1240" height="760">
+    <points label="fish" source="manual" occluded="0" points="674.69,360.05" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="amerikaanse_hondsvis7.jpg" width="450" height="210">
+    <points label="fish" source="manual" occluded="0" points="248.31,96.49" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="amerikaanse_hondsvis8.png" width="557" height="485">
+    <points label="fish" source="manual" occluded="0" points="294.61,233.27" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="amerikaanse_hondsvis9.png" width="562" height="273">
+    <points label="fish" source="manual" occluded="0" points="279.80,107.98" z_order="0">
+    </points>
+  </image>
+</annotations>

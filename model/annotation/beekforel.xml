@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>48</id>
+      <name>beekforel</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:48:07.675585+00:00</created>
+      <updated>2024-07-01 10:49:24.876838+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>48</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/48</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:17:04.377046+00:00</dumped>
+  </meta>
+  <image id="0" name="beekforel1.jpg" width="800" height="597">
+    <points label="fish" source="manual" occluded="0" points="424.36,242.59" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="beekforel10.png" width="593" height="269">
+    <points label="fish" source="manual" occluded="0" points="279.92,117.49" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="beekforel11.png" width="383" height="182">
+    <points label="fish" source="manual" occluded="0" points="185.87,86.04" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="beekforel12.png" width="295" height="147">
+    <points label="fish" source="manual" occluded="0" points="155.96,60.92" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="beekforel13.png" width="384" height="199">
+    <points label="fish" source="manual" occluded="0" points="193.49,117.50" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="beekforel14.png" width="600" height="335">
+    <points label="fish" source="manual" occluded="0" points="336.73,116.26" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="beekforel15.png" width="588" height="272">
+    <points label="fish" source="manual" occluded="0" points="300.79,118.92" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="beekforel16.png" width="595" height="255">
+    <points label="fish" source="manual" occluded="0" points="307.49,110.00" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="beekforel17.png" width="549" height="251">
+    <points label="fish" source="manual" occluded="0" points="283.70,108.59" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="beekforel18.png" width="619" height="270">
+    <points label="fish" source="manual" occluded="0" points="319.92,117.45" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="beekforel19.png" width="512" height="227">
+    <points label="fish" source="manual" occluded="0" points="258.68,100.96" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="beekforel2.jpg" width="670" height="300">
+    <points label="fish" source="manual" occluded="0" points="341.32,145.10" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="beekforel20.png" width="568" height="230">
+    <points label="fish" source="manual" occluded="0" points="302.08,110.81" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="beekforel21.png" width="599" height="290">
+    <points label="fish" source="manual" occluded="0" points="319.19,140.62" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="beekforel22.png" width="414" height="198">
+    <points label="fish" source="manual" occluded="0" points="220.77,95.96" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="beekforel23.png" width="628" height="291">
+    <points label="fish" source="manual" occluded="0" points="293.60,98.10" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="beekforel24.png" width="610" height="250">
+    <points label="fish" source="manual" occluded="0" points="321.44,98.74" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="beekforel25.png" width="362" height="165">
+    <points label="fish" source="manual" occluded="0" points="179.87,70.08" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="beekforel26.png" width="615" height="239">
+    <points label="fish" source="manual" occluded="0" points="305.77,103.15" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="beekforel27.png" width="578" height="224">
+    <points label="fish" source="manual" occluded="0" points="294.04,91.97" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="beekforel28.png" width="381" height="243">
+    <points label="fish" source="manual" occluded="0" points="186.77,119.64" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="beekforel29.png" width="609" height="267">
+    <points label="fish" source="manual" occluded="0" points="332.65,121.57" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="beekforel3.png" width="616" height="421">
+    <points label="fish" source="manual" occluded="0" points="336.68,222.44" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="beekforel30.png" width="606" height="282">
+    <points label="fish" source="manual" occluded="0" points="320.16,118.30" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="beekforel31.png" width="588" height="308">
+    <points label="fish" source="manual" occluded="0" points="307.38,127.07" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="beekforel32.png" width="591" height="269">
+    <points label="fish" source="manual" occluded="0" points="308.73,107.20" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="beekforel33.png" width="537" height="242">
+    <points label="fish" source="manual" occluded="0" points="271.49,107.27" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="beekforel34.png" width="596" height="264">
+    <points label="fish" source="manual" occluded="0" points="294.02,97.17" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="beekforel35.png" width="553" height="281">
+    <points label="fish" source="manual" occluded="0" points="273.02,108.39" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="beekforel36.png" width="773" height="332">
+    <points label="fish" source="manual" occluded="0" points="382.18,123.56" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="beekforel37.png" width="570" height="317">
+    <points label="fish" source="manual" occluded="0" points="282.02,127.77" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="beekforel38.png" width="495" height="326">
+    <points label="fish" source="manual" occluded="0" points="245.02,135.82" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="beekforel39.png" width="594" height="317">
+    <points label="fish" source="manual" occluded="0" points="294.30,126.91" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="beekforel4.png" width="584" height="256">
+    <points label="fish" source="manual" occluded="0" points="289.36,97.16" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="beekforel40.png" width="560" height="293">
+    <points label="fish" source="manual" occluded="0" points="263.34,123.00" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="beekforel41.png" width="592" height="260">
+    <points label="fish" source="manual" occluded="0" points="291.64,117.35" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="beekforel42.png" width="610" height="272">
+    <points label="fish" source="manual" occluded="0" points="307.36,121.71" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="beekforel43.png" width="591" height="222">
+    <points label="fish" source="manual" occluded="0" points="298.40,97.15" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="beekforel44.png" width="576" height="291">
+    <points label="fish" source="manual" occluded="0" points="287.40,111.65" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="beekforel45.png" width="351" height="271">
+    <points label="fish" source="manual" occluded="0" points="175.20,110.70" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="beekforel46.png" width="548" height="255">
+    <points label="fish" source="manual" occluded="0" points="273.80,95.29" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="beekforel47.png" width="529" height="279">
+    <points label="fish" source="manual" occluded="0" points="271.16,86.92" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="beekforel48.png" width="548" height="250">
+    <points label="fish" source="manual" occluded="0" points="294.12,94.52" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="beekforel49.png" width="290" height="127">
+    <points label="fish" source="manual" occluded="0" points="155.86,47.67" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="beekforel5.png" width="612" height="241">
+    <points label="fish" source="manual" occluded="0" points="328.92,87.07" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="beekforel6.png" width="428" height="223">
+    <points label="fish" source="manual" occluded="0" points="230.01,88.13" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="beekforel7.png" width="513" height="262">
+    <points label="fish" source="manual" occluded="0" points="249.69,115.39" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="beekforel8.png" width="611" height="326">
+    <points label="fish" source="manual" occluded="0" points="314.91,132.85" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="beekforel9.png" width="469" height="251">
+    <points label="fish" source="manual" occluded="0" points="241.39,105.15" z_order="0">
+    </points>
+  </image>
+</annotations>

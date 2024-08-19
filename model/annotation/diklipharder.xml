@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>43</id>
+      <name>diklipharder</name>
+      <size>50</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:38:48.580069+00:00</created>
+      <updated>2024-07-01 10:39:51.817718+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>49</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>43</id>
+          <start>0</start>
+          <stop>49</stop>
+          <url>http://localhost:8080/api/jobs/43</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:18:39.147859+00:00</dumped>
+  </meta>
+  <image id="0" name="diklipharder1.png" width="594" height="240">
+    <points label="fish" source="manual" occluded="0" points="273.52,100.89" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="diklipharder10.png" width="478" height="268">
+    <points label="fish" source="manual" occluded="0" points="231.13,105.56" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="diklipharder11.png" width="622" height="267">
+    <points label="fish" source="manual" occluded="0" points="311.20,104.97" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="diklipharder12.png" width="529" height="215">
+    <points label="fish" source="manual" occluded="0" points="261.54,93.99" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="diklipharder13.png" width="629" height="273">
+    <points label="fish" source="manual" occluded="0" points="318.47,130.12" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="diklipharder14.png" width="631" height="212">
+    <points label="fish" source="manual" occluded="0" points="308.89,97.15" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="diklipharder15.png" width="614" height="278">
+    <points label="fish" source="manual" occluded="0" points="299.91,135.56" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="diklipharder16.png" width="584" height="279">
+    <points label="fish" source="manual" occluded="0" points="285.28,136.84" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="diklipharder17.png" width="621" height="303">
+    <points label="fish" source="manual" occluded="0" points="351.80,117.40" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="diklipharder18.png" width="464" height="235">
+    <points label="fish" source="manual" occluded="0" points="244.50,115.40" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="diklipharder19.png" width="623" height="391">
+    <points label="fish" source="manual" occluded="0" points="365.98,135.13" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="diklipharder2.png" width="348" height="190">
+    <points label="fish" source="manual" occluded="0" points="159.99,87.68" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="diklipharder20.jpg" width="640" height="480">
+    <points label="fish" source="manual" occluded="0" points="340.64,210.18" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="diklipharder21.jpg" width="640" height="480">
+    <points label="fish" source="manual" occluded="0" points="329.14,212.27" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="diklipharder22.jpg" width="800" height="450">
+    <points label="fish" source="manual" occluded="0" points="403.07,270.90" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="diklipharder23.jpg" width="1500" height="1500">
+    <points label="fish" source="manual" occluded="0" points="799.87,782.71" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="diklipharder24.jpg" width="2048" height="1536">
+    <points label="fish" source="manual" occluded="0" points="1143.62,754.60" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="diklipharder25.jpg" width="1125" height="1500">
+    <points label="fish" source="manual" occluded="0" points="660.49,812.12" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="diklipharder26.jpg" width="724" height="442">
+    <points label="fish" source="manual" occluded="0" points="379.99,209.35" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="diklipharder27.jpg" width="640" height="480">
+    <points label="fish" source="manual" occluded="0" points="361.03,313.19" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="diklipharder28.jpg" width="500" height="600">
+    <points label="fish" source="manual" occluded="0" points="261.44,300.00" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="diklipharder29.jpg" width="500" height="375">
+    <points label="fish" source="manual" occluded="0" points="259.59,184.02" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="diklipharder3.png" width="531" height="327">
+    <points label="fish" source="manual" occluded="0" points="296.34,125.78" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="diklipharder30.jpg" width="540" height="365">
+    <points label="fish" source="manual" occluded="0" points="275.77,156.45" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="diklipharder31.jpg" width="500" height="300">
+    <points label="fish" source="manual" occluded="0" points="255.07,127.25" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="diklipharder32.png" width="628" height="456">
+    <points label="fish" source="manual" occluded="0" points="337.62,291.57" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="diklipharder33.jpg" width="442" height="724">
+    <points label="fish" source="manual" occluded="0" points="192.21,351.76" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="diklipharder33.png" width="693" height="436">
+    <points label="fish" source="manual" occluded="0" points="363.00,226.24" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="diklipharder34.png" width="303" height="621">
+    <points label="fish" source="manual" occluded="0" points="113.61,243.16" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="diklipharder35.png" width="279" height="584">
+    <points label="fish" source="manual" occluded="0" points="127.42,291.36" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="diklipharder36.jpg" width="600" height="500">
+    <points label="fish" source="manual" occluded="0" points="289.90,249.43" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="diklipharder37.png" width="212" height="631">
+    <points label="fish" source="manual" occluded="0" points="93.29,315.17" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="diklipharder38.png" width="278" height="614">
+    <points label="fish" source="manual" occluded="0" points="126.63,307.01" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="diklipharder39.jpg" width="375" height="500">
+    <points label="fish" source="manual" occluded="0" points="177.70,249.98" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="diklipharder4.png" width="591" height="279">
+    <points label="fish" source="manual" occluded="0" points="288.06,139.71" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="diklipharder40.png" width="267" height="622">
+    <points label="fish" source="manual" occluded="0" points="121.29,311.69" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="diklipharder41.png" width="268" height="478">
+    <points label="fish" source="manual" occluded="0" points="113.40,227.00" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="diklipharder42.png" width="215" height="529">
+    <points label="fish" source="manual" occluded="0" points="100.59,264.76" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="diklipharder43.png" width="306" height="536">
+    <points label="fish" source="manual" occluded="0" points="145.10,286.11" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="diklipharder44.png" width="219" height="495">
+    <points label="fish" source="manual" occluded="0" points="71.20,280.69" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="diklipharder45.png" width="273" height="629">
+    <points label="fish" source="manual" occluded="0" points="157.06,286.77" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="diklipharder46.jpg" width="450" height="800">
+    <points label="fish" source="manual" occluded="0" points="261.20,430.52" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="diklipharder47.png" width="279" height="591">
+    <points label="fish" source="manual" occluded="0" points="147.85,308.67" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="diklipharder48.png" width="327" height="552">
+    <points label="fish" source="manual" occluded="0" points="138.85,259.17" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="diklipharder49.jpg" width="1500" height="1500">
+    <points label="fish" source="manual" occluded="0" points="752.48,768.01" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="diklipharder5.png" width="552" height="327">
+    <points label="fish" source="manual" occluded="0" points="303.62,132.42" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="diklipharder6.png" width="506" height="277">
+    <points label="fish" source="manual" occluded="0" points="244.31,129.12" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="diklipharder7.png" width="572" height="293">
+    <points label="fish" source="manual" occluded="0" points="279.39,134.29" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="diklipharder8.png" width="536" height="306">
+    <points label="fish" source="manual" occluded="0" points="258.44,152.26" z_order="0">
+    </points>
+  </image>
+  <image id="49" name="diklipharder9.png" width="495" height="219">
+    <points label="fish" source="manual" occluded="0" points="270.03,81.63" z_order="0">
+    </points>
+  </image>
+</annotations>

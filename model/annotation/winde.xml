@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>53</id>
+      <name>winde</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:55:27.882032+00:00</created>
+      <updated>2024-07-01 10:56:29.570444+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>53</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/53</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:15:27.473701+00:00</dumped>
+  </meta>
+  <image id="0" name="winde1.png" width="405" height="214">
+    <points label="fish" source="manual" occluded="0" points="215.69,105.30" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="winde10.png" width="586" height="282">
+    <points label="fish" source="manual" occluded="0" points="275.77,131.18" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="winde11.png" width="570" height="289">
+    <points label="fish" source="manual" occluded="0" points="287.40,137.90" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="winde12.png" width="603" height="308">
+    <points label="fish" source="manual" occluded="0" points="305.09,147.65" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="winde13.png" width="630" height="336">
+    <points label="fish" source="manual" occluded="0" points="318.99,161.38" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="winde14.png" width="572" height="219">
+    <points label="fish" source="manual" occluded="0" points="289.00,103.31" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="winde15.png" width="303" height="576">
+    <points label="fish" source="manual" occluded="0" points="156.49,278.60" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="winde16.png" width="513" height="259">
+    <points label="fish" source="manual" occluded="0" points="259.38,124.29" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="winde17.png" width="620" height="298">
+    <points label="fish" source="manual" occluded="0" points="313.67,142.94" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="winde18.png" width="564" height="290">
+    <points label="fish" source="manual" occluded="0" points="285.36,139.48" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="winde19.png" width="601" height="414">
+    <points label="fish" source="manual" occluded="0" points="304.54,200.68" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="winde2.png" width="589" height="315">
+    <points label="fish" source="manual" occluded="0" points="298.20,151.92" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="winde20.png" width="568" height="272">
+    <points label="fish" source="manual" occluded="0" points="287.77,130.84" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="winde21.png" width="626" height="438">
+    <points label="fish" source="manual" occluded="0" points="317.54,212.81" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="winde22.png" width="374" height="256">
+    <points label="fish" source="manual" occluded="0" points="189.64,124.36" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="winde23.png" width="520" height="254">
+    <points label="fish" source="manual" occluded="0" points="266.40,82.60" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="winde24.png" width="489" height="310">
+    <points label="fish" source="manual" occluded="0" points="266.73,135.84" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="winde25.png" width="481" height="250">
+    <points label="fish" source="manual" occluded="0" points="226.37,115.56" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="winde26.png" width="603" height="301">
+    <points label="fish" source="manual" occluded="0" points="289.69,132.54" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="winde27.png" width="572" height="312">
+    <points label="fish" source="manual" occluded="0" points="275.39,139.17" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="winde28.png" width="585" height="371">
+    <points label="fish" source="manual" occluded="0" points="281.86,168.51" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="winde29.png" width="447" height="296">
+    <points label="fish" source="manual" occluded="0" points="236.73,124.14" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="winde3.png" width="620" height="340">
+    <points label="fish" source="manual" occluded="0" points="298.87,152.23" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="winde30.png" width="552" height="304">
+    <points label="fish" source="manual" occluded="0" points="276.58,124.96" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="winde31.png" width="449" height="305">
+    <points label="fish" source="manual" occluded="0" points="190.62,102.51" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="winde32.png" width="630" height="301">
+    <points label="fish" source="manual" occluded="0" points="267.63,154.24" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="winde33.png" width="610" height="350">
+    <points label="fish" source="manual" occluded="0" points="265.95,156.63" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="winde34.png" width="510" height="251">
+    <points label="fish" source="manual" occluded="0" points="261.60,128.55" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="winde35.png" width="492" height="230">
+    <points label="fish" source="manual" occluded="0" points="258.91,94.34" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="winde36.png" width="551" height="249">
+    <points label="fish" source="manual" occluded="0" points="282.04,116.59" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="winde37.png" width="597" height="328">
+    <points label="fish" source="manual" occluded="0" points="316.87,127.24" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="winde38.png" width="596" height="308">
+    <points label="fish" source="manual" occluded="0" points="316.55,142.75" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="winde39.png" width="386" height="211">
+    <points label="fish" source="manual" occluded="0" points="208.80,91.59" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="winde4.png" width="422" height="202">
+    <points label="fish" source="manual" occluded="0" points="228.57,85.94" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="winde40.png" width="615" height="295">
+    <points label="fish" source="manual" occluded="0" points="333.31,125.75" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="winde41.png" width="431" height="267">
+    <points label="fish" source="manual" occluded="0" points="233.58,118.28" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="winde42.png" width="403" height="245">
+    <points label="fish" source="manual" occluded="0" points="218.42,108.27" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="winde43.jpg" width="730" height="413">
+    <points label="fish" source="manual" occluded="0" points="408.70,227.19" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="winde44.jpg" width="730" height="413">
+    <points label="fish" source="manual" occluded="0" points="358.63,260.91" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="winde45.jpg" width="4096" height="2617">
+    <points label="fish" source="manual" occluded="0" points="2187.16,1616.75" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="winde46.jpg" width="550" height="413">
+    <points label="fish" source="manual" occluded="0" points="297.27,255.29" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="winde47.jpg" width="935" height="768">
+    <points label="fish" source="manual" occluded="0" points="509.31,475.18" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="winde48.jpg" width="800" height="549">
+    <points label="fish" source="manual" occluded="0" points="430.20,340.01" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="winde49.jpg" width="1024" height="768">
+    <points label="fish" source="manual" occluded="0" points="554.24,476.01" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="winde5.png" width="618" height="320">
+    <points label="fish" source="manual" occluded="0" points="330.82,207.57" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="winde6.png" width="537" height="253">
+    <points label="fish" source="manual" occluded="0" points="288.00,141.00" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="winde7.png" width="569" height="300">
+    <points label="fish" source="manual" occluded="0" points="283.69,141.26" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="winde8.png" width="616" height="255">
+    <points label="fish" source="manual" occluded="0" points="308.21,118.24" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="winde9.png" width="593" height="299">
+    <points label="fish" source="manual" occluded="0" points="297.34,140.15" z_order="0">
+    </points>
+  </image>
+</annotations>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>5</id>
+      <name>regenboogforel</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-06-30 18:30:51.532639+00:00</created>
+      <updated>2024-06-30 18:32:56.815302+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>5</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/5</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:33:27.073047+00:00</dumped>
+  </meta>
+  <image id="0" name="regenboogforel1.png" width="572" height="314">
+    <points label="fish" source="manual" occluded="0" points="234.16,162.59" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="regenboogforel10.png" width="620" height="339">
+    <points label="fish" source="manual" occluded="0" points="255.10,116.34" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="regenboogforel11.png" width="606" height="277">
+    <points label="fish" source="manual" occluded="0" points="256.97,124.28" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="regenboogforel12.png" width="491" height="250">
+    <points label="fish" source="manual" occluded="0" points="241.71,125.68" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="regenboogforel13.png" width="587" height="303">
+    <points label="fish" source="manual" occluded="0" points="254.46,138.58" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="regenboogforel14.png" width="558" height="344">
+    <points label="fish" source="manual" occluded="0" points="302.23,132.56" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="regenboogforel15.png" width="624" height="282">
+    <points label="fish" source="manual" occluded="0" points="279.46,134.44" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="regenboogforel16.png" width="295" height="182">
+    <points label="fish" source="manual" occluded="0" points="158.44,79.84" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="regenboogforel17.png" width="467" height="253">
+    <points label="fish" source="manual" occluded="0" points="205.07,117.85" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="regenboogforel18.png" width="508" height="287">
+    <points label="fish" source="manual" occluded="0" points="229.31,125.90" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="regenboogforel19.png" width="215" height="112">
+    <points label="fish" source="manual" occluded="0" points="109.90,66.97" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="regenboogforel2.png" width="585" height="333">
+    <points label="fish" source="manual" occluded="0" points="352.69,161.38" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="regenboogforel20.png" width="563" height="293">
+    <points label="fish" source="manual" occluded="0" points="309.86,155.78" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="regenboogforel21.png" width="501" height="587">
+    <points label="fish" source="manual" occluded="0" points="249.25,281.67" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="regenboogforel22.png" width="477" height="202">
+    <points label="fish" source="manual" occluded="0" points="242.51,91.00" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="regenboogforel23.png" width="442" height="189">
+    <points label="fish" source="manual" occluded="0" points="226.41,77.32" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="regenboogforel24.png" width="466" height="258">
+    <points label="fish" source="manual" occluded="0" points="222.72,108.45" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="regenboogforel25.png" width="430" height="255">
+    <points label="fish" source="manual" occluded="0" points="224.47,101.46" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="regenboogforel26.png" width="313" height="143">
+    <points label="fish" source="manual" occluded="0" points="166.79,63.73" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="regenboogforel27.png" width="596" height="268">
+    <points label="fish" source="manual" occluded="0" points="340.32,126.49" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="regenboogforel28.png" width="481" height="207">
+    <points label="fish" source="manual" occluded="0" points="239.50,97.96" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="regenboogforel29.png" width="590" height="395">
+    <points label="fish" source="manual" occluded="0" points="332.23,168.46" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="regenboogforel3.png" width="626" height="358">
+    <points label="fish" source="manual" occluded="0" points="326.82,156.23" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="regenboogforel30.png" width="595" height="298">
+    <points label="fish" source="manual" occluded="0" points="307.07,146.10" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="regenboogforel31.png" width="386" height="196">
+    <points label="fish" source="manual" occluded="0" points="199.61,118.79" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="regenboogforel32.png" width="542" height="216">
+    <points label="fish" source="manual" occluded="0" points="310.24,91.32" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="regenboogforel33.png" width="634" height="318">
+    <points label="fish" source="manual" occluded="0" points="358.02,130.15" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="regenboogforel34.png" width="628" height="297">
+    <points label="fish" source="manual" occluded="0" points="369.60,145.21" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="regenboogforel35.png" width="446" height="270">
+    <points label="fish" source="manual" occluded="0" points="233.46,131.87" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="regenboogforel36.png" width="574" height="333">
+    <points label="fish" source="manual" occluded="0" points="321.73,173.92" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="regenboogforel37.png" width="265" height="407">
+    <points label="fish" source="manual" occluded="0" points="166.66,174.90" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="regenboogforel38.png" width="315" height="222">
+    <points label="fish" source="manual" occluded="0" points="164.76,104.47" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="regenboogforel39.png" width="604" height="319">
+    <points label="fish" source="manual" occluded="0" points="333.06,164.79" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="regenboogforel4.png" width="611" height="387">
+    <points label="fish" source="manual" occluded="0" points="335.00,171.93" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="regenboogforel40.png" width="616" height="313">
+    <points label="fish" source="manual" occluded="0" points="325.45,133.02" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="regenboogforel41.png" width="606" height="303">
+    <points label="fish" source="manual" occluded="0" points="318.46,132.63" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="regenboogforel42.png" width="333" height="186">
+    <points label="fish" source="manual" occluded="0" points="169.75,82.74" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="regenboogforel43.png" width="579" height="303">
+    <points label="fish" source="manual" occluded="0" points="286.66,135.49" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="regenboogforel44.png" width="582" height="280">
+    <points label="fish" source="manual" occluded="0" points="278.98,124.54" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="regenboogforel45.png" width="627" height="299">
+    <points label="fish" source="manual" occluded="0" points="295.06,154.12" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="regenboogforel46.png" width="591" height="363">
+    <points label="fish" source="manual" occluded="0" points="284.33,144.92" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="regenboogforel47.png" width="309" height="175">
+    <points label="fish" source="manual" occluded="0" points="151.91,61.22" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="regenboogforel48.jpg" width="588" height="441">
+    <points label="fish" source="manual" occluded="0" points="336.02,175.09" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="regenboogforel49.jpg" width="919" height="621">
+    <points label="fish" source="manual" occluded="0" points="493.32,301.33" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="regenboogforel5.png" width="415" height="294">
+    <points label="fish" source="manual" occluded="0" points="248.49,132.91" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="regenboogforel6.png" width="587" height="335">
+    <points label="fish" source="manual" occluded="0" points="323.51,134.84" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="regenboogforel7.png" width="625" height="288">
+    <points label="fish" source="manual" occluded="0" points="341.38,100.26" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="regenboogforel8.png" width="590" height="301">
+    <points label="fish" source="manual" occluded="0" points="302.24,140.39" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="regenboogforel9.png" width="261" height="142">
+    <points label="fish" source="manual" occluded="0" points="142.37,51.65" z_order="0">
+    </points>
+  </image>
+</annotations>

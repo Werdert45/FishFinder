@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>31</id>
+      <name>brasem</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:21:12.379812+00:00</created>
+      <updated>2024-07-01 10:22:13.253036+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>31</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/31</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:23:22.631442+00:00</dumped>
+  </meta>
+  <image id="0" name="brasem1.png" width="624" height="330">
+    <points label="fish" source="manual" occluded="0" points="253.70,180.73" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="brasem10.png" width="537" height="321">
+    <points label="fish" source="manual" occluded="0" points="229.78,168.94" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="brasem11.png" width="464" height="731">
+    <points label="fish" source="manual" occluded="0" points="208.49,353.17" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="brasem12.png" width="472" height="265">
+    <points label="fish" source="manual" occluded="0" points="225.60,129.68" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="brasem13.png" width="467" height="350">
+    <points label="fish" source="manual" occluded="0" points="206.44,163.55" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="brasem14.png" width="534" height="266">
+    <points label="fish" source="manual" occluded="0" points="263.46,122.92" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="brasem15.png" width="593" height="367">
+    <points label="fish" source="manual" occluded="0" points="294.44,172.52" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="brasem16.png" width="626" height="282">
+    <points label="fish" source="manual" occluded="0" points="311.04,129.60" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="brasem17.png" width="356" height="163">
+    <points label="fish" source="manual" occluded="0" points="176.88,75.14" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="brasem18.png" width="560" height="326">
+    <points label="fish" source="manual" occluded="0" points="278.23,153.22" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="brasem19.png" width="613" height="374">
+    <points label="fish" source="manual" occluded="0" points="304.81,176.29" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="brasem2.png" width="600" height="321">
+    <points label="fish" source="manual" occluded="0" points="298.52,150.22" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="brasem20.png" width="560" height="357">
+    <points label="fish" source="manual" occluded="0" points="278.62,168.89" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="brasem21.png" width="622" height="287">
+    <points label="fish" source="manual" occluded="0" points="309.46,132.83" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="brasem22.png" width="622" height="349">
+    <points label="fish" source="manual" occluded="0" points="309.46,163.82" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="brasem23.png" width="570" height="315">
+    <points label="fish" source="manual" occluded="0" points="283.61,147.71" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="brasem24.png" width="580" height="300">
+    <points label="fish" source="manual" occluded="0" points="288.58,140.27" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="brasem25.png" width="619" height="394">
+    <points label="fish" source="manual" occluded="0" points="308.22,186.59" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="brasem26.png" width="359" height="236">
+    <points label="fish" source="manual" occluded="0" points="178.73,111.83" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="brasem27.png" width="542" height="305">
+    <points label="fish" source="manual" occluded="0" points="270.04,143.58" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="brasem28.png" width="571" height="356">
+    <points label="fish" source="manual" occluded="0" points="284.69,168.81" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="brasem29.png" width="592" height="283">
+    <points label="fish" source="manual" occluded="0" points="295.36,132.18" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="brasem3.png" width="588" height="256">
+    <points label="fish" source="manual" occluded="0" points="293.39,118.96" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="brasem30.png" width="562" height="259">
+    <points label="fish" source="manual" occluded="0" points="289.36,115.92" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="brasem31.png" width="621" height="346">
+    <points label="fish" source="manual" occluded="0" points="343.09,155.18" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="brasem32.png" width="591" height="297">
+    <points label="fish" source="manual" occluded="0" points="330.65,154.51" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="brasem33.png" width="629" height="346">
+    <points label="fish" source="manual" occluded="0" points="351.92,180.04" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="brasem34.png" width="625" height="305">
+    <points label="fish" source="manual" occluded="0" points="349.70,159.70" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="brasem35.png" width="458" height="262">
+    <points label="fish" source="manual" occluded="0" points="256.39,136.46" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="brasem36.png" width="407" height="263">
+    <points label="fish" source="manual" occluded="0" points="228.14,136.52" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="brasem37.png" width="622" height="354">
+    <points label="fish" source="manual" occluded="0" points="348.63,184.84" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="brasem38.png" width="450" height="304">
+    <points label="fish" source="manual" occluded="0" points="253.65,157.95" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="brasem39.png" width="550" height="276">
+    <points label="fish" source="manual" occluded="0" points="308.29,144.94" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="brasem4.png" width="568" height="270">
+    <points label="fish" source="manual" occluded="0" points="318.37,142.17" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="brasem40.png" width="405" height="255">
+    <points label="fish" source="manual" occluded="0" points="227.17,132.73" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="brasem41.png" width="523" height="291">
+    <points label="fish" source="manual" occluded="0" points="293.36,152.27" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="brasem42.png" width="614" height="316">
+    <points label="fish" source="manual" occluded="0" points="344.60,166.16" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="brasem43.png" width="633" height="313">
+    <points label="fish" source="manual" occluded="0" points="355.47,165.12" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="brasem44.png" width="587" height="321">
+    <points label="fish" source="manual" occluded="0" points="329.67,168.52" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="brasem45.png" width="524" height="307">
+    <points label="fish" source="manual" occluded="0" points="292.89,148.05" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="brasem46.png" width="511" height="271">
+    <points label="fish" source="manual" occluded="0" points="259.45,125.31" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="brasem47.jpg" width="750" height="498">
+    <points label="fish" source="manual" occluded="0" points="371.49,321.69" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="brasem48.jpg" width="590" height="392">
+    <points label="fish" source="manual" occluded="0" points="288.39,206.66" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="brasem49.jpg" width="730" height="413">
+    <points label="fish" source="manual" occluded="0" points="371.92,220.04" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="brasem5.png" width="564" height="305">
+    <points label="fish" source="manual" occluded="0" points="331.14,101.00" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="brasem6.png" width="567" height="294">
+    <points label="fish" source="manual" occluded="0" points="328.72,139.85" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="brasem7.png" width="612" height="358">
+    <points label="fish" source="manual" occluded="0" points="232.99,181.98" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="brasem8.png" width="568" height="353">
+    <points label="fish" source="manual" occluded="0" points="301.68,192.21" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="brasem9.png" width="610" height="415">
+    <points label="fish" source="manual" occluded="0" points="294.81,193.73" z_order="0">
+    </points>
+  </image>
+</annotations>

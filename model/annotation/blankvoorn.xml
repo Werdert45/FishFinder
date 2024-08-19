@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>8</id>
+      <name>blankvoorn</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 09:37:31.242559+00:00</created>
+      <updated>2024-07-01 09:38:53.582621+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>8</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/8</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:31:56.603709+00:00</dumped>
+  </meta>
+  <image id="0" name="blankvoorn1.png" width="517" height="332">
+    <points label="fish" source="manual" occluded="0" points="212.74,188.06" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="blankvoorn10.png" width="568" height="297">
+    <points label="fish" source="manual" occluded="0" points="250.20,153.85" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="blankvoorn11.png" width="571" height="283">
+    <points label="fish" source="manual" occluded="0" points="251.32,145.31" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="blankvoorn12.png" width="578" height="279">
+    <points label="fish" source="manual" occluded="0" points="345.62,109.36" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="blankvoorn13.png" width="473" height="260">
+    <points label="fish" source="manual" occluded="0" points="215.48,120.74" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="blankvoorn14.png" width="491" height="356">
+    <points label="fish" source="manual" occluded="0" points="259.66,172.17" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="blankvoorn15.png" width="622" height="357">
+    <points label="fish" source="manual" occluded="0" points="352.33,166.95" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="blankvoorn16.png" width="621" height="301">
+    <points label="fish" source="manual" occluded="0" points="243.36,144.19" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="blankvoorn17.png" width="603" height="351">
+    <points label="fish" source="manual" occluded="0" points="293.27,180.78" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="blankvoorn18.png" width="613" height="293">
+    <points label="fish" source="manual" occluded="0" points="281.00,151.45" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="blankvoorn19.png" width="425" height="240">
+    <points label="fish" source="manual" occluded="0" points="233.46,90.55" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="blankvoorn2.png" width="583" height="292">
+    <points label="fish" source="manual" occluded="0" points="335.75,154.57" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="blankvoorn20.png" width="434" height="261">
+    <points label="fish" source="manual" occluded="0" points="225.80,144.01" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="blankvoorn21.png" width="626" height="336">
+    <points label="fish" source="manual" occluded="0" points="350.69,153.12" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="blankvoorn22.png" width="580" height="320">
+    <points label="fish" source="manual" occluded="0" points="315.57,145.79" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="blankvoorn23.png" width="468" height="286">
+    <points label="fish" source="manual" occluded="0" points="252.68,141.04" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="blankvoorn24.png" width="562" height="267">
+    <points label="fish" source="manual" occluded="0" points="268.79,134.48" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="blankvoorn25.png" width="615" height="286">
+    <points label="fish" source="manual" occluded="0" points="276.72,127.08" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="blankvoorn26.png" width="591" height="357">
+    <points label="fish" source="manual" occluded="0" points="288.26,203.52" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="blankvoorn27.png" width="517" height="330">
+    <points label="fish" source="manual" occluded="0" points="245.30,174.42" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="blankvoorn28.png" width="570" height="293">
+    <points label="fish" source="manual" occluded="0" points="317.32,163.87" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="blankvoorn29.png" width="619" height="303">
+    <points label="fish" source="manual" occluded="0" points="336.59,162.11" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="blankvoorn3.png" width="361" height="561">
+    <points label="fish" source="manual" occluded="0" points="173.47,297.89" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="blankvoorn30.png" width="562" height="288">
+    <points label="fish" source="manual" occluded="0" points="344.69,173.10" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="blankvoorn31.png" width="568" height="251">
+    <points label="fish" source="manual" occluded="0" points="290.75,153.14" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="blankvoorn32.png" width="543" height="372">
+    <points label="fish" source="manual" occluded="0" points="300.46,179.91" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="blankvoorn33.png" width="418" height="204">
+    <points label="fish" source="manual" occluded="0" points="220.71,113.13" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="blankvoorn34.png" width="597" height="257">
+    <points label="fish" source="manual" occluded="0" points="293.26,124.52" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="blankvoorn35.png" width="567" height="286">
+    <points label="fish" source="manual" occluded="0" points="257.50,141.00" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="blankvoorn36.png" width="359" height="167">
+    <points label="fish" source="manual" occluded="0" points="200.74,83.62" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="blankvoorn37.png" width="372" height="251">
+    <points label="fish" source="manual" occluded="0" points="222.37,105.12" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="blankvoorn38.png" width="217" height="145">
+    <points label="fish" source="manual" occluded="0" points="123.27,65.63" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="blankvoorn39.png" width="503" height="277">
+    <points label="fish" source="manual" occluded="0" points="262.58,141.49" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="blankvoorn4.png" width="610" height="356">
+    <points label="fish" source="manual" occluded="0" points="324.64,157.95" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="blankvoorn40.png" width="595" height="341">
+    <points label="fish" source="manual" occluded="0" points="295.62,171.54" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="blankvoorn41.png" width="470" height="224">
+    <points label="fish" source="manual" occluded="0" points="245.53,132.39" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="blankvoorn42.png" width="620" height="361">
+    <points label="fish" source="manual" occluded="0" points="352.07,184.64" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="blankvoorn43.png" width="598" height="481">
+    <points label="fish" source="manual" occluded="0" points="298.50,231.33" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="blankvoorn44.png" width="543" height="312">
+    <points label="fish" source="manual" occluded="0" points="270.15,165.12" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="blankvoorn45.png" width="626" height="299">
+    <points label="fish" source="manual" occluded="0" points="285.42,154.08" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="blankvoorn46.png" width="630" height="415">
+    <points label="fish" source="manual" occluded="0" points="297.38,199.60" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="blankvoorn47.png" width="451" height="296">
+    <points label="fish" source="manual" occluded="0" points="210.52,144.77" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="blankvoorn48.png" width="547" height="336">
+    <points label="fish" source="manual" occluded="0" points="289.37,149.23" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="blankvoorn49.png" width="586" height="313">
+    <points label="fish" source="manual" occluded="0" points="288.89,138.64" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="blankvoorn5.png" width="636" height="279">
+    <points label="fish" source="manual" occluded="0" points="341.61,120.14" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="blankvoorn6.png" width="485" height="248">
+    <points label="fish" source="manual" occluded="0" points="260.64,115.86" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="blankvoorn7.png" width="602" height="360">
+    <points label="fish" source="manual" occluded="0" points="268.96,170.30" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="blankvoorn8.png" width="346" height="198">
+    <points label="fish" source="manual" occluded="0" points="168.15,95.85" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="blankvoorn9.png" width="577" height="480">
+    <points label="fish" source="manual" occluded="0" points="280.41,245.22" z_order="0">
+    </points>
+  </image>
+</annotations>

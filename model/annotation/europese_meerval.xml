@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>13</id>
+      <name>europese_meerval</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 09:48:05.497954+00:00</created>
+      <updated>2024-07-01 09:49:32.951813+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>13</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/13</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:29:54.734060+00:00</dumped>
+  </meta>
+  <image id="0" name="europese_meerval1.png" width="474" height="223">
+    <points label="fish" source="manual" occluded="0" points="228.86,96.91" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="europese_meerval10.png" width="384" height="257">
+    <points label="fish" source="manual" occluded="0" points="217.06,110.87" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="europese_meerval11.png" width="525" height="301">
+    <points label="fish" source="manual" occluded="0" points="284.54,111.94" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="europese_meerval12.png" width="595" height="252">
+    <points label="fish" source="manual" occluded="0" points="322.48,71.23" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="europese_meerval13.png" width="341" height="192">
+    <points label="fish" source="manual" occluded="0" points="170.26,94.93" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="europese_meerval14.png" width="490" height="339">
+    <points label="fish" source="manual" occluded="0" points="276.59,179.10" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="europese_meerval15.png" width="449" height="190">
+    <points label="fish" source="manual" occluded="0" points="243.05,63.42" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="europese_meerval16.png" width="576" height="208">
+    <points label="fish" source="manual" occluded="0" points="296.26,68.32" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="europese_meerval17.png" width="603" height="274">
+    <points label="fish" source="manual" occluded="0" points="326.40,115.71" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="europese_meerval18.png" width="547" height="208">
+    <points label="fish" source="manual" occluded="0" points="269.27,92.31" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="europese_meerval19.png" width="395" height="801">
+    <points label="fish" source="manual" occluded="0" points="250.77,413.59" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="europese_meerval2.png" width="426" height="546">
+    <points label="fish" source="manual" occluded="0" points="219.27,90.68" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="europese_meerval20.png" width="453" height="201">
+    <points label="fish" source="manual" occluded="0" points="238.24,79.90" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="europese_meerval21.png" width="508" height="274">
+    <points label="fish" source="manual" occluded="0" points="269.12,95.93" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="europese_meerval22.png" width="396" height="241">
+    <points label="fish" source="manual" occluded="0" points="200.36,85.02" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="europese_meerval23.png" width="615" height="235">
+    <points label="fish" source="manual" occluded="0" points="366.88,90.37" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="europese_meerval24.png" width="555" height="250">
+    <points label="fish" source="manual" occluded="0" points="267.00,119.38" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="europese_meerval25.png" width="638" height="192">
+    <points label="fish" source="manual" occluded="0" points="293.32,92.64" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="europese_meerval26.png" width="607" height="208">
+    <points label="fish" source="manual" occluded="0" points="277.57,103.38" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="europese_meerval27.png" width="491" height="325">
+    <points label="fish" source="manual" occluded="0" points="298.61,99.50" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="europese_meerval28.png" width="638" height="351">
+    <points label="fish" source="manual" occluded="0" points="390.65,80.40" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="europese_meerval29.png" width="603" height="247">
+    <points label="fish" source="manual" occluded="0" points="404.89,75.83" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="europese_meerval3.png" width="546" height="246">
+    <points label="fish" source="manual" occluded="0" points="205.94,68.92" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="europese_meerval30.png" width="590" height="212">
+    <points label="fish" source="manual" occluded="0" points="315.45,100.84" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="europese_meerval31.png" width="551" height="211">
+    <points label="fish" source="manual" occluded="0" points="312.12,90.06" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="europese_meerval32.png" width="476" height="277">
+    <points label="fish" source="manual" occluded="0" points="212.51,133.17" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="europese_meerval33.png" width="478" height="200">
+    <points label="fish" source="manual" occluded="0" points="270.94,81.78" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="europese_meerval34.png" width="411" height="286">
+    <points label="fish" source="manual" occluded="0" points="168.42,137.55" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="europese_meerval35.png" width="611" height="262">
+    <points label="fish" source="manual" occluded="0" points="313.20,91.03" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="europese_meerval36.png" width="413" height="240">
+    <points label="fish" source="manual" occluded="0" points="245.81,118.70" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="europese_meerval37.png" width="346" height="104">
+    <points label="fish" source="manual" occluded="0" points="85.46,58.42" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="europese_meerval38.png" width="507" height="256">
+    <points label="fish" source="manual" occluded="0" points="140.66,99.08" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="europese_meerval39.png" width="630" height="264">
+    <points label="fish" source="manual" occluded="0" points="127.87,56.41" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="europese_meerval4.png" width="565" height="287">
+    <points label="fish" source="manual" occluded="0" points="301.47,90.14" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="europese_meerval40.png" width="603" height="235">
+    <points label="fish" source="manual" occluded="0" points="288.00,115.79" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="europese_meerval41.png" width="606" height="257">
+    <points label="fish" source="manual" occluded="0" points="233.22,87.81" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="europese_meerval42.png" width="578" height="280">
+    <points label="fish" source="manual" occluded="0" points="217.19,94.92" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="europese_meerval43.jpg" width="627" height="240">
+    <points label="fish" source="manual" occluded="0" points="247.67,88.62" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="europese_meerval44.jpg" width="625" height="414">
+    <points label="fish" source="manual" occluded="0" points="292.23,257.73" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="europese_meerval45.jpg" width="480" height="360">
+    <points label="fish" source="manual" occluded="0" points="237.45,213.14" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="europese_meerval46.jpg" width="1280" height="720">
+    <points label="fish" source="manual" occluded="0" points="664.59,497.54" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="europese_meerval47.jpg" width="350" height="260">
+    <points label="fish" source="manual" occluded="0" points="122.47,91.34" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="europese_meerval48.jpg" width="865" height="640">
+    <points label="fish" source="manual" occluded="0" points="316.08,345.43" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="europese_meerval49.jpg" width="1000" height="600">
+    <points label="fish" source="manual" occluded="0" points="386.98,338.13" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="europese_meerval5.png" width="347" height="184">
+    <points label="fish" source="manual" occluded="0" points="132.70,60.55" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="europese_meerval6.png" width="625" height="293">
+    <points label="fish" source="manual" occluded="0" points="382.06,105.38" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="europese_meerval7.png" width="476" height="442">
+    <points label="fish" source="manual" occluded="0" points="192.00,213.52" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="europese_meerval8.png" width="599" height="264">
+    <points label="fish" source="manual" occluded="0" points="307.45,111.23" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="europese_meerval9.png" width="582" height="275">
+    <points label="fish" source="manual" occluded="0" points="272.87,91.88" z_order="0">
+    </points>
+  </image>
+</annotations>

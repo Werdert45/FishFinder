@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>14</id>
+      <name>karper</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 09:50:28.018408+00:00</created>
+      <updated>2024-07-01 09:51:56.690314+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>14</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/14</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:29:36.653131+00:00</dumped>
+  </meta>
+  <image id="0" name="karper1.png" width="376" height="221">
+    <points label="fish" source="manual" occluded="0" points="215.50,141.56" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="karper10.png" width="254" height="378">
+    <points label="fish" source="manual" occluded="0" points="96.73,164.51" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="karper11.png" width="612" height="332">
+    <points label="fish" source="manual" occluded="0" points="278.38,142.66" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="karper12.png" width="627" height="380">
+    <points label="fish" source="manual" occluded="0" points="341.13,177.07" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="karper13.png" width="532" height="279">
+    <points label="fish" source="manual" occluded="0" points="246.44,133.16" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="karper14.png" width="540" height="353">
+    <points label="fish" source="manual" occluded="0" points="293.63,143.05" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="karper15.png" width="626" height="292">
+    <points label="fish" source="manual" occluded="0" points="344.34,129.99" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="karper16.png" width="608" height="371">
+    <points label="fish" source="manual" occluded="0" points="356.55,174.44" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="karper17.png" width="598" height="376">
+    <points label="fish" source="manual" occluded="0" points="357.36,154.73" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="karper18.png" width="602" height="369">
+    <points label="fish" source="manual" occluded="0" points="322.72,157.11" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="karper19.png" width="611" height="319">
+    <points label="fish" source="manual" occluded="0" points="361.51,130.84" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="karper2.png" width="629" height="333">
+    <points label="fish" source="manual" occluded="0" points="261.69,155.04" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="karper20.png" width="505" height="256">
+    <points label="fish" source="manual" occluded="0" points="289.27,76.60" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="karper21.png" width="602" height="345">
+    <points label="fish" source="manual" occluded="0" points="237.20,154.38" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="karper22.png" width="624" height="280">
+    <points label="fish" source="manual" occluded="0" points="416.14,128.85" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="karper23.png" width="613" height="419">
+    <points label="fish" source="manual" occluded="0" points="241.68,125.52" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="karper24.png" width="516" height="298">
+    <points label="fish" source="manual" occluded="0" points="311.25,143.77" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="karper25.png" width="375" height="221">
+    <points label="fish" source="manual" occluded="0" points="169.12,99.74" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="karper26.png" width="626" height="338">
+    <points label="fish" source="manual" occluded="0" points="353.98,131.09" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="karper27.png" width="538" height="259">
+    <points label="fish" source="manual" occluded="0" points="325.30,131.75" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="karper28.png" width="626" height="308">
+    <points label="fish" source="manual" occluded="0" points="379.82,116.10" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="karper29.png" width="449" height="193">
+    <points label="fish" source="manual" occluded="0" points="304.01,137.04" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="karper3.png" width="599" height="366">
+    <points label="fish" source="manual" occluded="0" points="291.10,170.21" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="karper30.png" width="371" height="175">
+    <points label="fish" source="manual" occluded="0" points="211.45,77.64" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="karper31.png" width="598" height="305">
+    <points label="fish" source="manual" occluded="0" points="251.90,134.10" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="karper32.png" width="622" height="381">
+    <points label="fish" source="manual" occluded="0" points="294.22,156.11" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="karper33.png" width="607" height="357">
+    <points label="fish" source="manual" occluded="0" points="374.00,187.01" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="karper34.png" width="513" height="317">
+    <points label="fish" source="manual" occluded="0" points="280.21,137.33" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="karper35.png" width="514" height="318">
+    <points label="fish" source="manual" occluded="0" points="246.38,151.28" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="karper36.png" width="487" height="317">
+    <points label="fish" source="manual" occluded="0" points="197.25,152.63" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="karper37.png" width="496" height="282">
+    <points label="fish" source="manual" occluded="0" points="194.38,137.70" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="karper38.png" width="537" height="324">
+    <points label="fish" source="manual" occluded="0" points="277.88,143.01" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="karper39.png" width="611" height="311">
+    <points label="fish" source="manual" occluded="0" points="309.78,134.56" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="karper4.png" width="346" height="205">
+    <points label="fish" source="manual" occluded="0" points="201.93,90.65" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="karper40.png" width="597" height="359">
+    <points label="fish" source="manual" occluded="0" points="309.76,147.33" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="karper41.png" width="468" height="281">
+    <points label="fish" source="manual" occluded="0" points="261.36,159.18" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="karper42.png" width="431" height="246">
+    <points label="fish" source="manual" occluded="0" points="235.70,122.86" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="karper43.png" width="619" height="333">
+    <points label="fish" source="manual" occluded="0" points="357.60,143.10" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="karper44.png" width="508" height="271">
+    <points label="fish" source="manual" occluded="0" points="278.01,148.29" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="karper45.png" width="312" height="195">
+    <points label="fish" source="manual" occluded="0" points="140.38,81.34" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="karper46.png" width="622" height="347">
+    <points label="fish" source="manual" occluded="0" points="298.14,152.15" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="karper47.png" width="617" height="379">
+    <points label="fish" source="manual" occluded="0" points="326.64,182.60" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="karper48.png" width="570" height="306">
+    <points label="fish" source="manual" occluded="0" points="282.02,157.21" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="karper49.png" width="607" height="336">
+    <points label="fish" source="manual" occluded="0" points="328.55,136.76" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="karper5.png" width="629" height="308">
+    <points label="fish" source="manual" occluded="0" points="367.77,120.75" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="karper6.png" width="629" height="360">
+    <points label="fish" source="manual" occluded="0" points="351.04,133.56" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="karper7.png" width="354" height="263">
+    <points label="fish" source="manual" occluded="0" points="185.74,106.59" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="karper8.png" width="457" height="306">
+    <points label="fish" source="manual" occluded="0" points="273.50,152.50" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="karper9.png" width="602" height="346">
+    <points label="fish" source="manual" occluded="0" points="317.24,160.99" z_order="0">
+    </points>
+  </image>
+</annotations>

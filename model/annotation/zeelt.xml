@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>12</id>
+      <name>zeelt</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 09:45:58.452576+00:00</created>
+      <updated>2024-07-01 09:47:14.283014+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>12</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/12</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:30:16.817847+00:00</dumped>
+  </meta>
+  <image id="0" name="zeelt1.png" width="633" height="362">
+    <points label="fish" source="manual" occluded="0" points="332.65,167.25" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="zeelt10.png" width="563" height="322">
+    <points label="fish" source="manual" occluded="0" points="305.73,145.65" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="zeelt11.png" width="592" height="382">
+    <points label="fish" source="manual" occluded="0" points="279.76,197.66" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="zeelt12.png" width="540" height="355">
+    <points label="fish" source="manual" occluded="0" points="258.00,173.04" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="zeelt13.png" width="416" height="246">
+    <points label="fish" source="manual" occluded="0" points="213.52,99.41" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="zeelt14.png" width="625" height="338">
+    <points label="fish" source="manual" occluded="0" points="293.93,151.96" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="zeelt15.png" width="460" height="206">
+    <points label="fish" source="manual" occluded="0" points="231.61,84.66" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="zeelt16.png" width="583" height="343">
+    <points label="fish" source="manual" occluded="0" points="302.71,132.13" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="zeelt17.png" width="611" height="294">
+    <points label="fish" source="manual" occluded="0" points="274.50,136.74" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="zeelt18.png" width="545" height="292">
+    <points label="fish" source="manual" occluded="0" points="260.09,116.27" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="zeelt19.png" width="446" height="296">
+    <points label="fish" source="manual" occluded="0" points="211.39,116.40" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="zeelt2.png" width="489" height="258">
+    <points label="fish" source="manual" occluded="0" points="275.80,126.26" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="zeelt20.png" width="538" height="311">
+    <points label="fish" source="manual" occluded="0" points="256.59,136.12" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="zeelt21.png" width="483" height="215">
+    <points label="fish" source="manual" occluded="0" points="256.21,89.41" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="zeelt22.png" width="547" height="303">
+    <points label="fish" source="manual" occluded="0" points="269.46,113.78" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="zeelt23.png" width="526" height="288">
+    <points label="fish" source="manual" occluded="0" points="275.16,123.03" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="zeelt24.png" width="398" height="223">
+    <points label="fish" source="manual" occluded="0" points="198.17,102.17" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="zeelt25.png" width="605" height="300">
+    <points label="fish" source="manual" occluded="0" points="290.42,114.84" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="zeelt26.png" width="510" height="279">
+    <points label="fish" source="manual" occluded="0" points="267.13,105.06" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="zeelt27.png" width="423" height="231">
+    <points label="fish" source="manual" occluded="0" points="214.61,102.92" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="zeelt28.png" width="606" height="281">
+    <points label="fish" source="manual" occluded="0" points="332.67,97.90" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="zeelt29.png" width="607" height="308">
+    <points label="fish" source="manual" occluded="0" points="299.88,156.13" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="zeelt3.png" width="555" height="300">
+    <points label="fish" source="manual" occluded="0" points="274.96,141.44" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="zeelt30.png" width="524" height="256">
+    <points label="fish" source="manual" occluded="0" points="283.62,113.33" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="zeelt31.png" width="617" height="381">
+    <points label="fish" source="manual" occluded="0" points="281.52,182.95" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="zeelt32.png" width="504" height="266">
+    <points label="fish" source="manual" occluded="0" points="258.00,125.95" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="zeelt33.png" width="597" height="363">
+    <points label="fish" source="manual" occluded="0" points="312.90,178.37" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="zeelt34.png" width="541" height="290">
+    <points label="fish" source="manual" occluded="0" points="255.55,121.54" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="zeelt35.png" width="487" height="315">
+    <points label="fish" source="manual" occluded="0" points="259.12,117.85" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="zeelt36.png" width="632" height="350">
+    <points label="fish" source="manual" occluded="0" points="364.22,167.94" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="zeelt37.png" width="572" height="320">
+    <points label="fish" source="manual" occluded="0" points="271.98,137.57" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="zeelt38.png" width="579" height="321">
+    <points label="fish" source="manual" occluded="0" points="324.54,146.10" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="zeelt39.jpg" width="1024" height="671">
+    <points label="fish" source="manual" occluded="0" points="538.30,343.21" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="zeelt4.png" width="610" height="430">
+    <points label="fish" source="manual" occluded="0" points="321.38,160.67" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="zeelt40.jpg" width="1600" height="900">
+    <points label="fish" source="manual" occluded="0" points="761.98,586.64" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="zeelt41.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="358.82,355.56" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="zeelt42.jpg" width="448" height="299">
+    <points label="fish" source="manual" occluded="0" points="242.25,171.80" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="zeelt43.jpg" width="920" height="614">
+    <points label="fish" source="manual" occluded="0" points="542.92,395.30" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="zeelt44.jpg" width="550" height="367">
+    <points label="fish" source="manual" occluded="0" points="292.57,184.11" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="zeelt45.jpg" width="448" height="207">
+    <points label="fish" source="manual" occluded="0" points="244.70,103.97" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="zeelt46.jpg" width="450" height="338">
+    <points label="fish" source="manual" occluded="0" points="244.15,154.27" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="zeelt47.jpg" width="1024" height="768">
+    <points label="fish" source="manual" occluded="0" points="537.92,317.90" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="zeelt48.jpg" width="730" height="413">
+    <points label="fish" source="manual" occluded="0" points="384.94,220.04" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="zeelt49.jpg" width="306" height="204">
+    <points label="fish" source="manual" occluded="0" points="151.89,132.44" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="zeelt5.png" width="255" height="153">
+    <points label="fish" source="manual" occluded="0" points="123.48,82.65" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="zeelt6.png" width="579" height="293">
+    <points label="fish" source="manual" occluded="0" points="297.80,136.99" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="zeelt7.png" width="606" height="369">
+    <points label="fish" source="manual" occluded="0" points="307.22,161.81" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="zeelt8.png" width="337" height="218">
+    <points label="fish" source="manual" occluded="0" points="179.79,96.41" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="zeelt9.png" width="436" height="297">
+    <points label="fish" source="manual" occluded="0" points="203.44,139.93" z_order="0">
+    </points>
+  </image>
+</annotations>

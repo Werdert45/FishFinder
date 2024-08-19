@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>37</id>
+      <name>bronforel</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:29:36.619717+00:00</created>
+      <updated>2024-07-01 10:30:48.826950+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>37</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/37</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:21:25.557714+00:00</dumped>
+  </meta>
+  <image id="0" name="bronforel1.png" width="549" height="383">
+    <points label="fish" source="manual" occluded="0" points="291.41,144.34" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="bronforel10.png" width="510" height="206">
+    <points label="fish" source="manual" occluded="0" points="273.55,79.62" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="bronforel11.png" width="597" height="255">
+    <points label="fish" source="manual" occluded="0" points="347.57,112.03" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="bronforel12.png" width="306" height="499">
+    <points label="fish" source="manual" occluded="0" points="154.09,239.16" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="bronforel13.png" width="532" height="227">
+    <points label="fish" source="manual" occluded="0" points="293.17,120.57" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="bronforel14.png" width="593" height="306">
+    <points label="fish" source="manual" occluded="0" points="336.56,137.45" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="bronforel15.png" width="423" height="242">
+    <points label="fish" source="manual" occluded="0" points="234.14,101.62" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="bronforel16.png" width="573" height="320">
+    <points label="fish" source="manual" occluded="0" points="311.56,148.56" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="bronforel17.png" width="576" height="264">
+    <points label="fish" source="manual" occluded="0" points="306.14,122.54" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="bronforel18.png" width="533" height="231">
+    <points label="fish" source="manual" occluded="0" points="275.63,137.52" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="bronforel19.png" width="283" height="198">
+    <points label="fish" source="manual" occluded="0" points="148.30,112.04" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="bronforel2.png" width="578" height="191">
+    <points label="fish" source="manual" occluded="0" points="276.45,97.91" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="bronforel20.png" width="621" height="263">
+    <points label="fish" source="manual" occluded="0" points="324.62,121.94" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="bronforel21.png" width="622" height="274">
+    <points label="fish" source="manual" occluded="0" points="325.78,127.21" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="bronforel22.png" width="575" height="329">
+    <points label="fish" source="manual" occluded="0" points="301.40,155.66" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="bronforel23.png" width="549" height="334">
+    <points label="fish" source="manual" occluded="0" points="287.74,155.27" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="bronforel24.png" width="459" height="289">
+    <points label="fish" source="manual" occluded="0" points="240.58,134.87" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="bronforel25.png" width="519" height="288">
+    <points label="fish" source="manual" occluded="0" points="271.70,109.70" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="bronforel26.png" width="121" height="265">
+    <points label="fish" source="manual" occluded="0" points="49.10,139.13" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="bronforel27.png" width="622" height="298">
+    <points label="fish" source="manual" occluded="0" points="331.44,100.49" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="bronforel28.png" width="629" height="291">
+    <points label="fish" source="manual" occluded="0" points="288.32,119.51" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="bronforel29.png" width="571" height="270">
+    <points label="fish" source="manual" occluded="0" points="272.10,102.44" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="bronforel3.png" width="317" height="670">
+    <points label="fish" source="manual" occluded="0" points="177.84,274.76" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="bronforel30.png" width="598" height="266">
+    <points label="fish" source="manual" occluded="0" points="319.07,108.95" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="bronforel31.png" width="608" height="325">
+    <points label="fish" source="manual" occluded="0" points="314.21,141.21" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="bronforel32.png" width="527" height="321">
+    <points label="fish" source="manual" occluded="0" points="272.16,142.05" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="bronforel33.png" width="531" height="278">
+    <points label="fish" source="manual" occluded="0" points="274.97,120.61" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="bronforel34.png" width="279" height="173">
+    <points label="fish" source="manual" occluded="0" points="144.47,76.94" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="bronforel35.png" width="634" height="213">
+    <points label="fish" source="manual" occluded="0" points="328.51,84.76" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="bronforel36.png" width="588" height="352">
+    <points label="fish" source="manual" occluded="0" points="302.23,101.72" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="bronforel37.png" width="625" height="286">
+    <points label="fish" source="manual" occluded="0" points="352.54,118.28" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="bronforel38.jpg" width="956" height="380">
+    <points label="fish" source="manual" occluded="0" points="524.19,152.22" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="bronforel39.jpg" width="480" height="293">
+    <points label="fish" source="manual" occluded="0" points="225.21,207.98" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="bronforel4.png" width="267" height="766">
+    <points label="fish" source="manual" occluded="0" points="132.25,343.35" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="bronforel40.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="528.10,312.70" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="bronforel41.jpg" width="576" height="431">
+    <points label="fish" source="manual" occluded="0" points="328.83,235.22" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="bronforel42.jpg" width="720" height="540">
+    <points label="fish" source="manual" occluded="0" points="400.00,266.18" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="bronforel43.jpg" width="720" height="540">
+    <points label="fish" source="manual" occluded="0" points="400.00,289.71" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="bronforel44.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="441.83,268.95" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="bronforel45.jpg" width="800" height="800">
+    <points label="fish" source="manual" occluded="0" points="355.58,569.52" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="bronforel46.jpg" width="666" height="500">
+    <points label="fish" source="manual" occluded="0" points="331.35,212.67" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="bronforel47.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="401.31,313.40" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="bronforel48.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="421.57,279.41" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="bronforel49.jpg" width="709" height="473">
+    <points label="fish" source="manual" occluded="0" points="373.82,255.57" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="bronforel5.png" width="292" height="250">
+    <points label="fish" source="manual" occluded="0" points="157.71,131.41" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="bronforel6.png" width="609" height="278">
+    <points label="fish" source="manual" occluded="0" points="306.87,141.77" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="bronforel7.png" width="457" height="158">
+    <points label="fish" source="manual" occluded="0" points="216.50,86.50" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="bronforel8.png" width="499" height="230">
+    <points label="fish" source="manual" occluded="0" points="231.88,120.41" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="bronforel9.png" width="326" height="172">
+    <points label="fish" source="manual" occluded="0" points="163.91,65.13" z_order="0">
+    </points>
+  </image>
+</annotations>

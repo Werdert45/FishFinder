@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>42</id>
+      <name>barbeel</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:37:17.237487+00:00</created>
+      <updated>2024-07-01 10:38:19.181671+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>42</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/42</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:18:59.577602+00:00</dumped>
+  </meta>
+  <image id="0" name="barbeel1.jpg" width="750" height="500">
+    <points label="fish" source="manual" occluded="0" points="329.50,308.26" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="barbeel10.jpg" width="750" height="422">
+    <points label="fish" source="manual" occluded="0" points="330.64,282.88" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="barbeel11.jpg" width="730" height="413">
+    <points label="fish" source="manual" occluded="0" points="336.16,318.12" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="barbeel12.jpg" width="365" height="274">
+    <points label="fish" source="manual" occluded="0" points="176.84,193.11" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="barbeel13.jpg" width="750" height="563">
+    <points label="fish" source="manual" occluded="0" points="351.37,308.20" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="barbeel14.jpg" width="1024" height="462">
+    <points label="fish" source="manual" occluded="0" points="485.84,268.29" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="barbeel15.jpg" width="850" height="567">
+    <points label="fish" source="manual" occluded="0" points="450.02,327.05" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="barbeel16.jpg" width="730" height="413">
+    <points label="fish" source="manual" occluded="0" points="392.35,220.55" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="barbeel17.jpg" width="1600" height="1066">
+    <points label="fish" source="manual" occluded="0" points="826.18,607.29" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="barbeel18.jpg" width="747" height="1328">
+    <points label="fish" source="manual" occluded="0" points="375.00,587.36" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="barbeel19.jpg" width="400" height="260">
+    <points label="fish" source="manual" occluded="0" points="206.93,167.39" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="barbeel2.jpg" width="1024" height="680">
+    <points label="fish" source="manual" occluded="0" points="495.33,362.22" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="barbeel20.jpg" width="705" height="529">
+    <points label="fish" source="manual" occluded="0" points="351.95,337.94" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="barbeel21.jpg" width="1024" height="698">
+    <points label="fish" source="manual" occluded="0" points="480.46,336.07" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="barbeel22.jpg" width="550" height="367">
+    <points label="fish" source="manual" occluded="0" points="268.79,215.70" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="barbeel23.jpg" width="730" height="413">
+    <points label="fish" source="manual" occluded="0" points="361.19,275.72" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="barbeel24.jpg" width="640" height="427">
+    <points label="fish" source="manual" occluded="0" points="332.33,234.19" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="barbeel25.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="328.00,372.27" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="barbeel26.jpg" width="600" height="453">
+    <points label="fish" source="manual" occluded="0" points="299.27,241.04" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="barbeel27.jpg" width="700" height="933">
+    <points label="fish" source="manual" occluded="0" points="352.51,570.72" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="barbeel28.jpg" width="615" height="461">
+    <points label="fish" source="manual" occluded="0" points="332.59,293.02" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="barbeel29.jpg" width="640" height="480">
+    <points label="fish" source="manual" occluded="0" points="321.82,239.46" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="barbeel3.jpg" width="730" height="413">
+    <points label="fish" source="manual" occluded="0" points="367.32,267.04" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="barbeel30.jpg" width="1180" height="885">
+    <points label="fish" source="manual" occluded="0" points="498.85,374.49" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="barbeel31.png" width="593" height="368">
+    <points label="fish" source="manual" occluded="0" points="274.52,167.00" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="barbeel32.png" width="560" height="255">
+    <points label="fish" source="manual" occluded="0" points="273.53,124.57" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="barbeel33.png" width="537" height="265">
+    <points label="fish" source="manual" occluded="0" points="255.33,133.43" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="barbeel34.png" width="633" height="301">
+    <points label="fish" source="manual" occluded="0" points="317.81,117.06" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="barbeel35.png" width="427" height="268">
+    <points label="fish" source="manual" occluded="0" points="214.70,111.58" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="barbeel36.png" width="525" height="206">
+    <points label="fish" source="manual" occluded="0" points="268.74,94.56" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="barbeel37.png" width="602" height="239">
+    <points label="fish" source="manual" occluded="0" points="310.88,126.02" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="barbeel38.png" width="522" height="275">
+    <points label="fish" source="manual" occluded="0" points="282.38,107.74" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="barbeel39.png" width="599" height="261">
+    <points label="fish" source="manual" occluded="0" points="291.52,121.92" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="barbeel4.jpg" width="640" height="360">
+    <points label="fish" source="manual" occluded="0" points="343.07,206.87" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="barbeel40.png" width="310" height="164">
+    <points label="fish" source="manual" occluded="0" points="161.84,78.97" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="barbeel41.png" width="616" height="247">
+    <points label="fish" source="manual" occluded="0" points="301.31,127.59" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="barbeel42.png" width="831" height="303">
+    <points label="fish" source="manual" occluded="0" points="420.15,134.92" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="barbeel43.png" width="607" height="299">
+    <points label="fish" source="manual" occluded="0" points="319.63,176.05" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="barbeel44.png" width="628" height="308">
+    <points label="fish" source="manual" occluded="0" points="334.89,150.48" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="barbeel45.png" width="619" height="310">
+    <points label="fish" source="manual" occluded="0" points="330.31,151.54" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="barbeel46.png" width="607" height="294">
+    <points label="fish" source="manual" occluded="0" points="302.60,161.40" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="barbeel47.png" width="613" height="291">
+    <points label="fish" source="manual" occluded="0" points="353.67,170.58" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="barbeel48.png" width="611" height="320">
+    <points label="fish" source="manual" occluded="0" points="312.77,160.43" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="barbeel49.png" width="543" height="226">
+    <points label="fish" source="manual" occluded="0" points="276.80,120.21" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="barbeel5.jpg" width="553" height="379">
+    <points label="fish" source="manual" occluded="0" points="282.26,197.96" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="barbeel6.jpg" width="480" height="360">
+    <points label="fish" source="manual" occluded="0" points="245.69,188.24" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="barbeel7.jpg" width="497" height="417">
+    <points label="fish" source="manual" occluded="0" points="216.70,260.50" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="barbeel8.jpg" width="1280" height="720">
+    <points label="fish" source="manual" occluded="0" points="686.99,462.16" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="barbeel9.jpg" width="720" height="480">
+    <points label="fish" source="manual" occluded="0" points="396.33,276.07" z_order="0">
+    </points>
+  </image>
+</annotations>

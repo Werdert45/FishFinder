@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>35</id>
+      <name>tiendoornige_stekelbaars</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:26:59.163300+00:00</created>
+      <updated>2024-07-01 10:27:57.464160+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>35</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/35</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:22:00.947530+00:00</dumped>
+  </meta>
+  <image id="0" name="tiendoornige_stekelbaars1.png" width="561" height="297">
+    <points label="fish" source="manual" occluded="0" points="315.63,141.83" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="tiendoornige_stekelbaars10.png" width="308" height="166">
+    <points label="fish" source="manual" occluded="0" points="164.77,74.91" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="tiendoornige_stekelbaars11.png" width="540" height="287">
+    <points label="fish" source="manual" occluded="0" points="275.30,124.22" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="tiendoornige_stekelbaars12.png" width="426" height="276">
+    <points label="fish" source="manual" occluded="0" points="250.87,148.38" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="tiendoornige_stekelbaars13.png" width="431" height="282">
+    <points label="fish" source="manual" occluded="0" points="245.75,156.51" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="tiendoornige_stekelbaars14.png" width="566" height="299">
+    <points label="fish" source="manual" occluded="0" points="269.15,164.94" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="tiendoornige_stekelbaars15.png" width="518" height="275">
+    <points label="fish" source="manual" occluded="0" points="298.50,118.67" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="tiendoornige_stekelbaars16.png" width="232" height="359">
+    <points label="fish" source="manual" occluded="0" points="121.07,159.55" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="tiendoornige_stekelbaars17.png" width="469" height="225">
+    <points label="fish" source="manual" occluded="0" points="275.03,96.75" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="tiendoornige_stekelbaars18.png" width="176" height="82">
+    <points label="fish" source="manual" occluded="0" points="81.97,38.59" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="tiendoornige_stekelbaars19.png" width="371" height="199">
+    <points label="fish" source="manual" occluded="0" points="159.66,90.42" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="tiendoornige_stekelbaars2.png" width="596" height="293">
+    <points label="fish" source="manual" occluded="0" points="344.70,130.66" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="tiendoornige_stekelbaars20.png" width="451" height="275">
+    <points label="fish" source="manual" occluded="0" points="202.94,123.92" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="tiendoornige_stekelbaars21.png" width="406" height="241">
+    <points label="fish" source="manual" occluded="0" points="186.24,109.99" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="tiendoornige_stekelbaars22.png" width="540" height="317">
+    <points label="fish" source="manual" occluded="0" points="247.71,144.51" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="tiendoornige_stekelbaars23.png" width="599" height="370">
+    <points label="fish" source="manual" occluded="0" points="274.12,185.22" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="tiendoornige_stekelbaars24.png" width="522" height="297">
+    <points label="fish" source="manual" occluded="0" points="239.10,149.24" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="tiendoornige_stekelbaars25.png" width="529" height="353">
+    <points label="fish" source="manual" occluded="0" points="351.19,146.12" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="tiendoornige_stekelbaars26.png" width="606" height="297">
+    <points label="fish" source="manual" occluded="0" points="384.40,154.85" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="tiendoornige_stekelbaars27.png" width="517" height="231">
+    <points label="fish" source="manual" occluded="0" points="344.79,99.57" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="tiendoornige_stekelbaars28.jpg" width="1024" height="483">
+    <points label="fish" source="manual" occluded="0" points="634.53,257.97" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="tiendoornige_stekelbaars29.jpg" width="800" height="501">
+    <points label="fish" source="manual" occluded="0" points="539.39,256.12" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="tiendoornige_stekelbaars3.png" width="495" height="279">
+    <points label="fish" source="manual" occluded="0" points="198.50,117.34" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="tiendoornige_stekelbaars30.jpg" width="640" height="428">
+    <points label="fish" source="manual" occluded="0" points="272.91,256.64" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="tiendoornige_stekelbaars31.jpg" width="1110" height="716">
+    <points label="fish" source="manual" occluded="0" points="473.87,344.32" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="tiendoornige_stekelbaars32.jpg" width="515" height="292">
+    <points label="fish" source="manual" occluded="0" points="350.67,136.45" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="tiendoornige_stekelbaars33.jpg" width="1024" height="683">
+    <points label="fish" source="manual" occluded="0" points="510.49,339.29" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="tiendoornige_stekelbaars34.jpg" width="1024" height="768">
+    <points label="fish" source="manual" occluded="0" points="467.65,324.17" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="tiendoornige_stekelbaars35.jpg" width="1024" height="683">
+    <points label="fish" source="manual" occluded="0" points="506.77,343.76" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="tiendoornige_stekelbaars36.jpg" width="700" height="467">
+    <points label="fish" source="manual" occluded="0" points="396.79,186.19" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="tiendoornige_stekelbaars37.png" width="487" height="342">
+    <points label="fish" source="manual" occluded="0" points="189.68,134.69" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="tiendoornige_stekelbaars38.png" width="452" height="324">
+    <points label="fish" source="manual" occluded="0" points="276.13,144.87" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="tiendoornige_stekelbaars39.png" width="449" height="330">
+    <points label="fish" source="manual" occluded="0" points="269.97,157.64" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="tiendoornige_stekelbaars4.png" width="325" height="233">
+    <points label="fish" source="manual" occluded="0" points="160.59,104.83" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="tiendoornige_stekelbaars40.png" width="386" height="331">
+    <points label="fish" source="manual" occluded="0" points="184.00,165.87" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="tiendoornige_stekelbaars41.png" width="229" height="243">
+    <points label="fish" source="manual" occluded="0" points="97.16,96.34" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="tiendoornige_stekelbaars42.png" width="335" height="339">
+    <points label="fish" source="manual" occluded="0" points="181.72,214.92" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="tiendoornige_stekelbaars43.png" width="484" height="299">
+    <points label="fish" source="manual" occluded="0" points="220.99,108.85" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="tiendoornige_stekelbaars44.png" width="553" height="293">
+    <points label="fish" source="manual" occluded="0" points="307.26,174.37" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="tiendoornige_stekelbaars45.png" width="717" height="562">
+    <points label="fish" source="manual" occluded="0" points="319.00,274.55" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="tiendoornige_stekelbaars46.png" width="539" height="345">
+    <points label="fish" source="manual" occluded="0" points="245.54,160.44" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="tiendoornige_stekelbaars47.png" width="762" height="581">
+    <points label="fish" source="manual" occluded="0" points="339.87,263.92" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="tiendoornige_stekelbaars48.png" width="622" height="650">
+    <points label="fish" source="manual" occluded="0" points="366.93,294.21" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="tiendoornige_stekelbaars49.png" width="651" height="539">
+    <points label="fish" source="manual" occluded="0" points="384.48,233.70" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="tiendoornige_stekelbaars5.png" width="453" height="388">
+    <points label="fish" source="manual" occluded="0" points="258.39,152.35" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="tiendoornige_stekelbaars6.png" width="328" height="561">
+    <points label="fish" source="manual" occluded="0" points="136.50,234.03" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="tiendoornige_stekelbaars7.png" width="621" height="222">
+    <points label="fish" source="manual" occluded="0" points="286.81,91.65" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="tiendoornige_stekelbaars8.png" width="585" height="343">
+    <points label="fish" source="manual" occluded="0" points="310.72,131.79" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="tiendoornige_stekelbaars9.png" width="217" height="138">
+    <points label="fish" source="manual" occluded="0" points="94.00,55.55" z_order="0">
+    </points>
+  </image>
+</annotations>

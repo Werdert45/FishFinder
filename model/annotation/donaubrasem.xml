@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>49</id>
+      <name>donaubrasem</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:49:51.252924+00:00</created>
+      <updated>2024-07-01 10:51:04.955339+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>49</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/49</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:16:41.519070+00:00</dumped>
+  </meta>
+  <image id="0" name="donaubrasem1.png" width="612" height="341">
+    <points label="fish" source="manual" occluded="0" points="271.96,149.09" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="donaubrasem10.png" width="350" height="236">
+    <points label="fish" source="manual" occluded="0" points="173.33,115.31" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="donaubrasem11.png" width="380" height="178">
+    <points label="fish" source="manual" occluded="0" points="188.80,87.00" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="donaubrasem12.png" width="596" height="280">
+    <points label="fish" source="manual" occluded="0" points="296.11,136.87" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="donaubrasem13.png" width="612" height="299">
+    <points label="fish" source="manual" occluded="0" points="304.08,146.52" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="donaubrasem14.png" width="582" height="300">
+    <points label="fish" source="manual" occluded="0" points="289.16,147.35" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="donaubrasem15.png" width="405" height="236">
+    <points label="fish" source="manual" occluded="0" points="201.38,116.15" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="donaubrasem16.png" width="612" height="297">
+    <points label="fish" source="manual" occluded="0" points="304.51,145.92" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="donaubrasem17.png" width="593" height="329">
+    <points label="fish" source="manual" occluded="0" points="295.27,162.02" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="donaubrasem18.png" width="388" height="223">
+    <points label="fish" source="manual" occluded="0" points="193.32,109.88" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="donaubrasem19.png" width="512" height="277">
+    <points label="fish" source="manual" occluded="0" points="255.10,136.36" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="donaubrasem2.png" width="608" height="338">
+    <points label="fish" source="manual" occluded="0" points="307.19,132.19" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="donaubrasem20.png" width="341" height="215">
+    <points label="fish" source="manual" occluded="0" points="164.06,91.04" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="donaubrasem21.png" width="589" height="274">
+    <points label="fish" source="manual" occluded="0" points="296.55,109.17" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="donaubrasem22.png" width="580" height="303">
+    <points label="fish" source="manual" occluded="0" points="286.55,136.90" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="donaubrasem23.png" width="586" height="304">
+    <points label="fish" source="manual" occluded="0" points="288.69,137.45" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="donaubrasem24.jpg" width="1044" height="767">
+    <points label="fish" source="manual" occluded="0" points="534.99,431.97" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="donaubrasem25.jpg" width="1200" height="600">
+    <points label="fish" source="manual" occluded="0" points="584.46,293.74" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="donaubrasem26.jpg" width="592" height="267">
+    <points label="fish" source="manual" occluded="0" points="298.26,138.06" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="donaubrasem27.jpg" width="800" height="533">
+    <points label="fish" source="manual" occluded="0" points="403.21,273.44" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="donaubrasem29.jpg" width="1600" height="1200">
+    <points label="fish" source="manual" occluded="0" points="807.12,616.27" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="donaubrasem3.png" width="615" height="393">
+    <points label="fish" source="manual" occluded="0" points="310.07,202.09" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="donaubrasem30.jpg" width="700" height="467">
+    <points label="fish" source="manual" occluded="0" points="353.30,240.11" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="donaubrasem31.jpg" width="1600" height="1167">
+    <points label="fish" source="manual" occluded="0" points="813.37,513.61" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="donaubrasem32.jpg" width="750" height="518">
+    <points label="fish" source="manual" occluded="0" points="385.42,248.03" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="donaubrasem33.jpg" width="800" height="481">
+    <points label="fish" source="manual" occluded="0" points="387.96,237.14" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="donaubrasem34.jpg" width="1300" height="866">
+    <points label="fish" source="manual" occluded="0" points="660.86,476.90" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="donaubrasem34.png" width="304" height="586">
+    <points label="fish" source="manual" occluded="0" points="137.03,296.49" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="donaubrasem35.png" width="280" height="596">
+    <points label="fish" source="manual" occluded="0" points="120.22,237.92" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="donaubrasem36.png" width="280" height="627">
+    <points label="fish" source="manual" occluded="0" points="158.80,267.06" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="donaubrasem37.png" width="241" height="378">
+    <points label="fish" source="manual" occluded="0" points="98.66,144.33" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="donaubrasem38.png" width="299" height="612">
+    <points label="fish" source="manual" occluded="0" points="138.80,297.00" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="donaubrasem39.png" width="178" height="380">
+    <points label="fish" source="manual" occluded="0" points="102.85,167.43" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="donaubrasem4.png" width="633" height="305">
+    <points label="fish" source="manual" occluded="0" points="341.29,130.79" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="donaubrasem40.png" width="166" height="424">
+    <points label="fish" source="manual" occluded="0" points="89.23,214.08" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="donaubrasem41.png" width="305" height="633">
+    <points label="fish" source="manual" occluded="0" points="142.12,267.55" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="donaubrasem42.png" width="236" height="350">
+    <points label="fish" source="manual" occluded="0" points="112.46,148.11" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="donaubrasem43.png" width="300" height="582">
+    <points label="fish" source="manual" occluded="0" points="140.81,246.31" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="donaubrasem44.jpg" width="1200" height="1600">
+    <points label="fish" source="manual" occluded="0" points="644.38,806.12" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="donaubrasem45.png" width="341" height="612">
+    <points label="fish" source="manual" occluded="0" points="187.80,309.00" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="donaubrasem46.png" width="236" height="405">
+    <points label="fish" source="manual" occluded="0" points="124.38,204.72" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="donaubrasem47.png" width="329" height="593">
+    <points label="fish" source="manual" occluded="0" points="173.52,299.74" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="donaubrasem48.png" width="393" height="615">
+    <points label="fish" source="manual" occluded="0" points="183.27,295.15" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="donaubrasem49.png" width="338" height="608">
+    <points label="fish" source="manual" occluded="0" points="150.13,282.46" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="donaubrasem5.png" width="424" height="166">
+    <points label="fish" source="manual" occluded="0" points="189.88,79.89" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="donaubrasem6.png" width="627" height="280">
+    <points label="fish" source="manual" occluded="0" points="281.89,133.19" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="donaubrasem7.png" width="378" height="241">
+    <points label="fish" source="manual" occluded="0" points="170.34,116.27" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="donaubrasem8.png" width="620" height="295">
+    <points label="fish" source="manual" occluded="0" points="281.13,137.95" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="donaubrasem9.png" width="612" height="313">
+    <points label="fish" source="manual" occluded="0" points="277.53,146.65" z_order="0">
+    </points>
+  </image>
+</annotations>

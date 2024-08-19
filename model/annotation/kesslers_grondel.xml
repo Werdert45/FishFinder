@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>21</id>
+      <name>kesslers_grondel</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:03:38.745039+00:00</created>
+      <updated>2024-07-01 10:05:19.238756+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>21</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/21</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:27:20.108367+00:00</dumped>
+  </meta>
+  <image id="0" name="kesslers_grondel1.png" width="260" height="146">
+    <points label="fish" source="manual" occluded="0" points="112.80,80.47" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="kesslers_grondel10.png" width="225" height="118">
+    <points label="fish" source="manual" occluded="0" points="93.29,44.67" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="kesslers_grondel11.png" width="603" height="328">
+    <points label="fish" source="manual" occluded="0" points="284.20,127.27" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="kesslers_grondel12.png" width="578" height="373">
+    <points label="fish" source="manual" occluded="0" points="284.75,148.92" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="kesslers_grondel13.png" width="581" height="283">
+    <points label="fish" source="manual" occluded="0" points="275.86,134.37" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="kesslers_grondel14.png" width="555" height="348">
+    <points label="fish" source="manual" occluded="0" points="240.98,158.84" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="kesslers_grondel15.png" width="603" height="333">
+    <points label="fish" source="manual" occluded="0" points="298.55,149.85" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="kesslers_grondel16.png" width="558" height="350">
+    <points label="fish" source="manual" occluded="0" points="262.79,137.13" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="kesslers_grondel17.png" width="564" height="286">
+    <points label="fish" source="manual" occluded="0" points="305.48,153.65" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="kesslers_grondel18.png" width="465" height="271">
+    <points label="fish" source="manual" occluded="0" points="285.88,113.87" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="kesslers_grondel19.png" width="157" height="243">
+    <points label="fish" source="manual" occluded="0" points="76.38,82.44" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="kesslers_grondel2.png" width="457" height="286">
+    <points label="fish" source="manual" occluded="0" points="219.54,129.90" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="kesslers_grondel20.png" width="314" height="423">
+    <points label="fish" source="manual" occluded="0" points="148.95,222.31" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="kesslers_grondel21.jpg" width="1000" height="750">
+    <points label="fish" source="manual" occluded="0" points="542.92,423.24" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="kesslers_grondel22.jpg" width="1155" height="768">
+    <points label="fish" source="manual" occluded="0" points="681.23,298.65" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="kesslers_grondel23.jpg" width="2492" height="1108">
+    <points label="fish" source="manual" occluded="0" points="1062.04,458.14" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="kesslers_grondel24.jpg" width="770" height="433">
+    <points label="fish" source="manual" occluded="0" points="382.57,211.38" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="kesslers_grondel25.jpg" width="1200" height="600">
+    <points label="fish" source="manual" occluded="0" points="652.48,299.20" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="kesslers_grondel26.jpg" width="275" height="183">
+    <points label="fish" source="manual" occluded="0" points="99.42,78.85" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="kesslers_grondel27.jpg" width="2282" height="1886">
+    <points label="fish" source="manual" occluded="0" points="1168.83,1222.45" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="kesslers_grondel28.jpg" width="600" height="400">
+    <points label="fish" source="manual" occluded="0" points="300.24,243.12" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="kesslers_grondel29.jpg" width="1600" height="1216">
+    <points label="fish" source="manual" occluded="0" points="844.43,663.62" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="kesslers_grondel3.png" width="436" height="276">
+    <points label="fish" source="manual" occluded="0" points="269.41,128.85" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="kesslers_grondel30.jpg" width="750" height="375">
+    <points label="fish" source="manual" occluded="0" points="301.78,204.58" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="kesslers_grondel31.jpg" width="750" height="456">
+    <points label="fish" source="manual" occluded="0" points="423.54,276.27" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="kesslers_grondel32.jpg" width="250" height="188">
+    <points label="fish" source="manual" occluded="0" points="84.95,87.45" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="kesslers_grondel33.jpg" width="2560" height="1920">
+    <points label="fish" source="manual" occluded="0" points="1644.95,1081.29" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="kesslers_grondel34.png" width="456" height="378">
+    <points label="fish" source="manual" occluded="0" points="251.26,207.95" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="kesslers_grondel35.jpg" width="765" height="495">
+    <points label="fish" source="manual" occluded="0" points="454.21,263.97" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="kesslers_grondel36.jpg" width="4320" height="3240">
+    <points label="fish" source="manual" occluded="0" points="2200.47,1835.18" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="kesslers_grondel37.jpg" width="600" height="1200">
+    <points label="fish" source="manual" occluded="0" points="307.12,680.98" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="kesslers_grondel38.jpg" width="400" height="600">
+    <points label="fish" source="manual" occluded="0" points="204.25,302.61" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="kesslers_grondel39.png" width="286" height="457">
+    <points label="fish" source="manual" occluded="0" points="141.74,286.51" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="kesslers_grondel4.png" width="364" height="205">
+    <points label="fish" source="manual" occluded="0" points="176.01,103.13" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="kesslers_grondel40.png" width="348" height="555">
+    <points label="fish" source="manual" occluded="0" points="170.05,266.30" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="kesslers_grondel41.png" width="333" height="603">
+    <points label="fish" source="manual" occluded="0" points="155.33,331.37" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="kesslers_grondel42.png" width="276" height="436">
+    <points label="fish" source="manual" occluded="0" points="126.83,191.90" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="kesslers_grondel43.jpg" width="1216" height="1600">
+    <points label="fish" source="manual" occluded="0" points="666.34,700.67" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="kesslers_grondel44.png" width="146" height="260">
+    <points label="fish" source="manual" occluded="0" points="80.78,133.97" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="kesslers_grondel45.png" width="286" height="564">
+    <points label="fish" source="manual" occluded="0" points="160.50,263.60" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="kesslers_grondel46.png" width="350" height="558">
+    <points label="fish" source="manual" occluded="0" points="144.94,276.60" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="kesslers_grondel47.png" width="205" height="364">
+    <points label="fish" source="manual" occluded="0" points="101.72,186.77" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="kesslers_grondel48.png" width="373" height="578">
+    <points label="fish" source="manual" occluded="0" points="177.69,314.83" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="kesslers_grondel49.png" width="283" height="581">
+    <points label="fish" source="manual" occluded="0" points="159.88,337.02" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="kesslers_grondel5.png" width="343" height="225">
+    <points label="fish" source="manual" occluded="0" points="161.20,104.29" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="kesslers_grondel6.png" width="614" height="308">
+    <points label="fish" source="manual" occluded="0" points="270.69,131.65" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="kesslers_grondel7.png" width="534" height="195">
+    <points label="fish" source="manual" occluded="0" points="234.31,99.19" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="kesslers_grondel8.png" width="540" height="283">
+    <points label="fish" source="manual" occluded="0" points="289.09,125.05" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="kesslers_grondel9.png" width="473" height="402">
+    <points label="fish" source="manual" occluded="0" points="239.59,152.84" z_order="0">
+    </points>
+  </image>
+</annotations>

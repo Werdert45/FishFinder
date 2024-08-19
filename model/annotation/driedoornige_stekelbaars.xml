@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>55</id>
+      <name>driedoornige_stekelbaars</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:58:13.603006+00:00</created>
+      <updated>2024-07-01 10:59:52.361233+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>55</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/55</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:14:18.061261+00:00</dumped>
+  </meta>
+  <image id="0" name="driedoornige_stekelbaars1.png" width="623" height="332">
+    <points label="fish" source="manual" occluded="0" points="343.09,148.56" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="driedoornige_stekelbaars10.png" width="481" height="278">
+    <points label="fish" source="manual" occluded="0" points="185.81,119.80" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="driedoornige_stekelbaars11.png" width="127" height="234">
+    <points label="fish" source="manual" occluded="0" points="57.77,94.83" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="driedoornige_stekelbaars12.png" width="423" height="225">
+    <points label="fish" source="manual" occluded="0" points="214.02,108.81" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="driedoornige_stekelbaars13.png" width="416" height="240">
+    <points label="fish" source="manual" occluded="0" points="218.47,103.69" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="driedoornige_stekelbaars14.png" width="624" height="291">
+    <points label="fish" source="manual" occluded="0" points="339.94,138.72" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="driedoornige_stekelbaars15.png" width="258" height="150">
+    <points label="fish" source="manual" occluded="0" points="144.89,67.60" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="driedoornige_stekelbaars16.png" width="356" height="240">
+    <points label="fish" source="manual" occluded="0" points="178.52,90.21" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="driedoornige_stekelbaars17.png" width="518" height="273">
+    <points label="fish" source="manual" occluded="0" points="258.26,142.48" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="driedoornige_stekelbaars18.png" width="589" height="249">
+    <points label="fish" source="manual" occluded="0" points="293.46,105.75" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="driedoornige_stekelbaars19.png" width="454" height="263">
+    <points label="fish" source="manual" occluded="0" points="227.33,115.14" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="driedoornige_stekelbaars2.png" width="606" height="257">
+    <points label="fish" source="manual" occluded="0" points="322.91,127.46" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="driedoornige_stekelbaars20.png" width="524" height="269">
+    <points label="fish" source="manual" occluded="0" points="279.58,133.93" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="driedoornige_stekelbaars21.png" width="581" height="297">
+    <points label="fish" source="manual" occluded="0" points="265.90,140.15" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="driedoornige_stekelbaars22.png" width="562" height="341">
+    <points label="fish" source="manual" occluded="0" points="257.03,162.45" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="driedoornige_stekelbaars23.png" width="561" height="287">
+    <points label="fish" source="manual" occluded="0" points="259.10,140.93" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="driedoornige_stekelbaars24.png" width="591" height="318">
+    <points label="fish" source="manual" occluded="0" points="272.96,156.95" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="driedoornige_stekelbaars25.png" width="611" height="324">
+    <points label="fish" source="manual" occluded="0" points="286.90,156.88" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="driedoornige_stekelbaars26.png" width="593" height="211">
+    <points label="fish" source="manual" occluded="0" points="278.46,100.73" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="driedoornige_stekelbaars27.png" width="477" height="281">
+    <points label="fish" source="manual" occluded="0" points="223.99,136.66" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="driedoornige_stekelbaars28.png" width="456" height="238">
+    <points label="fish" source="manual" occluded="0" points="229.60,96.02" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="driedoornige_stekelbaars29.jpg" width="800" height="651">
+    <points label="fish" source="manual" occluded="0" points="404.23,274.81" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="driedoornige_stekelbaars3.png" width="394" height="222">
+    <points label="fish" source="manual" occluded="0" points="203.35,103.27" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="driedoornige_stekelbaars30.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="259.48,290.85" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="driedoornige_stekelbaars31.jpg" width="777" height="464">
+    <points label="fish" source="manual" occluded="0" points="412.16,277.69" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="driedoornige_stekelbaars32.jpg" width="800" height="570">
+    <points label="fish" source="manual" occluded="0" points="414.88,301.13" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="driedoornige_stekelbaars33.jpg" width="800" height="800">
+    <points label="fish" source="manual" occluded="0" points="452.31,390.44" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="driedoornige_stekelbaars34.jpg" width="640" height="543">
+    <points label="fish" source="manual" occluded="0" points="320.01,306.11" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="driedoornige_stekelbaars35.jpg" width="714" height="960">
+    <points label="fish" source="manual" occluded="0" points="310.99,446.52" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="driedoornige_stekelbaars36.jpg" width="800" height="534">
+    <points label="fish" source="manual" occluded="0" points="392.44,295.53" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="driedoornige_stekelbaars37.jpg" width="1120" height="850">
+    <points label="fish" source="manual" occluded="0" points="547.96,440.74" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="driedoornige_stekelbaars38.jpg" width="800" height="531">
+    <points label="fish" source="manual" occluded="0" points="329.45,221.22" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="driedoornige_stekelbaars39.jpg" width="800" height="601">
+    <points label="fish" source="manual" occluded="0" points="401.31,274.63" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="driedoornige_stekelbaars4.png" width="536" height="317">
+    <points label="fish" source="manual" occluded="0" points="265.01,138.04" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="driedoornige_stekelbaars40.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="494.77,264.05" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="driedoornige_stekelbaars41.jpg" width="800" height="522">
+    <points label="fish" source="manual" occluded="0" points="465.94,221.77" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="driedoornige_stekelbaars42.jpg" width="750" height="707">
+    <points label="fish" source="manual" occluded="0" points="429.69,323.88" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="driedoornige_stekelbaars43.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="418.95,276.47" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="driedoornige_stekelbaars44.jpg" width="640" height="427">
+    <points label="fish" source="manual" occluded="0" points="333.50,196.51" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="driedoornige_stekelbaars45.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="400.65,303.27" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="driedoornige_stekelbaars46.jpg" width="500" height="333">
+    <points label="fish" source="manual" occluded="0" points="249.62,179.39" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="driedoornige_stekelbaars47.jpg" width="480" height="640">
+    <points label="fish" source="manual" occluded="0" points="235.14,318.59" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="driedoornige_stekelbaars48.jpg" width="620" height="400">
+    <points label="fish" source="manual" occluded="0" points="358.37,166.91" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="driedoornige_stekelbaars49.jpg" width="5063" height="2532">
+    <points label="fish" source="manual" occluded="0" points="2944.39,1046.39" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="driedoornige_stekelbaars5.png" width="531" height="366">
+    <points label="fish" source="manual" occluded="0" points="282.86,174.61" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="driedoornige_stekelbaars6.png" width="429" height="298">
+    <points label="fish" source="manual" occluded="0" points="215.95,149.01" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="driedoornige_stekelbaars7.png" width="489" height="227">
+    <points label="fish" source="manual" occluded="0" points="227.89,121.88" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="driedoornige_stekelbaars8.png" width="245" height="385">
+    <points label="fish" source="manual" occluded="0" points="115.58,203.19" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="driedoornige_stekelbaars9.png" width="371" height="200">
+    <points label="fish" source="manual" occluded="0" points="197.30,110.38" z_order="0">
+    </points>
+  </image>
+</annotations>

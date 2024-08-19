@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>18</id>
+      <name>alver</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 09:58:31.313939+00:00</created>
+      <updated>2024-07-01 09:59:51.826431+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>18</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/18</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:28:21.859355+00:00</dumped>
+  </meta>
+  <image id="0" name="alver1.jpg" width="354" height="117">
+    <points label="fish" source="manual" occluded="0" points="140.71,64.94" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="alver10.jpg" width="725" height="483">
+    <points label="fish" source="manual" occluded="0" points="304.65,257.30" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="alver11.jpg" width="300" height="244">
+    <points label="fish" source="manual" occluded="0" points="138.69,121.07" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="alver12.png" width="617" height="329">
+    <points label="fish" source="manual" occluded="0" points="306.78,156.31" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="alver13.png" width="621" height="378">
+    <points label="fish" source="manual" occluded="0" points="318.32,186.17" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="alver14.png" width="526" height="417">
+    <points label="fish" source="manual" occluded="0" points="294.55,185.35" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="alver15.png" width="623" height="268">
+    <points label="fish" source="manual" occluded="0" points="364.67,113.72" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="alver16.png" width="528" height="257">
+    <points label="fish" source="manual" occluded="0" points="241.64,115.94" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="alver17.png" width="573" height="296">
+    <points label="fish" source="manual" occluded="0" points="264.84,123.34" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="alver18.png" width="572" height="270">
+    <points label="fish" source="manual" occluded="0" points="272.18,152.42" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="alver19.png" width="543" height="244">
+    <points label="fish" source="manual" occluded="0" points="258.18,121.42" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="alver2.jpg" width="441" height="358">
+    <points label="fish" source="manual" occluded="0" points="232.59,191.69" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="alver20.png" width="613" height="352">
+    <points label="fish" source="manual" occluded="0" points="326.64,156.47" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="alver21.png" width="582" height="289">
+    <points label="fish" source="manual" occluded="0" points="285.50,138.39" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="alver22.png" width="573" height="278">
+    <points label="fish" source="manual" occluded="0" points="260.83,143.22" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="alver23.png" width="566" height="328">
+    <points label="fish" source="manual" occluded="0" points="270.93,155.87" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="alver24.png" width="520" height="302">
+    <points label="fish" source="manual" occluded="0" points="294.38,164.65" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="alver25.png" width="506" height="271">
+    <points label="fish" source="manual" occluded="0" points="248.21,148.60" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="alver26.png" width="634" height="253">
+    <points label="fish" source="manual" occluded="0" points="369.55,149.58" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="alver27.png" width="616" height="317">
+    <points label="fish" source="manual" occluded="0" points="342.26,146.86" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="alver28.png" width="393" height="246">
+    <points label="fish" source="manual" occluded="0" points="204.19,139.92" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="alver29.png" width="593" height="315">
+    <points label="fish" source="manual" occluded="0" points="286.14,139.65" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="alver3.jpg" width="1200" height="600">
+    <points label="fish" source="manual" occluded="0" points="574.38,453.29" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="alver30.png" width="328" height="138">
+    <points label="fish" source="manual" occluded="0" points="170.30,60.40" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="alver31.png" width="551" height="233">
+    <points label="fish" source="manual" occluded="0" points="334.09,138.10" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="alver32.png" width="601" height="301">
+    <points label="fish" source="manual" occluded="0" points="292.93,146.28" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="alver33.png" width="636" height="271">
+    <points label="fish" source="manual" occluded="0" points="352.51,137.72" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="alver34.png" width="600" height="324">
+    <points label="fish" source="manual" occluded="0" points="275.85,184.86" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="alver35.png" width="548" height="315">
+    <points label="fish" source="manual" occluded="0" points="310.23,116.84" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="alver36.png" width="463" height="252">
+    <points label="fish" source="manual" occluded="0" points="259.05,126.47" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="alver37.png" width="360" height="241">
+    <points label="fish" source="manual" occluded="0" points="202.97,117.86" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="alver38.png" width="578" height="299">
+    <points label="fish" source="manual" occluded="0" points="281.91,144.22" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="alver39.png" width="632" height="292">
+    <points label="fish" source="manual" occluded="0" points="411.32,133.84" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="alver4.jpg" width="1000" height="667">
+    <points label="fish" source="manual" occluded="0" points="483.69,252.85" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="alver40.png" width="510" height="336">
+    <points label="fish" source="manual" occluded="0" points="265.79,149.51" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="alver41.png" width="624" height="317">
+    <points label="fish" source="manual" occluded="0" points="324.00,199.55" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="alver42.png" width="545" height="279">
+    <points label="fish" source="manual" occluded="0" points="292.70,97.16" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="alver43.png" width="567" height="287">
+    <points label="fish" source="manual" occluded="0" points="264.84,136.76" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="alver44.png" width="627" height="317">
+    <points label="fish" source="manual" occluded="0" points="335.42,115.51" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="alver45.jpg" width="332" height="152">
+    <points label="fish" source="manual" occluded="0" points="185.87,53.82" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="alver46.jpg" width="600" height="400">
+    <points label="fish" source="manual" occluded="0" points="322.03,222.03" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="alver47.jpg" width="400" height="300">
+    <points label="fish" source="manual" occluded="0" points="220.75,148.53" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="alver48.jpg" width="314" height="235">
+    <points label="fish" source="manual" occluded="0" points="167.62,96.76" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="alver49.png" width="372" height="246">
+    <points label="fish" source="manual" occluded="0" points="168.45,118.04" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="alver5.jpg" width="462" height="330">
+    <points label="fish" source="manual" occluded="0" points="213.21,160.51" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="alver6.jpg" width="575" height="272">
+    <points label="fish" source="manual" occluded="0" points="324.13,153.08" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="alver7.jpg" width="640" height="480">
+    <points label="fish" source="manual" occluded="0" points="352.14,255.41" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="alver8.jpg" width="1600" height="1200">
+    <points label="fish" source="manual" occluded="0" points="811.05,588.82" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="alver9.jpg" width="800" height="435">
+    <points label="fish" source="manual" occluded="0" points="473.05,157.59" z_order="0">
+    </points>
+  </image>
+</annotations>

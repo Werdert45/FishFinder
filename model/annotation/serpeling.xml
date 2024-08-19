@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>52</id>
+      <name>serpeling</name>
+      <size>48</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:54:09.762972+00:00</created>
+      <updated>2024-07-01 10:55:04.068901+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>47</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>52</id>
+          <start>0</start>
+          <stop>47</stop>
+          <url>http://localhost:8080/api/jobs/52</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:15:47.450641+00:00</dumped>
+  </meta>
+  <image id="0" name="serpeling1.png" width="617" height="268">
+    <points label="fish" source="manual" occluded="0" points="243.52,127.08" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="serpeling10.png" width="598" height="272">
+    <points label="fish" source="manual" occluded="0" points="288.10,135.99" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="serpeling11.png" width="625" height="275">
+    <points label="fish" source="manual" occluded="0" points="296.12,134.64" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="serpeling12.png" width="587" height="245">
+    <points label="fish" source="manual" occluded="0" points="269.45,127.65" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="serpeling13.png" width="636" height="350">
+    <points label="fish" source="manual" occluded="0" points="293.98,171.90" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="serpeling14.png" width="477" height="252">
+    <points label="fish" source="manual" occluded="0" points="224.65,90.63" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="serpeling15.png" width="598" height="297">
+    <points label="fish" source="manual" occluded="0" points="276.80,124.85" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="serpeling16.png" width="620" height="310">
+    <points label="fish" source="manual" occluded="0" points="301.30,119.42" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="serpeling17.png" width="623" height="299">
+    <points label="fish" source="manual" occluded="0" points="309.08,129.68" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="serpeling18.png" width="587" height="293">
+    <points label="fish" source="manual" occluded="0" points="297.79,111.79" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="serpeling19.png" width="445" height="221">
+    <points label="fish" source="manual" occluded="0" points="200.25,102.56" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="serpeling2.png" width="473" height="226">
+    <points label="fish" source="manual" occluded="0" points="221.43,104.72" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="serpeling20.png" width="387" height="191">
+    <points label="fish" source="manual" occluded="0" points="193.63,118.67" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="serpeling21.png" width="364" height="186">
+    <points label="fish" source="manual" occluded="0" points="181.48,93.25" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="serpeling22.png" width="592" height="309">
+    <points label="fish" source="manual" occluded="0" points="304.27,149.33" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="serpeling23.png" width="578" height="266">
+    <points label="fish" source="manual" occluded="0" points="310.83,147.99" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="serpeling24.png" width="596" height="280">
+    <points label="fish" source="manual" occluded="0" points="320.93,155.85" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="serpeling25.png" width="617" height="292">
+    <points label="fish" source="manual" occluded="0" points="332.47,162.39" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="serpeling26.png" width="449" height="257">
+    <points label="fish" source="manual" occluded="0" points="241.95,140.59" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="serpeling27.png" width="564" height="300">
+    <points label="fish" source="manual" occluded="0" points="300.55,130.68" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="serpeling28.png" width="581" height="261">
+    <points label="fish" source="manual" occluded="0" points="280.54,167.30" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="serpeling29.png" width="559" height="289">
+    <points label="fish" source="manual" occluded="0" points="291.02,135.29" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="serpeling3.png" width="285" height="167">
+    <points label="fish" source="manual" occluded="0" points="151.78,75.62" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="serpeling30.png" width="635" height="314">
+    <points label="fish" source="manual" occluded="0" points="336.37,149.43" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="serpeling31.jpg" width="259" height="194">
+    <points label="fish" source="manual" occluded="0" points="175.68,107.78" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="serpeling32.jpg" width="800" height="534">
+    <points label="fish" source="manual" occluded="0" points="460.50,274.59" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="serpeling34.jpg" width="576" height="336">
+    <points label="fish" source="manual" occluded="0" points="281.55,185.74" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="serpeling35.jpg" width="1200" height="600">
+    <points label="fish" source="manual" occluded="0" points="623.51,209.34" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="serpeling36.jpg" width="640" height="427">
+    <points label="fish" source="manual" occluded="0" points="317.21,183.49" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="serpeling37.jpg" width="576" height="800">
+    <points label="fish" source="manual" occluded="0" points="484.12,455.79" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="serpeling38.jpg" width="800" height="450">
+    <points label="fish" source="manual" occluded="0" points="401.67,274.25" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="serpeling39.jpg" width="800" height="498">
+    <points label="fish" source="manual" occluded="0" points="390.48,273.08" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="serpeling4.png" width="540" height="278">
+    <points label="fish" source="manual" occluded="0" points="253.00,144.67" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="serpeling40.jpg" width="774" height="417">
+    <points label="fish" source="manual" occluded="0" points="359.94,208.23" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="serpeling41.jpg" width="2272" height="1209">
+    <points label="fish" source="manual" occluded="0" points="1136.07,605.35" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="serpeling42.jpg" width="1500" height="1125">
+    <points label="fish" source="manual" occluded="0" points="778.10,501.80" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="serpeling43.jpg" width="225" height="225">
+    <points label="fish" source="manual" occluded="0" points="156.74,99.63" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="serpeling44.jpg" width="640" height="373">
+    <points label="fish" source="manual" occluded="0" points="302.54,188.51" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="serpeling45.jpg" width="750" height="465">
+    <points label="fish" source="manual" occluded="0" points="357.15,226.46" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="serpeling46.jpg" width="400" height="300">
+    <points label="fish" source="manual" occluded="0" points="153.59,165.03" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="serpeling47.png" width="444" height="298">
+    <points label="fish" source="manual" occluded="0" points="220.69,151.93" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="serpeling48.png" width="513" height="316">
+    <points label="fish" source="manual" occluded="0" points="250.23,165.90" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="serpeling49.jpg" width="800" height="540">
+    <points label="fish" source="manual" occluded="0" points="328.82,242.94" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="serpeling5.png" width="604" height="348">
+    <points label="fish" source="manual" occluded="0" points="305.37,152.87" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="serpeling6.png" width="310" height="788">
+    <points label="fish" source="manual" occluded="0" points="143.88,396.59" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="serpeling7.png" width="603" height="281">
+    <points label="fish" source="manual" occluded="0" points="296.23,125.12" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="serpeling8.png" width="613" height="334">
+    <points label="fish" source="manual" occluded="0" points="301.12,150.72" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="serpeling9.png" width="513" height="306">
+    <points label="fish" source="manual" occluded="0" points="255.25,139.37" z_order="0">
+    </points>
+  </image>
+</annotations>

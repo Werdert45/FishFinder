@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>46</id>
+      <name>roofblei</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:45:15.761190+00:00</created>
+      <updated>2024-07-01 10:46:15.130114+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>46</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/46</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:17:35.124941+00:00</dumped>
+  </meta>
+  <image id="0" name="roofblei1.png" width="622" height="338">
+    <points label="fish" source="manual" occluded="0" points="291.61,122.86" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="roofblei10.png" width="612" height="283">
+    <points label="fish" source="manual" occluded="0" points="282.24,127.16" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="roofblei11.png" width="529" height="295">
+    <points label="fish" source="manual" occluded="0" points="220.44,136.60" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="roofblei12.png" width="586" height="332">
+    <points label="fish" source="manual" occluded="0" points="246.04,163.94" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="roofblei13.png" width="324" height="178">
+    <points label="fish" source="manual" occluded="0" points="152.60,64.29" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="roofblei14.png" width="606" height="302">
+    <points label="fish" source="manual" occluded="0" points="287.50,121.31" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="roofblei15.png" width="588" height="302">
+    <points label="fish" source="manual" occluded="0" points="287.63,125.92" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="roofblei16.png" width="387" height="219">
+    <points label="fish" source="manual" occluded="0" points="170.20,87.69" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="roofblei17.png" width="616" height="318">
+    <points label="fish" source="manual" occluded="0" points="340.54,134.01" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="roofblei18.png" width="154" height="346">
+    <points label="fish" source="manual" occluded="0" points="50.80,157.91" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="roofblei19.png" width="566" height="284">
+    <points label="fish" source="manual" occluded="0" points="255.49,132.11" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="roofblei2.png" width="630" height="333">
+    <points label="fish" source="manual" occluded="0" points="297.17,147.76" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="roofblei20.png" width="313" height="670">
+    <points label="fish" source="manual" occluded="0" points="168.21,320.38" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="roofblei21.png" width="562" height="327">
+    <points label="fish" source="manual" occluded="0" points="269.77,168.82" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="roofblei22.png" width="449" height="199">
+    <points label="fish" source="manual" occluded="0" points="203.78,101.53" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="roofblei23.png" width="545" height="337">
+    <points label="fish" source="manual" occluded="0" points="297.27,145.06" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="roofblei24.png" width="534" height="295">
+    <points label="fish" source="manual" occluded="0" points="258.23,119.29" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="roofblei25.png" width="573" height="388">
+    <points label="fish" source="manual" occluded="0" points="212.54,123.82" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="roofblei26.png" width="625" height="345">
+    <points label="fish" source="manual" occluded="0" points="358.44,137.31" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="roofblei27.png" width="453" height="283">
+    <points label="fish" source="manual" occluded="0" points="202.42,113.12" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="roofblei28.png" width="630" height="281">
+    <points label="fish" source="manual" occluded="0" points="302.02,133.65" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="roofblei29.png" width="589" height="317">
+    <points label="fish" source="manual" occluded="0" points="283.36,159.96" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="roofblei3.png" width="627" height="297">
+    <points label="fish" source="manual" occluded="0" points="319.63,101.78" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="roofblei30.png" width="557" height="284">
+    <points label="fish" source="manual" occluded="0" points="292.92,135.36" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="roofblei31.png" width="581" height="278">
+    <points label="fish" source="manual" occluded="0" points="266.10,127.22" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="roofblei32.png" width="331" height="186">
+    <points label="fish" source="manual" occluded="0" points="171.99,76.56" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="roofblei33.png" width="423" height="243">
+    <points label="fish" source="manual" occluded="0" points="200.84,112.78" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="roofblei34.png" width="541" height="383">
+    <points label="fish" source="manual" occluded="0" points="270.93,148.72" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="roofblei35.png" width="625" height="325">
+    <points label="fish" source="manual" occluded="0" points="318.64,128.61" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="roofblei36.png" width="598" height="292">
+    <points label="fish" source="manual" occluded="0" points="317.60,146.82" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="roofblei37.png" width="633" height="350">
+    <points label="fish" source="manual" occluded="0" points="311.61,140.45" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="roofblei38.png" width="615" height="324">
+    <points label="fish" source="manual" occluded="0" points="294.58,143.91" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="roofblei39.png" width="570" height="310">
+    <points label="fish" source="manual" occluded="0" points="273.24,135.07" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="roofblei4.png" width="572" height="312">
+    <points label="fish" source="manual" occluded="0" points="289.00,140.77" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="roofblei40.png" width="429" height="210">
+    <points label="fish" source="manual" occluded="0" points="200.08,94.80" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="roofblei41.png" width="517" height="344">
+    <points label="fish" source="manual" occluded="0" points="243.89,160.77" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="roofblei42.png" width="602" height="335">
+    <points label="fish" source="manual" occluded="0" points="283.50,152.99" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="roofblei43.png" width="628" height="391">
+    <points label="fish" source="manual" occluded="0" points="305.44,180.76" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="roofblei44.png" width="624" height="322">
+    <points label="fish" source="manual" occluded="0" points="323.13,150.08" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="roofblei45.png" width="620" height="365">
+    <points label="fish" source="manual" occluded="0" points="321.91,171.88" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="roofblei46.png" width="396" height="273">
+    <points label="fish" source="manual" occluded="0" points="193.39,154.20" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="roofblei47.jpg" width="1012" height="640">
+    <points label="fish" source="manual" occluded="0" points="475.92,358.22" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="roofblei48.jpg" width="1024" height="770">
+    <points label="fish" source="manual" occluded="0" points="488.97,418.59" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="roofblei49.jpg" width="600" height="400">
+    <points label="fish" source="manual" occluded="0" points="291.09,225.29" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="roofblei5.png" width="581" height="358">
+    <points label="fish" source="manual" occluded="0" points="393.36,216.42" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="roofblei6.png" width="509" height="242">
+    <points label="fish" source="manual" occluded="0" points="279.08,145.94" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="roofblei7.png" width="448" height="242">
+    <points label="fish" source="manual" occluded="0" points="240.15,126.01" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="roofblei8.png" width="521" height="293">
+    <points label="fish" source="manual" occluded="0" points="269.60,140.13" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="roofblei9.png" width="603" height="418">
+    <points label="fish" source="manual" occluded="0" points="294.65,191.24" z_order="0">
+    </points>
+  </image>
+</annotations>

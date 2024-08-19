@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>41</id>
+      <name>vetje</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:35:40.396269+00:00</created>
+      <updated>2024-07-01 10:36:57.363529+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>41</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/41</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:19:37.380402+00:00</dumped>
+  </meta>
+  <image id="0" name="vetje1.png" width="398" height="164">
+    <points label="fish" source="manual" occluded="0" points="126.46,82.01" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="vetje10.png" width="167" height="349">
+    <points label="fish" source="manual" occluded="0" points="52.72,171.26" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="vetje11.png" width="232" height="638">
+    <points label="fish" source="manual" occluded="0" points="129.56,252.99" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="vetje12.png" width="575" height="295">
+    <points label="fish" source="manual" occluded="0" points="259.35,139.24" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="vetje13.png" width="336" height="748">
+    <points label="fish" source="manual" occluded="0" points="142.33,332.42" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="vetje14.png" width="607" height="252">
+    <points label="fish" source="manual" occluded="0" points="271.63,112.00" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="vetje15.png" width="288" height="141">
+    <points label="fish" source="manual" occluded="0" points="130.40,59.11" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="vetje16.png" width="579" height="275">
+    <points label="fish" source="manual" occluded="0" points="261.94,128.40" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="vetje17.png" width="280" height="178">
+    <points label="fish" source="manual" occluded="0" points="126.57,84.89" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="vetje18.png" width="606" height="259">
+    <points label="fish" source="manual" occluded="0" points="273.93,120.80" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="vetje19.png" width="571" height="319">
+    <points label="fish" source="manual" occluded="0" points="258.31,151.31" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="vetje2.png" width="612" height="331">
+    <points label="fish" source="manual" occluded="0" points="277.10,156.71" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="vetje20.png" width="312" height="175">
+    <points label="fish" source="manual" occluded="0" points="141.26,83.03" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="vetje21.png" width="328" height="187">
+    <points label="fish" source="manual" occluded="0" points="148.50,88.80" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="vetje22.png" width="475" height="418">
+    <points label="fish" source="manual" occluded="0" points="207.00,199.89" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="vetje23.png" width="465" height="280">
+    <points label="fish" source="manual" occluded="0" points="210.71,133.49" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="vetje24.png" width="281" height="411">
+    <points label="fish" source="manual" occluded="0" points="165.30,194.10" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="vetje25.png" width="603" height="274">
+    <points label="fish" source="manual" occluded="0" points="297.92,110.86" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="vetje26.png" width="627" height="321">
+    <points label="fish" source="manual" occluded="0" points="344.86,115.51" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="vetje27.png" width="484" height="245">
+    <points label="fish" source="manual" occluded="0" points="188.48,93.20" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="vetje28.png" width="552" height="347">
+    <points label="fish" source="manual" occluded="0" points="248.96,130.80" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="vetje29.png" width="500" height="307">
+    <points label="fish" source="manual" occluded="0" points="283.58,156.47" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="vetje3.png" width="605" height="270">
+    <points label="fish" source="manual" occluded="0" points="338.68,106.21" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="vetje30.png" width="564" height="338">
+    <points label="fish" source="manual" occluded="0" points="301.34,152.43" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="vetje31.png" width="363" height="249">
+    <points label="fish" source="manual" occluded="0" points="156.42,112.15" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="vetje32.png" width="472" height="327">
+    <points label="fish" source="manual" occluded="0" points="250.24,166.54" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="vetje33.png" width="610" height="235">
+    <points label="fish" source="manual" occluded="0" points="278.54,137.76" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="vetje34.png" width="607" height="374">
+    <points label="fish" source="manual" occluded="0" points="321.54,171.72" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="vetje35.png" width="467" height="277">
+    <points label="fish" source="manual" occluded="0" points="265.04,89.97" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="vetje36.png" width="371" height="684">
+    <points label="fish" source="manual" occluded="0" points="162.74,303.27" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="vetje37.jpg" width="1240" height="623">
+    <points label="fish" source="manual" occluded="0" points="662.54,311.11" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="vetje38.jpg" width="358" height="269">
+    <points label="fish" source="manual" occluded="0" points="148.24,138.74" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="vetje39.jpg" width="950" height="630">
+    <points label="fish" source="manual" occluded="0" points="406.36,378.84" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="vetje4.png" width="341" height="781">
+    <points label="fish" source="manual" occluded="0" points="234.73,362.00" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="vetje40.jpg" width="1024" height="768">
+    <points label="fish" source="manual" occluded="0" points="523.70,411.59" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="vetje41.jpg" width="600" height="327">
+    <points label="fish" source="manual" occluded="0" points="291.60,153.21" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="vetje42.jpg" width="545" height="338">
+    <points label="fish" source="manual" occluded="0" points="264.67,163.29" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="vetje43.png" width="533" height="372">
+    <points label="fish" source="manual" occluded="0" points="254.55,180.72" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="vetje44.png" width="292" height="298">
+    <points label="fish" source="manual" occluded="0" points="138.20,132.78" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="vetje45.png" width="506" height="502">
+    <points label="fish" source="manual" occluded="0" points="239.89,223.65" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="vetje46.png" width="297" height="380">
+    <points label="fish" source="manual" occluded="0" points="137.96,156.04" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="vetje47.png" width="281" height="313">
+    <points label="fish" source="manual" occluded="0" points="131.80,128.36" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="vetje48.png" width="462" height="327">
+    <points label="fish" source="manual" occluded="0" points="222.10,134.12" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="vetje49.png" width="456" height="294">
+    <points label="fish" source="manual" occluded="0" points="251.05,122.02" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="vetje5.png" width="503" height="247">
+    <points label="fish" source="manual" occluded="0" points="265.39,122.62" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="vetje6.png" width="509" height="223">
+    <points label="fish" source="manual" occluded="0" points="192.70,102.10" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="vetje7.png" width="485" height="257">
+    <points label="fish" source="manual" occluded="0" points="216.18,110.70" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="vetje8.png" width="461" height="181">
+    <points label="fish" source="manual" occluded="0" points="248.73,93.23" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="vetje9.png" width="471" height="253">
+    <points label="fish" source="manual" occluded="0" points="250.48,125.67" z_order="0">
+    </points>
+  </image>
+</annotations>

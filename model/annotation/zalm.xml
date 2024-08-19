@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>60</id>
+      <name>zalm</name>
+      <size>48</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 11:05:49.168388+00:00</created>
+      <updated>2024-07-01 11:06:45.081275+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>47</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>60</id>
+          <start>0</start>
+          <stop>47</stop>
+          <url>http://localhost:8080/api/jobs/60</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:11:40.077281+00:00</dumped>
+  </meta>
+  <image id="0" name="zalm1.png" width="438" height="229">
+    <points label="fish" source="manual" occluded="0" points="217.30,125.84" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="zalm10.png" width="542" height="213">
+    <points label="fish" source="manual" occluded="0" points="257.90,103.08" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="zalm11.png" width="633" height="233">
+    <points label="fish" source="manual" occluded="0" points="310.73,115.16" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="zalm12.png" width="596" height="245">
+    <points label="fish" source="manual" occluded="0" points="293.19,120.81" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="zalm13.png" width="626" height="261">
+    <points label="fish" source="manual" occluded="0" points="307.98,128.76" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="zalm14.jpg" width="750" height="563">
+    <points label="fish" source="manual" occluded="0" points="367.93,279.07" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="zalm15.jpg" width="550" height="365">
+    <points label="fish" source="manual" occluded="0" points="270.44,180.90" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="zalm16.jpg" width="550" height="418">
+    <points label="fish" source="manual" occluded="0" points="269.74,207.41" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="zalm17.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="392.48,297.71" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="zalm18.jpg" width="940" height="705">
+    <points label="fish" source="manual" occluded="0" points="461.16,350.19" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="zalm19.png" width="390" height="233">
+    <points label="fish" source="manual" occluded="0" points="191.58,115.41" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="zalm2.png" width="358" height="398">
+    <points label="fish" source="manual" occluded="0" points="173.57,197.50" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="zalm20.jpg" width="750" height="563">
+    <points label="fish" source="manual" occluded="0" points="387.56,381.49" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="zalm21.jpg" width="275" height="183">
+    <points label="fish" source="manual" occluded="0" points="139.89,102.87" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="zalm22.jpg" width="302" height="259">
+    <points label="fish" source="manual" occluded="0" points="160.73,133.17" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="zalm23.jpg" width="259" height="194">
+    <points label="fish" source="manual" occluded="0" points="135.63,112.11" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="zalm24.jpg" width="398" height="424">
+    <points label="fish" source="manual" occluded="0" points="208.03,236.25" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="zalm25.jpg" width="1536" height="1448">
+    <points label="fish" source="manual" occluded="0" points="803.43,841.44" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="zalm26.jpg" width="1024" height="768">
+    <points label="fish" source="manual" occluded="0" points="505.71,578.50" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="zalm27.jpg" width="750" height="549">
+    <points label="fish" source="manual" occluded="0" points="396.23,369.62" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="zalm28.jpg" width="1024" height="576">
+    <points label="fish" source="manual" occluded="0" points="535.28,334.93" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="zalm3.png" width="446" height="386">
+    <points label="fish" source="manual" occluded="0" points="241.30,213.80" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="zalm30.jpg" width="588" height="392">
+    <points label="fish" source="manual" occluded="0" points="307.00,219.68" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="zalm31.jpg" width="640" height="427">
+    <points label="fish" source="manual" occluded="0" points="346.75,286.05" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="zalm32.jpg" width="1800" height="1200">
+    <points label="fish" source="manual" occluded="0" points="926.73,686.86" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="zalm33.jpg" width="1903" height="1332">
+    <points label="fish" source="manual" occluded="0" points="990.71,749.41" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="zalm34.jpg" width="1200" height="900">
+    <points label="fish" source="manual" occluded="0" points="713.24,517.16" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="zalm35.jpg" width="800" height="449">
+    <points label="fish" source="manual" occluded="0" points="366.12,255.28" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="zalm36.jpg" width="1280" height="598">
+    <points label="fish" source="manual" occluded="0" points="669.97,296.81" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="zalm37.jpg" width="820" height="546">
+    <points label="fish" source="manual" occluded="0" points="422.20,302.42" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="zalm38.jpg" width="250" height="250">
+    <points label="fish" source="manual" occluded="0" points="147.47,142.03" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="zalm39.jpg" width="400" height="265">
+    <points label="fish" source="manual" occluded="0" points="194.65,136.54" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="zalm4.png" width="285" height="759">
+    <points label="fish" source="manual" occluded="0" points="151.59,391.11" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="zalm40.jpg" width="2048" height="1356">
+    <points label="fish" source="manual" occluded="0" points="1148.75,844.17" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="zalm41.jpg" width="1024" height="900">
+    <points label="fish" source="manual" occluded="0" points="654.61,477.94" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="zalm42.jpg" width="1024" height="650">
+    <points label="fish" source="manual" occluded="0" points="552.48,358.29" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="zalm43.jpg" width="306" height="230">
+    <points label="fish" source="manual" occluded="0" points="155.63,131.40" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="zalm44.jpg" width="600" height="400">
+    <points label="fish" source="manual" occluded="0" points="304.16,229.00" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="zalm45.jpg" width="408" height="600">
+    <points label="fish" source="manual" occluded="0" points="210.20,343.46" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="zalm46.png" width="484" height="403">
+    <points label="fish" source="manual" occluded="0" points="246.18,230.91" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="zalm47.png" width="390" height="233">
+    <points label="fish" source="manual" occluded="0" points="204.41,135.33" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="zalm48.png" width="454" height="407">
+    <points label="fish" source="manual" occluded="0" points="220.57,191.09" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="zalm49.png" width="448" height="350">
+    <points label="fish" source="manual" occluded="0" points="225.32,183.57" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="zalm5.png" width="553" height="282">
+    <points label="fish" source="manual" occluded="0" points="282.69,127.67" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="zalm6.png" width="299" height="145">
+    <points label="fish" source="manual" occluded="0" points="153.06,65.39" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="zalm7.png" width="523" height="277">
+    <points label="fish" source="manual" occluded="0" points="267.74,126.06" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="zalm8.png" width="616" height="240">
+    <points label="fish" source="manual" occluded="0" points="315.54,105.56" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="zalm9.png" width="450" height="309">
+    <points label="fish" source="manual" occluded="0" points="230.88,143.40" z_order="0">
+    </points>
+  </image>
+</annotations>

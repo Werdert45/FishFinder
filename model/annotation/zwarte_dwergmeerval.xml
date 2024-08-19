@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>29</id>
+      <name>zwarte_dwergmeerval</name>
+      <size>48</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:18:18.294387+00:00</created>
+      <updated>2024-07-01 10:19:19.979147+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>47</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>29</id>
+          <start>0</start>
+          <stop>47</stop>
+          <url>http://localhost:8080/api/jobs/29</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:23:58.766309+00:00</dumped>
+  </meta>
+  <image id="0" name="zwarte_dwergmeerval1.png" width="613" height="352">
+    <points label="fish" source="manual" occluded="0" points="274.99,157.54" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="zwarte_dwergmeerval10.png" width="495" height="265">
+    <points label="fish" source="manual" occluded="0" points="218.94,125.06" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="zwarte_dwergmeerval11.png" width="258" height="581">
+    <points label="fish" source="manual" occluded="0" points="88.48,273.73" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="zwarte_dwergmeerval12.png" width="520" height="347">
+    <points label="fish" source="manual" occluded="0" points="259.24,120.03" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="zwarte_dwergmeerval13.png" width="575" height="246">
+    <points label="fish" source="manual" occluded="0" points="272.43,130.23" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="zwarte_dwergmeerval14.png" width="578" height="246">
+    <points label="fish" source="manual" occluded="0" points="272.81,129.46" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="zwarte_dwergmeerval15.png" width="300" height="216">
+    <points label="fish" source="manual" occluded="0" points="166.47,88.71" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="zwarte_dwergmeerval16.png" width="308" height="162">
+    <points label="fish" source="manual" occluded="0" points="152.70,71.72" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="zwarte_dwergmeerval17.png" width="328" height="748">
+    <points label="fish" source="manual" occluded="0" points="158.30,342.20" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="zwarte_dwergmeerval18.png" width="612" height="407">
+    <points label="fish" source="manual" occluded="0" points="299.35,185.10" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="zwarte_dwergmeerval19.png" width="635" height="347">
+    <points label="fish" source="manual" occluded="0" points="310.60,154.63" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="zwarte_dwergmeerval2.png" width="582" height="301">
+    <points label="fish" source="manual" occluded="0" points="284.88,133.17" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="zwarte_dwergmeerval20.png" width="554" height="292">
+    <points label="fish" source="manual" occluded="0" points="271.17,129.70" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="zwarte_dwergmeerval21.png" width="538" height="332">
+    <points label="fish" source="manual" occluded="0" points="263.37,150.20" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="zwarte_dwergmeerval22.png" width="606" height="341">
+    <points label="fish" source="manual" occluded="0" points="296.62,152.90" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="zwarte_dwergmeerval23.png" width="633" height="339">
+    <points label="fish" source="manual" occluded="0" points="310.06,151.13" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="zwarte_dwergmeerval24.png" width="364" height="677">
+    <points label="fish" source="manual" occluded="0" points="171.69,307.90" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="zwarte_dwergmeerval25.png" width="606" height="298">
+    <points label="fish" source="manual" occluded="0" points="297.04,131.61" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="zwarte_dwergmeerval26.png" width="634" height="266">
+    <points label="fish" source="manual" occluded="0" points="310.77,114.80" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="zwarte_dwergmeerval27.png" width="608" height="393">
+    <points label="fish" source="manual" occluded="0" points="298.01,179.16" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="zwarte_dwergmeerval28.jpg" width="735" height="485">
+    <points label="fish" source="manual" occluded="0" points="360.38,221.12" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="zwarte_dwergmeerval29.jpg" width="420" height="266">
+    <points label="fish" source="manual" occluded="0" points="206.17,121.23" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="zwarte_dwergmeerval3.png" width="623" height="350">
+    <points label="fish" source="manual" occluded="0" points="260.70,114.40" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="zwarte_dwergmeerval30.jpg" width="999" height="699">
+    <points label="fish" source="manual" occluded="0" points="497.58,300.37" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="zwarte_dwergmeerval31.jpg" width="1280" height="720">
+    <points label="fish" source="manual" occluded="0" points="650.71,302.72" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="zwarte_dwergmeerval32.jpg" width="512" height="317">
+    <points label="fish" source="manual" occluded="0" points="260.29,135.75" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="zwarte_dwergmeerval33.png" width="589" height="391">
+    <points label="fish" source="manual" occluded="0" points="287.06,213.59" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="zwarte_dwergmeerval34.jpg" width="550" height="225">
+    <points label="fish" source="manual" occluded="0" points="287.31,100.76" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="zwarte_dwergmeerval35.jpg" width="550" height="413">
+    <points label="fish" source="manual" occluded="0" points="289.40,192.76" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="zwarte_dwergmeerval36.jpg" width="400" height="206">
+    <points label="fish" source="manual" occluded="0" points="208.95,94.60" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="zwarte_dwergmeerval38.png" width="317" height="246">
+    <points label="fish" source="manual" occluded="0" points="186.80,158.40" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="zwarte_dwergmeerval39.png" width="393" height="304">
+    <points label="fish" source="manual" occluded="0" points="219.18,168.21" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="zwarte_dwergmeerval4.png" width="533" height="265">
+    <points label="fish" source="manual" occluded="0" points="283.09,118.90" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="zwarte_dwergmeerval40.png" width="408" height="355">
+    <points label="fish" source="manual" occluded="0" points="245.01,198.95" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="zwarte_dwergmeerval41.png" width="266" height="587">
+    <points label="fish" source="manual" occluded="0" points="128.52,277.19" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="zwarte_dwergmeerval42.png" width="352" height="613">
+    <points label="fish" source="manual" occluded="0" points="171.32,289.45" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="zwarte_dwergmeerval43.png" width="350" height="623">
+    <points label="fish" source="manual" occluded="0" points="123.42,386.47" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="zwarte_dwergmeerval44.png" width="301" height="582">
+    <points label="fish" source="manual" occluded="0" points="130.54,348.06" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="zwarte_dwergmeerval45.png" width="587" height="266">
+    <points label="fish" source="manual" occluded="0" points="316.73,131.76" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="zwarte_dwergmeerval46.png" width="338" height="569">
+    <points label="fish" source="manual" occluded="0" points="168.37,235.24" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="zwarte_dwergmeerval47.png" width="259" height="364">
+    <points label="fish" source="manual" occluded="0" points="125.35,150.69" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="zwarte_dwergmeerval48.png" width="355" height="408">
+    <points label="fish" source="manual" occluded="0" points="172.40,168.89" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="zwarte_dwergmeerval49.png" width="468" height="533">
+    <points label="fish" source="manual" occluded="0" points="168.99,304.50" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="zwarte_dwergmeerval5.png" width="533" height="468">
+    <points label="fish" source="manual" occluded="0" points="255.01,158.56" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="zwarte_dwergmeerval6.png" width="569" height="338">
+    <points label="fish" source="manual" occluded="0" points="326.09,161.84" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="zwarte_dwergmeerval7.png" width="364" height="259">
+    <points label="fish" source="manual" occluded="0" points="203.45,117.23" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="zwarte_dwergmeerval8.png" width="587" height="266">
+    <points label="fish" source="manual" occluded="0" points="285.10,115.74" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="zwarte_dwergmeerval9.png" width="636" height="351">
+    <points label="fish" source="manual" occluded="0" points="297.99,176.62" z_order="0">
+    </points>
+  </image>
+</annotations>

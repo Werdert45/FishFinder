@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>33</id>
+      <name>kolblei</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:23:54.553276+00:00</created>
+      <updated>2024-07-01 10:24:59.434194+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>33</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/33</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:22:41.557486+00:00</dumped>
+  </meta>
+  <image id="0" name="kolblei1.png" width="593" height="374">
+    <points label="fish" source="manual" occluded="0" points="258.54,198.62" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="kolblei10.png" width="553" height="336">
+    <points label="fish" source="manual" occluded="0" points="263.15,152.51" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="kolblei11.png" width="543" height="275">
+    <points label="fish" source="manual" occluded="0" points="284.59,128.19" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="kolblei12.png" width="611" height="364">
+    <points label="fish" source="manual" occluded="0" points="322.39,161.92" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="kolblei13.png" width="598" height="535">
+    <points label="fish" source="manual" occluded="0" points="322.32,240.38" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="kolblei14.png" width="437" height="324">
+    <points label="fish" source="manual" occluded="0" points="203.49,154.22" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="kolblei15.png" width="626" height="383">
+    <points label="fish" source="manual" occluded="0" points="295.49,182.08" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="kolblei16.png" width="616" height="382">
+    <points label="fish" source="manual" occluded="0" points="290.75,181.09" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="kolblei17.png" width="499" height="256">
+    <points label="fish" source="manual" occluded="0" points="235.72,119.96" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="kolblei18.png" width="456" height="279">
+    <points label="fish" source="manual" occluded="0" points="230.23,117.33" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="kolblei19.png" width="492" height="315">
+    <points label="fish" source="manual" occluded="0" points="276.99,159.07" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="kolblei2.png" width="601" height="312">
+    <points label="fish" source="manual" occluded="0" points="315.01,146.32" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="kolblei20.png" width="469" height="318">
+    <points label="fish" source="manual" occluded="0" points="246.10,151.04" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="kolblei21.png" width="471" height="342">
+    <points label="fish" source="manual" occluded="0" points="247.98,162.44" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="kolblei22.png" width="395" height="304">
+    <points label="fish" source="manual" occluded="0" points="214.54,137.08" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="kolblei23.png" width="566" height="320">
+    <points label="fish" source="manual" occluded="0" points="303.61,142.17" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="kolblei24.png" width="402" height="236">
+    <points label="fish" source="manual" occluded="0" points="189.46,93.81" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="kolblei25.png" width="631" height="331">
+    <points label="fish" source="manual" occluded="0" points="328.54,148.07" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="kolblei26.png" width="585" height="410">
+    <points label="fish" source="manual" occluded="0" points="280.23,175.09" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="kolblei27.png" width="545" height="306">
+    <points label="fish" source="manual" occluded="0" points="244.07,156.81" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="kolblei28.png" width="621" height="410">
+    <points label="fish" source="manual" occluded="0" points="354.95,222.44" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="kolblei29.png" width="613" height="340">
+    <points label="fish" source="manual" occluded="0" points="278.81,160.11" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="kolblei3.png" width="582" height="266">
+    <points label="fish" source="manual" occluded="0" points="264.52,123.24" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="kolblei30.png" width="279" height="168">
+    <points label="fish" source="manual" occluded="0" points="126.90,79.32" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="kolblei31.png" width="398" height="192">
+    <points label="fish" source="manual" occluded="0" points="187.03,109.36" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="kolblei32.png" width="467" height="312">
+    <points label="fish" source="manual" occluded="0" points="261.88,169.60" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="kolblei33.png" width="503" height="266">
+    <points label="fish" source="manual" occluded="0" points="263.63,138.29" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="kolblei34.png" width="608" height="392">
+    <points label="fish" source="manual" occluded="0" points="323.23,175.91" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="kolblei35.png" width="220" height="145">
+    <points label="fish" source="manual" occluded="0" points="98.79,82.85" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="kolblei36.png" width="604" height="344">
+    <points label="fish" source="manual" occluded="0" points="357.78,148.35" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="kolblei37.png" width="594" height="381">
+    <points label="fish" source="manual" occluded="0" points="327.35,184.90" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="kolblei38.png" width="593" height="399">
+    <points label="fish" source="manual" occluded="0" points="344.96,179.27" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="kolblei39.png" width="623" height="319">
+    <points label="fish" source="manual" occluded="0" points="316.49,151.44" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="kolblei4.png" width="589" height="355">
+    <points label="fish" source="manual" occluded="0" points="286.04,170.30" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="kolblei40.png" width="581" height="377">
+    <points label="fish" source="manual" occluded="0" points="337.11,137.35" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="kolblei41.png" width="627" height="293">
+    <points label="fish" source="manual" occluded="0" points="287.82,162.50" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="kolblei42.png" width="560" height="347">
+    <points label="fish" source="manual" occluded="0" points="297.24,135.31" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="kolblei43.png" width="612" height="377">
+    <points label="fish" source="manual" occluded="0" points="316.29,154.87" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="kolblei44.png" width="608" height="439">
+    <points label="fish" source="manual" occluded="0" points="284.90,186.72" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="kolblei45.png" width="363" height="701">
+    <points label="fish" source="manual" occluded="0" points="151.36,298.21" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="kolblei46.png" width="623" height="300">
+    <points label="fish" source="manual" occluded="0" points="296.00,174.41" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="kolblei47.png" width="625" height="404">
+    <points label="fish" source="manual" occluded="0" points="296.42,222.67" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="kolblei48.png" width="619" height="414">
+    <points label="fish" source="manual" occluded="0" points="336.78,152.87" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="kolblei49.png" width="606" height="359">
+    <points label="fish" source="manual" occluded="0" points="310.19,167.40" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="kolblei5.png" width="624" height="420">
+    <points label="fish" source="manual" occluded="0" points="319.78,197.21" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="kolblei6.png" width="496" height="302">
+    <points label="fish" source="manual" occluded="0" points="253.91,141.27" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="kolblei7.png" width="598" height="309">
+    <points label="fish" source="manual" occluded="0" points="306.10,142.97" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="kolblei8.png" width="576" height="384">
+    <points label="fish" source="manual" occluded="0" points="295.10,180.69" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="kolblei9.png" width="615" height="364">
+    <points label="fish" source="manual" occluded="0" points="315.02,170.38" z_order="0">
+    </points>
+  </image>
+</annotations>

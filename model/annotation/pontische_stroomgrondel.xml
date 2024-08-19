@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>11</id>
+      <name>pontische_stroomgrondel</name>
+      <size>48</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 09:43:17.452097+00:00</created>
+      <updated>2024-07-01 09:45:03.330951+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>47</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>11</id>
+          <start>0</start>
+          <stop>47</stop>
+          <url>http://localhost:8080/api/jobs/11</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:30:38.799221+00:00</dumped>
+  </meta>
+  <image id="0" name="pontische_stroomgrondel1.png" width="570" height="342">
+    <points label="fish" source="manual" occluded="0" points="255.69,139.50" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="pontische_stroomgrondel10.png" width="550" height="266">
+    <points label="fish" source="manual" occluded="0" points="241.70,101.45" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="pontische_stroomgrondel11.png" width="584" height="268">
+    <points label="fish" source="manual" occluded="0" points="328.59,161.36" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="pontische_stroomgrondel12.png" width="535" height="317">
+    <points label="fish" source="manual" occluded="0" points="264.88,162.45" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="pontische_stroomgrondel13.png" width="195" height="136">
+    <points label="fish" source="manual" occluded="0" points="93.64,44.30" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="pontische_stroomgrondel14.png" width="519" height="265">
+    <points label="fish" source="manual" occluded="0" points="227.91,178.08" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="pontische_stroomgrondel15.png" width="156" height="349">
+    <points label="fish" source="manual" occluded="0" points="78.57,165.56" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="pontische_stroomgrondel16.png" width="522" height="358">
+    <points label="fish" source="manual" occluded="0" points="239.73,147.42" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="pontische_stroomgrondel17.png" width="173" height="120">
+    <points label="fish" source="manual" occluded="0" points="100.22,58.95" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="pontische_stroomgrondel18.png" width="606" height="279">
+    <points label="fish" source="manual" occluded="0" points="351.96,149.04" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="pontische_stroomgrondel19.png" width="422" height="233">
+    <points label="fish" source="manual" occluded="0" points="219.71,124.92" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="pontische_stroomgrondel2.png" width="321" height="162">
+    <points label="fish" source="manual" occluded="0" points="167.47,82.35" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="pontische_stroomgrondel20.png" width="245" height="199">
+    <points label="fish" source="manual" occluded="0" points="128.57,77.71" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="pontische_stroomgrondel21.png" width="231" height="172">
+    <points label="fish" source="manual" occluded="0" points="113.07,90.87" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="pontische_stroomgrondel22.png" width="609" height="251">
+    <points label="fish" source="manual" occluded="0" points="248.27,172.15" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="pontische_stroomgrondel23.png" width="603" height="364">
+    <points label="fish" source="manual" occluded="0" points="273.65,197.19" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="pontische_stroomgrondel24.png" width="591" height="335">
+    <points label="fish" source="manual" occluded="0" points="289.71,173.91" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="pontische_stroomgrondel25.png" width="571" height="520">
+    <points label="fish" source="manual" occluded="0" points="345.00,265.64" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="pontische_stroomgrondel26.png" width="590" height="346">
+    <points label="fish" source="manual" occluded="0" points="283.66,161.04" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="pontische_stroomgrondel27.png" width="513" height="310">
+    <points label="fish" source="manual" occluded="0" points="222.77,139.19" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="pontische_stroomgrondel28.png" width="494" height="259">
+    <points label="fish" source="manual" occluded="0" points="245.80,172.90" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="pontische_stroomgrondel29.png" width="540" height="276">
+    <points label="fish" source="manual" occluded="0" points="236.57,108.16" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="pontische_stroomgrondel3.png" width="608" height="328">
+    <points label="fish" source="manual" occluded="0" points="352.72,159.34" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="pontische_stroomgrondel30.png" width="545" height="298">
+    <points label="fish" source="manual" occluded="0" points="249.98,136.79" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="pontische_stroomgrondel31.png" width="469" height="264">
+    <points label="fish" source="manual" occluded="0" points="219.72,156.61" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="pontische_stroomgrondel32.png" width="586" height="331">
+    <points label="fish" source="manual" occluded="0" points="388.75,164.89" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="pontische_stroomgrondel33.png" width="628" height="351">
+    <points label="fish" source="manual" occluded="0" points="355.98,184.06" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="pontische_stroomgrondel34.png" width="363" height="264">
+    <points label="fish" source="manual" occluded="0" points="205.96,125.67" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="pontische_stroomgrondel35.jpg" width="777" height="434">
+    <points label="fish" source="manual" occluded="0" points="367.30,244.74" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="pontische_stroomgrondel36.jpg" width="800" height="600">
+    <points label="fish" source="manual" occluded="0" points="529.74,457.52" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="pontische_stroomgrondel37.jpg" width="1736" height="1111">
+    <points label="fish" source="manual" occluded="0" points="1110.35,262.15" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="pontische_stroomgrondel38.jpg" width="626" height="304">
+    <points label="fish" source="manual" occluded="0" points="314.11,112.99" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="pontische_stroomgrondel39.jpg" width="259" height="194">
+    <points label="fish" source="manual" occluded="0" points="132.67,117.08" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="pontische_stroomgrondel4.png" width="612" height="309">
+    <points label="fish" source="manual" occluded="0" points="358.90,134.14" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="pontische_stroomgrondel40.jpg" width="2592" height="1944">
+    <points label="fish" source="manual" occluded="0" points="1278.09,1296.09" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="pontische_stroomgrondel42.jpg" width="370" height="244">
+    <points label="fish" source="manual" occluded="0" points="196.82,131.30" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="pontische_stroomgrondel43.jpg" width="1280" height="720">
+    <points label="fish" source="manual" occluded="0" points="710.28,312.57" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="pontische_stroomgrondel44.jpg" width="965" height="600">
+    <points label="fish" source="manual" occluded="0" points="547.30,456.00" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="pontische_stroomgrondel45.jpg" width="225" height="300">
+    <points label="fish" source="manual" occluded="0" points="110.20,145.10" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="pontische_stroomgrondel46.jpg" width="225" height="300">
+    <points label="fish" source="manual" occluded="0" points="135.36,135.29" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="pontische_stroomgrondel47.jpg" width="909" height="600">
+    <points label="fish" source="manual" occluded="0" points="469.54,300.65" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="pontische_stroomgrondel48.jpg" width="1600" height="960">
+    <points label="fish" source="manual" occluded="0" points="893.54,430.78" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="pontische_stroomgrondel49.jpg" width="1600" height="960">
+    <points label="fish" source="manual" occluded="0" points="831.96,587.54" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="pontische_stroomgrondel5.png" width="558" height="305">
+    <points label="fish" source="manual" occluded="0" points="269.04,161.69" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="pontische_stroomgrondel6.png" width="609" height="358">
+    <points label="fish" source="manual" occluded="0" points="381.66,184.98" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="pontische_stroomgrondel7.png" width="613" height="295">
+    <points label="fish" source="manual" occluded="0" points="281.60,146.86" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="pontische_stroomgrondel8.png" width="604" height="274">
+    <points label="fish" source="manual" occluded="0" points="336.86,94.75" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="pontische_stroomgrondel9.png" width="272" height="218">
+    <points label="fish" source="manual" occluded="0" points="140.86,91.42" z_order="0">
+    </points>
+  </image>
+</annotations>

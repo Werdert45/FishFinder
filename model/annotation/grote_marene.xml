@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>63</id>
+      <name>grote_marene</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 12:07:11.312354+00:00</created>
+      <updated>2024-07-01 12:07:56.000347+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>63</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/63</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:10:47.466387+00:00</dumped>
+  </meta>
+  <image id="0" name="grote_marene1.png" width="435" height="199">
+    <points label="fish" source="manual" occluded="0" points="192.39,84.57" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="grote_marene10.png" width="435" height="199">
+    <points label="fish" source="manual" occluded="0" points="202.44,91.88" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="grote_marene11.png" width="239" height="623">
+    <points label="fish" source="manual" occluded="0" points="87.93,293.15" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="grote_marene12.png" width="229" height="544">
+    <points label="fish" source="manual" occluded="0" points="147.99,276.46" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="grote_marene13.png" width="283" height="546">
+    <points label="fish" source="manual" occluded="0" points="139.39,279.22" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="grote_marene14.png" width="351" height="608">
+    <points label="fish" source="manual" occluded="0" points="149.34,304.32" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="grote_marene15.png" width="229" height="395">
+    <points label="fish" source="manual" occluded="0" points="103.96,198.37" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="grote_marene16.png" width="320" height="566">
+    <points label="fish" source="manual" occluded="0" points="147.69,284.56" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="grote_marene17.png" width="263" height="565">
+    <points label="fish" source="manual" occluded="0" points="119.47,284.35" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="grote_marene18.png" width="199" height="435">
+    <points label="fish" source="manual" occluded="0" points="90.26,218.91" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="grote_marene19.png" width="199" height="435">
+    <points label="fish" source="manual" occluded="0" points="90.26,218.91" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="grote_marene2.png" width="565" height="263">
+    <points label="fish" source="manual" occluded="0" points="274.78,132.68" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="grote_marene20.png" width="623" height="239">
+    <points label="fish" source="manual" occluded="0" points="302.98,120.79" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="grote_marene21.png" width="544" height="229">
+    <points label="fish" source="manual" occluded="0" points="264.76,115.65" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="grote_marene22.png" width="546" height="283">
+    <points label="fish" source="manual" occluded="0" points="265.73,142.66" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="grote_marene23.png" width="608" height="351">
+    <points label="fish" source="manual" occluded="0" points="295.92,176.78" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="grote_marene24.png" width="395" height="229">
+    <points label="fish" source="manual" occluded="0" points="192.38,115.34" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="grote_marene25.png" width="566" height="320">
+    <points label="fish" source="manual" occluded="0" points="275.89,161.38" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="grote_marene26.png" width="565" height="263">
+    <points label="fish" source="manual" occluded="0" points="275.57,133.08" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="grote_marene27.png" width="435" height="199">
+    <points label="fish" source="manual" occluded="0" points="212.18,100.71" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="grote_marene28.png" width="435" height="199">
+    <points label="fish" source="manual" occluded="0" points="212.18,100.71" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="grote_marene29.png" width="239" height="623">
+    <points label="fish" source="manual" occluded="0" points="107.61,314.19" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="grote_marene3.png" width="566" height="320">
+    <points label="fish" source="manual" occluded="0" points="276.28,161.77" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="grote_marene30.png" width="229" height="544">
+    <points label="fish" source="manual" occluded="0" points="104.73,274.68" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="grote_marene31.png" width="283" height="546">
+    <points label="fish" source="manual" occluded="0" points="131.66,275.65" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="grote_marene32.png" width="351" height="608">
+    <points label="fish" source="manual" occluded="0" points="164.57,306.97" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="grote_marene33.png" width="229" height="395">
+    <points label="fish" source="manual" occluded="0" points="107.41,199.66" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="grote_marene34.png" width="320" height="566">
+    <points label="fish" source="manual" occluded="0" points="150.15,286.41" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="grote_marene35.png" width="263" height="565">
+    <points label="fish" source="manual" occluded="0" points="121.93,286.20" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="grote_marene36.png" width="435" height="199">
+    <points label="fish" source="manual" occluded="0" points="212.79,101.32" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="grote_marene37.png" width="199" height="435">
+    <points label="fish" source="manual" occluded="0" points="92.15,220.33" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="grote_marene38.png" width="623" height="239">
+    <points label="fish" source="manual" occluded="0" points="302.54,119.92" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="grote_marene39.png" width="229" height="544">
+    <points label="fish" source="manual" occluded="0" points="102.36,272.90" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="grote_marene4.png" width="546" height="283">
+    <points label="fish" source="manual" occluded="0" points="265.35,142.28" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="grote_marene40.png" width="283" height="546">
+    <points label="fish" source="manual" occluded="0" points="129.87,274.46" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="grote_marene41.png" width="239" height="623">
+    <points label="fish" source="manual" occluded="0" points="106.25,313.51" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="grote_marene42.png" width="435" height="199">
+    <points label="fish" source="manual" occluded="0" points="211.57,100.40" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="grote_marene43.png" width="435" height="199">
+    <points label="fish" source="manual" occluded="0" points="211.57,100.40" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="grote_marene44.png" width="351" height="608">
+    <points label="fish" source="manual" occluded="0" points="162.58,306.31" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="grote_marene45.png" width="229" height="395">
+    <points label="fish" source="manual" occluded="0" points="106.11,199.23" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="grote_marene46.png" width="239" height="623">
+    <points label="fish" source="manual" occluded="0" points="106.25,314.19" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="grote_marene47.png" width="263" height="565">
+    <points label="fish" source="manual" occluded="0" points="119.47,284.97" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="grote_marene48.png" width="320" height="566">
+    <points label="fish" source="manual" occluded="0" points="148.30,285.79" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="grote_marene49.png" width="435" height="199">
+    <points label="fish" source="manual" occluded="0" points="211.42,99.95" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="grote_marene5.png" width="544" height="229">
+    <points label="fish" source="manual" occluded="0" points="264.57,115.07" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="grote_marene6.png" width="608" height="351">
+    <points label="fish" source="manual" occluded="0" points="295.70,176.15" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="grote_marene7.png" width="395" height="229">
+    <points label="fish" source="manual" occluded="0" points="192.24,114.92" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="grote_marene8.png" width="623" height="239">
+    <points label="fish" source="manual" occluded="0" points="303.20,120.13" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="grote_marene9.png" width="199" height="435">
+    <points label="fish" source="manual" occluded="0" points="90.49,218.20" z_order="0">
+    </points>
+  </image>
+</annotations>

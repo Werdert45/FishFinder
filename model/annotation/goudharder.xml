@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>38</id>
+      <name>goudharder</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:31:11.284050+00:00</created>
+      <updated>2024-07-01 10:32:24.182249+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>38</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/38</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:20:43.111873+00:00</dumped>
+  </meta>
+  <image id="0" name="goudharder1.png" width="600" height="330">
+    <points label="fish" source="manual" occluded="0" points="263.25,144.85" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="goudharder10.png" width="572" height="262">
+    <points label="fish" source="manual" occluded="0" points="282.59,131.41" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="goudharder11.png" width="608" height="317">
+    <points label="fish" source="manual" occluded="0" points="297.83,135.73" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="goudharder12.png" width="630" height="301">
+    <points label="fish" source="manual" occluded="0" points="312.16,125.58" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="goudharder13.png" width="591" height="289">
+    <points label="fish" source="manual" occluded="0" points="302.12,143.88" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="goudharder14.png" width="455" height="229">
+    <points label="fish" source="manual" occluded="0" points="248.51,113.70" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="goudharder15.png" width="446" height="300">
+    <points label="fish" source="manual" occluded="0" points="252.25,147.39" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="goudharder16.png" width="571" height="281">
+    <points label="fish" source="manual" occluded="0" points="301.87,135.92" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="goudharder17.png" width="578" height="356">
+    <points label="fish" source="manual" occluded="0" points="318.31,157.37" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="goudharder18.png" width="456" height="230">
+    <points label="fish" source="manual" occluded="0" points="236.14,124.90" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="goudharder19.png" width="453" height="239">
+    <points label="fish" source="manual" occluded="0" points="230.63,113.94" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="goudharder2.png" width="498" height="309">
+    <points label="fish" source="manual" occluded="0" points="254.04,129.24" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="goudharder20.png" width="612" height="277">
+    <points label="fish" source="manual" occluded="0" points="312.22,107.46" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="goudharder21.png" width="621" height="295">
+    <points label="fish" source="manual" occluded="0" points="317.02,115.98" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="goudharder22.png" width="549" height="215">
+    <points label="fish" source="manual" occluded="0" points="288.31,100.79" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="goudharder23.png" width="619" height="256">
+    <points label="fish" source="manual" occluded="0" points="325.55,120.66" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="goudharder24.png" width="590" height="378">
+    <points label="fish" source="manual" occluded="0" points="327.43,181.14" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="goudharder25.png" width="588" height="267">
+    <points label="fish" source="manual" occluded="0" points="326.31,126.29" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="goudharder26.png" width="612" height="279">
+    <points label="fish" source="manual" occluded="0" points="339.63,132.00" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="goudharder27.png" width="483" height="168">
+    <points label="fish" source="manual" occluded="0" points="243.53,96.84" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="goudharder28.png" width="509" height="272">
+    <points label="fish" source="manual" occluded="0" points="290.84,103.23" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="goudharder29.png" width="636" height="368">
+    <points label="fish" source="manual" occluded="0" points="332.04,165.31" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="goudharder3.png" width="625" height="343">
+    <points label="fish" source="manual" occluded="0" points="386.87,138.49" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="goudharder30.png" width="621" height="311">
+    <points label="fish" source="manual" occluded="0" points="343.09,131.80" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="goudharder31.png" width="442" height="263">
+    <points label="fish" source="manual" occluded="0" points="226.71,123.31" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="goudharder32.jpg" width="2048" height="1536">
+    <points label="fish" source="manual" occluded="0" points="1133.58,799.78" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="goudharder33.jpg" width="306" height="204">
+    <points label="fish" source="manual" occluded="0" points="150.44,100.44" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="goudharder34.jpg" width="800" height="450">
+    <points label="fish" source="manual" occluded="0" points="361.64,221.07" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="goudharder35.jpg" width="800" height="331">
+    <points label="fish" source="manual" occluded="0" points="380.68,152.88" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="goudharder36.jpg" width="480" height="360">
+    <points label="fish" source="manual" occluded="0" points="238.63,198.04" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="goudharder37.jpg" width="1200" height="600">
+    <points label="fish" source="manual" occluded="0" points="639.88,314.31" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="goudharder38.jpg" width="800" height="531">
+    <points label="fish" source="manual" occluded="0" points="407.25,274.44" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="goudharder39.jpg" width="448" height="237">
+    <points label="fish" source="manual" occluded="0" points="205.67,104.25" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="goudharder4.png" width="615" height="302">
+    <points label="fish" source="manual" occluded="0" points="319.54,157.90" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="goudharder40.jpg" width="531" height="800">
+    <points label="fish" source="manual" occluded="0" points="300.33,401.76" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="goudharder41.jpg" width="331" height="800">
+    <points label="fish" source="manual" occluded="0" points="196.01,401.76" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="goudharder42.png" width="295" height="621">
+    <points label="fish" source="manual" occluded="0" points="122.48,283.75" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="goudharder43.png" width="277" height="612">
+    <points label="fish" source="manual" occluded="0" points="111.80,322.00" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="goudharder44.jpg" width="450" height="800">
+    <points label="fish" source="manual" occluded="0" points="225.47,421.81" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="goudharder45.jpg" width="360" height="480">
+    <points label="fish" source="manual" occluded="0" points="180.80,253.06" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="goudharder46.png" width="215" height="549">
+    <points label="fish" source="manual" occluded="0" points="108.69,289.78" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="goudharder47.png" width="256" height="619">
+    <points label="fish" source="manual" occluded="0" points="129.67,326.69" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="goudharder48.jpg" width="600" height="1200">
+    <points label="fish" source="manual" occluded="0" points="309.74,589.48" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="goudharder49.jpg" width="204" height="306">
+    <points label="fish" source="manual" occluded="0" points="101.50,149.33" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="goudharder5.png" width="611" height="324">
+    <points label="fish" source="manual" occluded="0" points="305.08,157.31" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="goudharder6.png" width="352" height="795">
+    <points label="fish" source="manual" occluded="0" points="153.89,404.86" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="goudharder7.png" width="607" height="289">
+    <points label="fish" source="manual" occluded="0" points="292.87,148.10" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="goudharder8.png" width="415" height="219">
+    <points label="fish" source="manual" occluded="0" points="209.24,98.62" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="goudharder9.png" width="485" height="277">
+    <points label="fish" source="manual" occluded="0" points="260.81,136.97" z_order="0">
+    </points>
+  </image>
+</annotations>

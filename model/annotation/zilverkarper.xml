@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>17</id>
+      <name>zilverkarper</name>
+      <size>48</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 09:55:59.083133+00:00</created>
+      <updated>2024-07-01 09:57:27.314045+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>47</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>17</id>
+          <start>0</start>
+          <stop>47</stop>
+          <url>http://localhost:8080/api/jobs/17</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:28:40.941867+00:00</dumped>
+  </meta>
+  <image id="0" name="zilverkarper1.png" width="615" height="302">
+    <points label="fish" source="manual" occluded="0" points="262.52,135.52" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="zilverkarper10.png" width="633" height="286">
+    <points label="fish" source="manual" occluded="0" points="268.87,139.03" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="zilverkarper11.png" width="564" height="242">
+    <points label="fish" source="manual" occluded="0" points="315.94,139.17" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="zilverkarper12.png" width="549" height="300">
+    <points label="fish" source="manual" occluded="0" points="213.97,121.96" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="zilverkarper13.png" width="508" height="281">
+    <points label="fish" source="manual" occluded="0" points="227.35,116.51" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="zilverkarper14.png" width="374" height="201">
+    <points label="fish" source="manual" occluded="0" points="207.15,85.97" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="zilverkarper15.png" width="550" height="347">
+    <points label="fish" source="manual" occluded="0" points="255.36,125.58" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="zilverkarper16.png" width="451" height="206">
+    <points label="fish" source="manual" occluded="0" points="278.69,98.26" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="zilverkarper17.jpg" width="550" height="366">
+    <points label="fish" source="manual" occluded="0" points="261.85,192.16" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="zilverkarper18.jpg" width="550" height="366">
+    <points label="fish" source="manual" occluded="0" points="231.95,180.20" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="zilverkarper19.jpg" width="638" height="415">
+    <points label="fish" source="manual" occluded="0" points="325.78,224.47" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="zilverkarper2.png" width="489" height="233">
+    <points label="fish" source="manual" occluded="0" points="256.98,118.39" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="zilverkarper20.jpg" width="600" height="450">
+    <points label="fish" source="manual" occluded="0" points="269.61,241.18" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="zilverkarper21.jpg" width="1216" height="745">
+    <points label="fish" source="manual" occluded="0" points="552.69,425.64" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="zilverkarper22.jpg" width="1600" height="1200">
+    <points label="fish" source="manual" occluded="0" points="810.39,543.73" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="zilverkarper23.jpg" width="550" height="413">
+    <points label="fish" source="manual" occluded="0" points="291.20,244.95" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="zilverkarper24.jpg" width="250" height="186">
+    <points label="fish" source="manual" occluded="0" points="139.99,89.36" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="zilverkarper25.jpg" width="306" height="229">
+    <points label="fish" source="manual" occluded="0" points="154.24,133.58" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="zilverkarper26.jpg" width="800" height="598">
+    <points label="fish" source="manual" occluded="0" points="415.65,252.08" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="zilverkarper27.jpg" width="306" height="229">
+    <points label="fish" source="manual" occluded="0" points="161.47,138.07" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="zilverkarper28.jpg" width="800" height="598">
+    <points label="fish" source="manual" occluded="0" points="369.40,321.13" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="zilverkarper29.jpg" width="634" height="352">
+    <points label="fish" source="manual" occluded="0" points="314.32,175.09" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="zilverkarper3.png" width="426" height="227">
+    <points label="fish" source="manual" occluded="0" points="250.55,110.98" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="zilverkarper30.jpg" width="500" height="375">
+    <points label="fish" source="manual" occluded="0" points="261.84,223.64" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="zilverkarper31.jpg" width="900" height="484">
+    <points label="fish" source="manual" occluded="0" points="403.37,231.93" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="zilverkarper32.jpg" width="313" height="161">
+    <points label="fish" source="manual" occluded="0" points="157.70,80.60" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="zilverkarper33.jpg" width="440" height="171">
+    <points label="fish" source="manual" occluded="0" points="211.68,93.97" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="zilverkarper34.jpg" width="1140" height="712">
+    <points label="fish" source="manual" occluded="0" points="569.17,363.19" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="zilverkarper35.jpg" width="225" height="300">
+    <points label="fish" source="manual" occluded="0" points="109.05,192.81" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="zilverkarper36.png" width="380" height="329">
+    <points label="fish" source="manual" occluded="0" points="211.52,161.81" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="zilverkarper37.png" width="334" height="244">
+    <points label="fish" source="manual" occluded="0" points="201.29,172.77" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="zilverkarper38.png" width="354" height="302">
+    <points label="fish" source="manual" occluded="0" points="204.29,152.31" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="zilverkarper39.jpg" width="400" height="213">
+    <points label="fish" source="manual" occluded="0" points="199.15,112.52" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="zilverkarper4.png" width="605" height="252">
+    <points label="fish" source="manual" occluded="0" points="335.29,101.89" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="zilverkarper40.jpg" width="622" height="412">
+    <points label="fish" source="manual" occluded="0" points="364.41,251.31" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="zilverkarper42.jpg" width="3008" height="2000">
+    <points label="fish" source="manual" occluded="0" points="1619.37,947.69" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="zilverkarper43.png" width="281" height="508">
+    <points label="fish" source="manual" occluded="0" points="133.05,277.26" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="zilverkarper44.jpg" width="1200" height="1600">
+    <points label="fish" source="manual" occluded="0" points="507.56,791.31" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="zilverkarper45.png" width="329" height="380">
+    <points label="fish" source="manual" occluded="0" points="167.59,176.74" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="zilverkarper46.png" width="244" height="334">
+    <points label="fish" source="manual" occluded="0" points="190.39,147.71" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="zilverkarper47.jpg" width="413" height="550">
+    <points label="fish" source="manual" occluded="0" points="253.55,272.60" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="zilverkarper48.jpg" width="300" height="225">
+    <points label="fish" source="manual" occluded="0" points="186.27,119.49" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="zilverkarper49.jpg" width="745" height="1216">
+    <points label="fish" source="manual" occluded="0" points="445.99,709.98" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="zilverkarper5.png" width="633" height="282">
+    <points label="fish" source="manual" occluded="0" points="351.70,134.34" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="zilverkarper6.png" width="636" height="309">
+    <points label="fish" source="manual" occluded="0" points="315.35,139.14" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="zilverkarper7.png" width="577" height="284">
+    <points label="fish" source="manual" occluded="0" points="307.29,142.39" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="zilverkarper8.png" width="615" height="339">
+    <points label="fish" source="manual" occluded="0" points="320.19,151.66" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="zilverkarper9.png" width="626" height="262">
+    <points label="fish" source="manual" occluded="0" points="291.55,112.16" z_order="0">
+    </points>
+  </image>
+</annotations>

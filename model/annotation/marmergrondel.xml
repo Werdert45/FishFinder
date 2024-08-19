@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>58</id>
+      <name>marmergrondel</name>
+      <size>50</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 11:01:46.708850+00:00</created>
+      <updated>2024-07-01 11:03:05.675594+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>49</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>58</id>
+          <start>0</start>
+          <stop>49</stop>
+          <url>http://localhost:8080/api/jobs/58</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:12:46.255258+00:00</dumped>
+  </meta>
+  <image id="0" name="marmergrondel1.png" width="568" height="308">
+    <points label="fish" source="manual" occluded="0" points="212.64,138.11" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="marmergrondel10.png" width="598" height="302">
+    <points label="fish" source="manual" occluded="0" points="242.78,122.26" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="marmergrondel11.png" width="482" height="281">
+    <points label="fish" source="manual" occluded="0" points="195.30,110.97" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="marmergrondel12.png" width="530" height="414">
+    <points label="fish" source="manual" occluded="0" points="204.33,180.38" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="marmergrondel13.png" width="628" height="402">
+    <points label="fish" source="manual" occluded="0" points="283.03,209.33" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="marmergrondel14.png" width="571" height="341">
+    <points label="fish" source="manual" occluded="0" points="210.76,149.51" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="marmergrondel15.png" width="619" height="311">
+    <points label="fish" source="manual" occluded="0" points="241.08,155.27" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="marmergrondel16.png" width="614" height="312">
+    <points label="fish" source="manual" occluded="0" points="247.49,140.55" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="marmergrondel17.png" width="548" height="267">
+    <points label="fish" source="manual" occluded="0" points="232.00,131.37" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="marmergrondel18.png" width="575" height="304">
+    <points label="fish" source="manual" occluded="0" points="252.51,134.29" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="marmergrondel19.png" width="580" height="302">
+    <points label="fish" source="manual" occluded="0" points="262.60,147.74" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="marmergrondel2.png" width="460" height="711">
+    <points label="fish" source="manual" occluded="0" points="207.12,360.55" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="marmergrondel20.png" width="530" height="225">
+    <points label="fish" source="manual" occluded="0" points="236.27,125.30" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="marmergrondel21.png" width="501" height="270">
+    <points label="fish" source="manual" occluded="0" points="216.84,138.87" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="marmergrondel22.jpg" width="670" height="300">
+    <points label="fish" source="manual" occluded="0" points="294.43,156.12" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="marmergrondel23.jpg" width="2232" height="1608">
+    <points label="fish" source="manual" occluded="0" points="985.48,914.36" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="marmergrondel24.jpg" width="345" height="146">
+    <points label="fish" source="manual" occluded="0" points="148.84,79.53" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="marmergrondel25.jpg" width="1142" height="486">
+    <points label="fish" source="manual" occluded="0" points="493.11,254.16" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="marmergrondel26.jpg" width="1200" height="799">
+    <points label="fish" source="manual" occluded="0" points="521.27,412.12" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="marmergrondel27.jpg" width="260" height="194">
+    <points label="fish" source="manual" occluded="0" points="119.32,120.04" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="marmergrondel27.png" width="312" height="614">
+    <points label="fish" source="manual" occluded="0" points="130.24,347.81" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="marmergrondel28.jpg" width="194" height="260">
+    <points label="fish" source="manual" occluded="0" points="120.66,143.60" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="marmergrondel29.jpg" width="799" height="1200">
+    <points label="fish" source="manual" occluded="0" points="420.46,624.77" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="marmergrondel3.png" width="621" height="236">
+    <points label="fish" source="manual" occluded="0" points="339.61,95.82" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="marmergrondel30.png" width="304" height="575">
+    <points label="fish" source="manual" occluded="0" points="148.58,324.77" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="marmergrondel31.jpg" width="146" height="345">
+    <points label="fish" source="manual" occluded="0" points="71.32,188.84" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="marmergrondel32.jpg" width="486" height="1142">
+    <points label="fish" source="manual" occluded="0" points="237.41,624.54" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="marmergrondel33.png" width="302" height="580">
+    <points label="fish" source="manual" occluded="0" points="142.46,324.74" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="marmergrondel34.png" width="270" height="501">
+    <points label="fish" source="manual" occluded="0" points="127.61,280.80" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="marmergrondel35.png" width="225" height="530">
+    <points label="fish" source="manual" occluded="0" points="104.99,297.36" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="marmergrondel36.jpg" width="300" height="670">
+    <points label="fish" source="manual" occluded="0" points="140.91,375.85" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="marmergrondel37.jpg" width="1608" height="2232">
+    <points label="fish" source="manual" occluded="0" points="970.51,1261.79" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="marmergrondel38.png" width="286" height="589">
+    <points label="fish" source="manual" occluded="0" points="147.17,324.96" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="marmergrondel39.png" width="209" height="331">
+    <points label="fish" source="manual" occluded="0" points="86.11,182.99" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="marmergrondel4.png" width="439" height="361">
+    <points label="fish" source="manual" occluded="0" points="201.00,155.94" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="marmergrondel40.png" width="647" height="359">
+    <points label="fish" source="manual" occluded="0" points="307.66,213.67" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="marmergrondel41.png" width="314" height="592">
+    <points label="fish" source="manual" occluded="0" points="132.17,321.18" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="marmergrondel42.png" width="197" height="416">
+    <points label="fish" source="manual" occluded="0" points="71.29,216.62" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="marmergrondel43.png" width="361" height="439">
+    <points label="fish" source="manual" occluded="0" points="141.29,219.76" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="marmergrondel44.png" width="308" height="568">
+    <points label="fish" source="manual" occluded="0" points="141.96,324.86" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="marmergrondel45.png" width="236" height="621">
+    <points label="fish" source="manual" occluded="0" points="95.35,310.81" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="marmergrondel46.png" width="711" height="460">
+    <points label="fish" source="manual" occluded="0" points="410.11,230.01" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="marmergrondel47.png" width="414" height="530">
+    <points label="fish" source="manual" occluded="0" points="232.12,274.26" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="marmergrondel48.png" width="402" height="628">
+    <points label="fish" source="manual" occluded="0" points="231.44,307.17" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="marmergrondel49.png" width="281" height="482">
+    <points label="fish" source="manual" occluded="0" points="124.22,241.51" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="marmergrondel5.png" width="416" height="197">
+    <points label="fish" source="manual" occluded="0" points="238.12,53.82" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="marmergrondel6.png" width="359" height="647">
+    <points label="fish" source="manual" occluded="0" points="120.97,269.61" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="marmergrondel7.png" width="592" height="314">
+    <points label="fish" source="manual" occluded="0" points="274.65,135.45" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="marmergrondel8.png" width="331" height="209">
+    <points label="fish" source="manual" occluded="0" points="153.00,79.13" z_order="0">
+    </points>
+  </image>
+  <image id="49" name="marmergrondel9.png" width="589" height="286">
+    <points label="fish" source="manual" occluded="0" points="259.45,140.13" z_order="0">
+    </points>
+  </image>
+</annotations>

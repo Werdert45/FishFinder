@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>4</id>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-06-30 18:26:46.704060+00:00</created>
+      <updated>2024-06-30 18:29:46.938801+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/4</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-06-30 18:35:57.342969+00:00</dumped>
+  </meta>
+  <image id="0" name="snoek1.png" width="580" height="251">
+    <points label="fish" source="manual" occluded="0" points="310.90,97.08" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="snoek10.png" width="570" height="243">
+    <points label="fish" source="manual" occluded="0" points="246.12,88.40" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="snoek11.png" width="596" height="205">
+    <points label="fish" source="manual" occluded="0" points="304.45,94.16" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="snoek12.png" width="272" height="702">
+    <points label="fish" source="manual" occluded="0" points="125.70,295.54" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="snoek13.png" width="310" height="788">
+    <points label="fish" source="manual" occluded="0" points="117.70,358.39" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="snoek14.png" width="610" height="333">
+    <points label="fish" source="manual" occluded="0" points="285.16,153.25" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="snoek15.png" width="616" height="649">
+    <points label="fish" source="manual" occluded="0" points="360.65,335.83" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="snoek16.png" width="524" height="337">
+    <points label="fish" source="manual" occluded="0" points="304.41,167.78" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="snoek17.png" width="299" height="749">
+    <points label="fish" source="manual" occluded="0" points="103.77,347.56" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="snoek18.png" width="565" height="268">
+    <points label="fish" source="manual" occluded="0" points="354.06,125.88" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="snoek19.png" width="484" height="303">
+    <points label="fish" source="manual" occluded="0" points="275.01,166.39" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="snoek2.png" width="534" height="187">
+    <points label="fish" source="manual" occluded="0" points="305.32,86.78" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="snoek20.png" width="556" height="247">
+    <points label="fish" source="manual" occluded="0" points="303.50,104.84" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="snoek21.png" width="618" height="319">
+    <points label="fish" source="manual" occluded="0" points="307.90,160.78" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="snoek22.png" width="619" height="279">
+    <points label="fish" source="manual" occluded="0" points="317.32,123.04" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="snoek23.png" width="598" height="294">
+    <points label="fish" source="manual" occluded="0" points="326.39,145.53" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="snoek24.png" width="614" height="225">
+    <points label="fish" source="manual" occluded="0" points="348.89,97.02" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="snoek25.png" width="313" height="559">
+    <points label="fish" source="manual" occluded="0" points="157.11,270.37" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="snoek26.png" width="411" height="563">
+    <points label="fish" source="manual" occluded="0" points="218.96,256.37" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="snoek27.png" width="431" height="194">
+    <points label="fish" source="manual" occluded="0" points="236.60,89.60" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="snoek28.png" width="611" height="271">
+    <points label="fish" source="manual" occluded="0" points="340.56,112.41" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="snoek29.png" width="589" height="305">
+    <points label="fish" source="manual" occluded="0" points="315.51,150.02" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="snoek3.png" width="606" height="281">
+    <points label="fish" source="manual" occluded="0" points="336.27,129.07" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="snoek30.png" width="572" height="318">
+    <points label="fish" source="manual" occluded="0" points="301.00,180.40" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="snoek31.png" width="632" height="341">
+    <points label="fish" source="manual" occluded="0" points="348.96,161.22" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="snoek32.png" width="267" height="125">
+    <points label="fish" source="manual" occluded="0" points="142.28,69.03" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="snoek33.png" width="499" height="225">
+    <points label="fish" source="manual" occluded="0" points="218.43,93.98" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="snoek34.png" width="595" height="265">
+    <points label="fish" source="manual" occluded="0" points="336.63,110.83" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="snoek35.png" width="619" height="274">
+    <points label="fish" source="manual" occluded="0" points="310.39,112.08" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="snoek36.png" width="625" height="261">
+    <points label="fish" source="manual" occluded="0" points="359.32,134.86" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="snoek37.png" width="636" height="305">
+    <points label="fish" source="manual" occluded="0" points="364.08,124.01" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="snoek38.png" width="620" height="266">
+    <points label="fish" source="manual" occluded="0" points="360.09,93.74" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="snoek39.png" width="442" height="186">
+    <points label="fish" source="manual" occluded="0" points="233.83,87.90" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="snoek4.png" width="223" height="432">
+    <points label="fish" source="manual" occluded="0" points="121.86,212.49" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="snoek40.png" width="633" height="231">
+    <points label="fish" source="manual" occluded="0" points="328.45,103.55" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="snoek41.png" width="603" height="327">
+    <points label="fish" source="manual" occluded="0" points="325.98,157.19" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="snoek42.png" width="589" height="276">
+    <points label="fish" source="manual" occluded="0" points="323.75,111.40" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="snoek43.png" width="245" height="412">
+    <points label="fish" source="manual" occluded="0" points="125.20,190.05" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="snoek44.png" width="558" height="256">
+    <points label="fish" source="manual" occluded="0" points="288.17,113.35" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="snoek45.png" width="555" height="679">
+    <points label="fish" source="manual" occluded="0" points="287.86,299.55" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="snoek46.png" width="612" height="257">
+    <points label="fish" source="manual" occluded="0" points="308.79,104.08" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="snoek47.png" width="518" height="264">
+    <points label="fish" source="manual" occluded="0" points="281.64,157.20" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="snoek48.png" width="618" height="346">
+    <points label="fish" source="manual" occluded="0" points="302.28,192.26" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="snoek49.png" width="594" height="410">
+    <points label="fish" source="manual" occluded="0" points="297.20,224.45" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="snoek5.png" width="566" height="272">
+    <points label="fish" source="manual" occluded="0" points="289.15,137.77" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="snoek6.png" width="621" height="306">
+    <points label="fish" source="manual" occluded="0" points="322.67,131.93" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="snoek7.png" width="624" height="228">
+    <points label="fish" source="manual" occluded="0" points="327.06,92.39" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="snoek8.png" width="634" height="299">
+    <points label="fish" source="manual" occluded="0" points="321.64,132.19" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="snoek9.png" width="622" height="301">
+    <points label="fish" source="manual" occluded="0" points="299.45,140.92" z_order="0">
+    </points>
+  </image>
+</annotations>

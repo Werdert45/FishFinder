@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>25</id>
+      <name>bot</name>
+      <size>49</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-01 10:11:24.923009+00:00</created>
+      <updated>2024-07-01 10:12:30.977388+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>48</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>25</id>
+          <start>0</start>
+          <stop>48</stop>
+          <url>http://localhost:8080/api/jobs/25</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ianronk</username>
+        <email>ianronk0@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-07-01 12:25:51.668822+00:00</dumped>
+  </meta>
+  <image id="0" name="bot1.png" width="611" height="415">
+    <points label="fish" source="manual" occluded="0" points="249.69,188.07" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="bot10.png" width="502" height="251">
+    <points label="fish" source="manual" occluded="0" points="222.19,106.19" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="bot11.png" width="410" height="655">
+    <points label="fish" source="manual" occluded="0" points="207.12,311.08" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="bot12.png" width="232" height="323">
+    <points label="fish" source="manual" occluded="0" points="135.72,140.75" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="bot13.png" width="539" height="319">
+    <points label="fish" source="manual" occluded="0" points="282.88,165.16" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="bot14.png" width="472" height="261">
+    <points label="fish" source="manual" occluded="0" points="223.79,120.60" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="bot15.png" width="527" height="294">
+    <points label="fish" source="manual" occluded="0" points="219.43,144.60" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="bot16.png" width="590" height="356">
+    <points label="fish" source="manual" occluded="0" points="264.88,159.22" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="bot17.png" width="410" height="265">
+    <points label="fish" source="manual" occluded="0" points="215.98,120.95" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="bot18.png" width="389" height="240">
+    <points label="fish" source="manual" occluded="0" points="201.98,111.96" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="bot19.png" width="566" height="250">
+    <points label="fish" source="manual" occluded="0" points="292.52,115.71" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="bot2.png" width="553" height="597">
+    <points label="fish" source="manual" occluded="0" points="289.16,266.65" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="bot20.png" width="624" height="291">
+    <points label="fish" source="manual" occluded="0" points="345.62,151.60" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="bot21.png" width="220" height="160">
+    <points label="fish" source="manual" occluded="0" points="123.59,82.53" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="bot22.png" width="486" height="272">
+    <points label="fish" source="manual" occluded="0" points="264.76,119.85" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="bot23.png" width="533" height="699">
+    <points label="fish" source="manual" occluded="0" points="278.29,371.56" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="bot24.png" width="567" height="716">
+    <points label="fish" source="manual" occluded="0" points="294.02,323.26" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="bot25.png" width="385" height="769">
+    <points label="fish" source="manual" occluded="0" points="202.97,347.64" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="bot26.png" width="206" height="336">
+    <points label="fish" source="manual" occluded="0" points="107.75,152.07" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="bot27.png" width="637" height="345">
+    <points label="fish" source="manual" occluded="0" points="324.54,153.32" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="bot28.png" width="545" height="309">
+    <points label="fish" source="manual" occluded="0" points="277.63,138.08" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="bot29.png" width="355" height="590">
+    <points label="fish" source="manual" occluded="0" points="189.36,267.70" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="bot3.png" width="206" height="247">
+    <points label="fish" source="manual" occluded="0" points="109.99,120.00" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="bot30.png" width="621" height="350">
+    <points label="fish" source="manual" occluded="0" points="278.12,191.29" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="bot31.png" width="476" height="351">
+    <points label="fish" source="manual" occluded="0" points="242.59,179.31" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="bot32.png" width="444" height="677">
+    <points label="fish" source="manual" occluded="0" points="248.54,292.05" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="bot33.png" width="416" height="591">
+    <points label="fish" source="manual" occluded="0" points="221.50,269.14" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="bot34.png" width="503" height="428">
+    <points label="fish" source="manual" occluded="0" points="261.53,195.10" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="bot35.png" width="300" height="508">
+    <points label="fish" source="manual" occluded="0" points="162.16,231.61" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="bot36.png" width="554" height="352">
+    <points label="fish" source="manual" occluded="0" points="285.51,160.29" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="bot37.png" width="600" height="374">
+    <points label="fish" source="manual" occluded="0" points="309.23,170.00" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="bot38.png" width="341" height="471">
+    <points label="fish" source="manual" occluded="0" points="182.07,214.95" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="bot39.png" width="246" height="261">
+    <points label="fish" source="manual" occluded="0" points="129.54,119.13" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="bot4.png" width="281" height="235">
+    <points label="fish" source="manual" occluded="0" points="146.53,107.26" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="bot40.png" width="612" height="442">
+    <points label="fish" source="manual" occluded="0" points="317.57,201.97" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="bot41.png" width="356" height="486">
+    <points label="fish" source="manual" occluded="0" points="190.68,222.08" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="bot42.png" width="598" height="304">
+    <points label="fish" source="manual" occluded="0" points="309.02,135.48" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="bot43.png" width="627" height="467">
+    <points label="fish" source="manual" occluded="0" points="325.98,213.66" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="bot44.png" width="617" height="408">
+    <points label="fish" source="manual" occluded="0" points="319.38,186.89" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="bot45.png" width="222" height="359">
+    <points label="fish" source="manual" occluded="0" points="120.76,164.64" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="bot46.png" width="499" height="338">
+    <points label="fish" source="manual" occluded="0" points="258.88,155.19" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="bot47.png" width="549" height="372">
+    <points label="fish" source="manual" occluded="0" points="284.82,170.79" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="bot48.png" width="609" height="336">
+    <points label="fish" source="manual" occluded="0" points="315.39,152.04" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="bot49.png" width="620" height="379">
+    <points label="fish" source="manual" occluded="0" points="321.26,173.44" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="bot5.png" width="431" height="728">
+    <points label="fish" source="manual" occluded="0" points="236.53,335.03" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="bot6.png" width="618" height="398">
+    <points label="fish" source="manual" occluded="0" points="320.72,183.20" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="bot7.png" width="576" height="410">
+    <points label="fish" source="manual" occluded="0" points="300.06,188.72" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="bot8.png" width="559" height="341">
+    <points label="fish" source="manual" occluded="0" points="290.24,156.41" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="bot9.png" width="494" height="773">
+    <points label="fish" source="manual" occluded="0" points="270.61,356.16" z_order="0">
+    </points>
+  </image>
+</annotations>
