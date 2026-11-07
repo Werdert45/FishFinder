@@ -3,7 +3,7 @@
 ## Introduction
 A project that tries to yield good classification results with little data available using a pipeline of different models to improve.
 
-> Objective: For 65 classes with 50 images, try to make the best possible predictor, using MoE like model structure, data augmentation, background removal and other tools
+> Objective: For 63 classes with 50 images, try to make the best possible predictor, using MoE like model structure, data augmentation, background removal and other tools
 
 This project is a continuation on an attempt three years ago to make a Pokemon-like game, based on sweet water fish from West Europe. The final metrics are the 
 - Highest Probability Prediction 
@@ -28,4 +28,4 @@ The results of the different models used and their impact on the predictive powe
 
 
 ## Contributors
-Current Project is maintained by Ian Ronk, available on ianronk0@gmail.com
+Current Project is maintained by Ian Ronk, available on ian@ronk.org
